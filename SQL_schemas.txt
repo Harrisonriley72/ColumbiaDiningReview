@@ -1,0 +1,65 @@
+CREATE TABLE DiningHalls
+(hallname VARCHAR(30),
+PRIMARY KEY (hallname));
+
+CREATE TABLE FoodItems
+(foodname VARCHAR(60),
+hallname_servedat VARCHAR(30),
+PRIMARY KEY (foodname, hallname_servedat),
+FOREIGN KEY (hallname_servedat) REFERENCES DiningHalls(hallname) ON DELETE CASCADE);
+
+CREATE TABLE ColumbiaStudents
+(email VARCHAR(254),
+fname VARCHAR(50),
+lname VARCHAR(50),
+password VARCHAR(300),
+fav_foodname VARCHAR(60),
+fav_foodhallname VARCHAR(30),
+PRIMARY KEY(email),
+FOREIGN KEY (fav_foodname, fav_foodhallname) REFERENCES FoodItems(foodname, hallname_servedat) ON DELETE SET NULL);
+
+CREATE TABLE ReviewMake
+(email VARCHAR(254),
+rating INTEGER CHECK(rating>0 AND rating<6),
+hallname VARCHAR(30),
+comment text,
+time TIMESTAMP,
+like_number INTEGER DEFAULT 0 CHECK(like_number>=0),   
+PRIMARY KEY(time, email, hallname),
+FOREIGN KEY (hallname) REFERENCES DiningHalls ON DELETE CASCADE,
+FOREIGN KEY(email) REFERENCES ColumbiaStudents ON DELETE CASCADE);
+
+CREATE TABLE HasLike
+(liker_email VARCHAR(254),
+liked_email VARCHAR(254),
+time TIMESTAMP,
+hallname VARCHAR(30),
+PRIMARY KEY (liker_email, liked_email, time, hallname),
+FOREIGN KEY(liker_email) REFERENCES ColumbiaStudents(email) ON DELETE CASCADE,
+FOREIGN KEY(liked_email, time, hallname) REFERENCES ReviewMake(email, time, hallname));
+
+CREATE TABLE RateFoodItem
+(email CHAR(254),
+time TIMESTAMP,
+foodname VARCHAR(60),
+hallname_servedat VARCHAR(60),
+rating INTEGER CHECK(rating>0 AND rating<6),
+PRIMARY KEY(email, time, foodname, hallname_servedat),
+FOREIGN KEY (foodname, hallname_servedat) REFERENCES FoodItems(foodname, hallname_servedat) ON DELETE CASCADE,
+FOREIGN KEY(email) REFERENCES ColumbiaStudents(email) ON DELETE CASCADE);
+
+CREATE VIEW CurrentRateFoodItem AS
+(SELECT R.email, R.time, R.foodname, R.hallname_servedat, R.rating
+FROM RateFoodItem R, CurrentDate C
+WHERE R.time>C.begin_time);
+
+CREATE TABLE CurrentMeals
+(foodname VARCHAR(60),
+hallname_servedat VARCHAR(30),
+PRIMARY KEY (foodname, hallname_servedat),
+FOREIGN KEY (foodname, hallname_servedat) REFERENCES FoodItems(foodname, hallname_servedat) ON DELETE CASCADE);
+
+CREATE TABLE CurrentDate
+(today DATE,
+begin_time TIMESTAMP,
+PRIMARY KEY (today));
