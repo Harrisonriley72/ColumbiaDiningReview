@@ -1,0 +1,65 @@
+{% extends "base.html" %}
+
+{% block header %}
+  <h1>{% block title %} {{ user.fname }} {{user.lname}} {% endblock %}</h1>
+{% endblock %}
+
+{% block content %}
+<div class="text-dark hall-page-text">
+<div class="container">
+	<div class="row">
+		<div class="col-sm-4">
+			<p><span class="fw-bold">Favorite Food:</span> {% if user.fav_foodnmae %} {{user.fav_foodname}} from {{user.fav_foodhallname}}
+			{% else %}N/A{% endif %}</p>
+		</div>
+
+		<div class="col-sm-8">
+			<p><span class="fw-bold">Number of reviews made:</span> {{num_reviews}}</p>
+			<p><span class="fw-bold">Average review rating:</span> {{avg_rating}}</p>
+
+			<form method="POST" action="{{ url_for('reviews.update_order_profile', email=email) }}">
+				<div class="btn-group btn-group-toggle" data-toggle="buttons">
+				  <label class="btn btn-secondary {{isactive1[0]}}">
+				    <input type="radio" name="options" id="option1" autocomplete="off" {{isactive1[1]}} value="newest"> Newest
+				  </label>
+				  <label class="btn btn-secondary {{isactive2[0]}}">
+				    <input type="radio" name="options" id="option2" autocomplete="off" {{isactive2[1]}} value="popular"> Most Popular
+				  </label>
+				</div>
+				<button type="submit">Update</button>
+			</form>			
+
+			<p><span class="fw-bold">Recent reviews:</span></p>
+    	{% for review in reviews %}
+				<div class="card my-2">
+				  <div class="card-header">
+				  	<span class="fw-bold">Review of {{review.hallname}}</span>
+				  	<span class="text-right">{{review.time}}</span>
+				  </div>
+				  <div class="card-body">
+				  	<div class="row">
+				  		<div class="col-sm-5"> 
+						  	<p class="fw-bold">Rating: {{review.rating}}<p>
+						  	<div class="mt-3">
+						    <span class="fw-bold">{{review.like_number}} Likes</span>
+						    <a href="{{ url_for('reviews.increment', email=email, time=review.time, hallname=review.hallname, order_indic='0'+isactive1[0], from_page='profile') }}" class="btn btn-secondary mx-3">
+						    	{% if review.liker_email %}un{% endif %}like
+						    </a>
+						    </div>			  		
+					  	</div>
+
+					  	<div class="col-sm"> 
+						    <p class="card-text">{{review.comment}}</p>
+						</div>
+				    </div>
+				  </div>
+				</div>
+			{% endfor %}
+		</div>
+	</div>
+
+</div>
+
+</div>
+
+{% endblock %}
