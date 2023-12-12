@@ -3,7 +3,7 @@ CREATE TABLE DiningHalls
 PRIMARY KEY (hallname));
 
 CREATE TABLE FoodItems
-(foodname VARCHAR(60),
+(foodname VARCHAR(300),
 hallname_servedat VARCHAR(30),
 PRIMARY KEY (foodname, hallname_servedat),
 FOREIGN KEY (hallname_servedat) REFERENCES DiningHalls(hallname) ON DELETE CASCADE);
@@ -13,7 +13,7 @@ CREATE TABLE ColumbiaStudents
 fname VARCHAR(50),
 lname VARCHAR(50),
 password VARCHAR(300),
-fav_foodname VARCHAR(60),
+fav_foodname VARCHAR(300),
 fav_foodhallname VARCHAR(30),
 PRIMARY KEY(email),
 FOREIGN KEY (fav_foodname, fav_foodhallname) REFERENCES FoodItems(foodname, hallname_servedat) ON DELETE SET NULL);
@@ -41,8 +41,8 @@ FOREIGN KEY(liked_email, time, hallname) REFERENCES ReviewMake(email, time, hall
 CREATE TABLE RateFoodItem
 (email CHAR(254),
 time TIMESTAMP,
-foodname VARCHAR(60),
-hallname_servedat VARCHAR(60),
+foodname VARCHAR(300),
+hallname_servedat VARCHAR(30),
 rating INTEGER CHECK(rating>0 AND rating<6),
 PRIMARY KEY(email, time, foodname, hallname_servedat),
 FOREIGN KEY (foodname, hallname_servedat) REFERENCES FoodItems(foodname, hallname_servedat) ON DELETE CASCADE,
@@ -54,7 +54,7 @@ FROM RateFoodItem R, CurrentDate C
 WHERE R.time>C.begin_time);
 
 CREATE TABLE CurrentMeals
-(foodname VARCHAR(60),
+(foodname VARCHAR(300),
 hallname_servedat VARCHAR(30),
 PRIMARY KEY (foodname, hallname_servedat),
 FOREIGN KEY (foodname, hallname_servedat) REFERENCES FoodItems(foodname, hallname_servedat) ON DELETE CASCADE);
