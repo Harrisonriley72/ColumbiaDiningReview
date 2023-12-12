@@ -20,7 +20,7 @@
 			 	{% if g.user %}
 			 	<span>
 			 		<form method="POST" action="{{ url_for('reviews.rate_fooditem', foodname=foodrate.foodname, hallname_servedat=hallname, order_indic='0'+isactive1[0], from_page='hallpage') }}">
-						<label for="rate">My Rating (between 1 and 5):</label>
+						<label for="rate">My Rating (1&ndash;5):</label>
 						<input type="number" id="rate" name="rating" min="1" max="5" value="{{user_ratings_dict[foodrate.foodname]}}">
 						<input type="submit">
 			 		</form>

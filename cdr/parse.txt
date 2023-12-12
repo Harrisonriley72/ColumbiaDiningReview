@@ -9,14 +9,14 @@
 <meta name="HandheldFriendly" content="true" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
 <link rel="shortcut icon" href="/themes/custom/columbia/favicon-crown.png" type="image/png" />
-<link rel="canonical" href="https://dining.columbia.edu/content/robert-f-smith-dining-hall-0" />
-<link rel="shortlink" href="https://dining.columbia.edu/node/7453" />
-<link rel="revision" href="https://dining.columbia.edu/content/robert-f-smith-dining-hall-0" />
+<link rel="canonical" href="https://dining.columbia.edu/content/fac-shack" />
+<link rel="shortlink" href="https://dining.columbia.edu/node/7486" />
+<link rel="revision" href="https://dining.columbia.edu/content/fac-shack" />
 
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>Robert F. Smith Dining Hall  | Columbia Dining</title>
+    <title>The Fac Shack | Columbia Dining</title>
 
     <script src="https://use.typekit.net/rke7urc.js"></script>
     <script>try{Typekit.load({ async: false });}catch(e){}</script>
@@ -27,12 +27,12 @@
 <link rel="stylesheet" media="all" href="/sites/default/files/css/css_lk8TEVOCBL2CiYQ8GfRP0v8uyQbOcxWoEb-ZnSQsouc.css" />
 
 
-    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/7453","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"google_analytics":{"account":"UA-28283087-1","trackOutbound":true,"trackMailto":true,"trackTel":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"search_network":"default","bootstrap":{"forms_has_error_value_toggle":1,"popover_enabled":1,"popover_animation":1,"popover_auto_close":1,"popover_container":"body","popover_content":"","popover_delay":"0","popover_html":0,"popover_placement":"right","popover_selector":"","popover_title":"","popover_trigger":"click","tooltip_enabled":1,"tooltip_animation":1,"tooltip_container":"body","tooltip_delay":"0","tooltip_html":0,"tooltip_placement":"auto left","tooltip_selector":"","tooltip_trigger":"hover"},"page_type":"cu_landing_page","cu_alert":{"master":"preparedness.columbia.edu"},"user":{"uid":0,"permissionsHash":"83df1d1b2dadb7da508fd0b0627eacf9523c39162d7fd7801d9ddf37de7b38ed"}}</script>
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/7486","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"google_analytics":{"account":"UA-28283087-1","trackOutbound":true,"trackMailto":true,"trackTel":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"search_network":"default","bootstrap":{"forms_has_error_value_toggle":1,"popover_enabled":1,"popover_animation":1,"popover_auto_close":1,"popover_container":"body","popover_content":"","popover_delay":"0","popover_html":0,"popover_placement":"right","popover_selector":"","popover_title":"","popover_trigger":"click","tooltip_enabled":1,"tooltip_animation":1,"tooltip_container":"body","tooltip_delay":"0","tooltip_html":0,"tooltip_placement":"auto left","tooltip_selector":"","tooltip_trigger":"hover"},"page_type":"cu_landing_page","cu_alert":{"master":"preparedness.columbia.edu"},"user":{"uid":0,"permissionsHash":"83df1d1b2dadb7da508fd0b0627eacf9523c39162d7fd7801d9ddf37de7b38ed"}}</script>
 
 <!--[if lte IE 8]>
 <script src="/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
 <![endif]-->
-<script src="/sites/default/files/js/js_1sx_wXq16JEdMN_-tydJp1Kkmvpa3V97PNs9498rkc4.js"></script>
+<script src="/sites/default/files/js/js_4r5VT-6TcW0N4TZG50JxxTi6jAH-V0Kfv7gCSemygMA.js"></script>
 
   </head>
   <body class="cu-profile-admin node-cu_landing_page path-node page-node-type-cu-landing-page has-glyphicons" data-ng-class="[global.controller, search.widgetOpen ? 'search-open' : '', (global.controller == 'search' && gcse.status) ? 'search-ready' : '', nav.mobileOpen ? 'mobile-nav-open' : '', page.overlayShown ? 'overlay-shown' : '', gsa.classes]" data-breakpoint="{ 0:'mobile', 767:'break768', 991:'break992' }" data-ng-controller="global">
@@ -278,11 +278,11 @@
                 <li class="menu-item">
                   <a href="/content/grace-dodge-dining-hall-0" data-drupal-link-system-path="node/7451">Grace Dodge Dining Hall</a>
                       </li>
-                <li class="menu-item menu-item--active-trail">
-                  <a href="/content/robert-f-smith-dining-hall-0" data-drupal-link-system-path="node/7453" class="is-active">Robert F. Smith Dining Hall</a>
-                      </li>
                 <li class="menu-item">
-                  <a href="/content/fac-shack" data-drupal-link-system-path="node/7486">The Fac Shack</a>
+                  <a href="/content/robert-f-smith-dining-hall-0" data-drupal-link-system-path="node/7453">Robert F. Smith Dining Hall</a>
+                      </li>
+                <li class="menu-item menu-item--active-trail">
+                  <a href="/content/fac-shack" data-drupal-link-system-path="node/7486" class="is-active">The Fac Shack</a>
                       </li>
         </ul>
   
@@ -466,7 +466,7 @@
                       <span>Dining Halls</span>
                   </li>
                               <li  class="active">
-                      <span>Robert F. Smith Dining Hall </span>
+                      <span>The Fac Shack</span>
                   </li>
                   </ol>
   </div>
@@ -474,11 +474,11 @@
 
   
 <div id="main-block" class="container conditional-container">
-  <article role="article" about="/content/robert-f-smith-dining-hall-0" class="cu-landing-page full clearfix">
+  <article role="article" about="/content/fac-shack" class="cu-landing-page full clearfix">
 
   
           <h1 class="sr-only container">
-    <div class="container">Robert F. Smith Dining Hall </div>
+    <div class="container">The Fac Shack</div>
     </h1>
     
 
@@ -489,11 +489,11 @@
   <div class="paragraph paragraph--type--cu-paragraph-hero paragraph--view-mode--default with-image">
     <div class="banner-image-and-text">
                 <div class="banner-image">
-              <div class="stellar-relative" ><div id="single_image-34965" class="paragraph paragraph--type--single-image paragraph--view-mode--default anchored">
+              <div class="stellar-relative" ><div id="single_image-35282" class="paragraph paragraph--type--single-image paragraph--view-mode--default anchored">
     
       
-  <figure class="field field--name-field-cu-image field--type-image field--label-hidden image-wrapper cap-bot image-with-modal" id="robert-f-smith-dining-hall-with-employees-preparing-for-service-34965">
-              <img src="/sites/default/files/styles/cu_crop/public/content/HeroImages/RobertSmithHero.jpg?h=8e1e6bb8&amp;itok=umTF57XN" width="1920" height="700" alt="Robert F. Smith Dining Hall with employees preparing for service" typeof="foaf:Image" class="img-responsive" />
+  <figure class="field field--name-field-cu-image field--type-image field--label-hidden image-wrapper cap-bot image-with-modal" id="students-line-up-outside-the-fac-shack-food-truck-on-wein-courtyard-35282">
+              <img src="/sites/default/files/styles/cu_crop/public/content/Fac%20Shack/fac%20shack.jpg?itok=6B08jf3B" width="1920" height="905" alt="Students line up outside the Fac Shack Food Truck on Wein Courtyard" typeof="foaf:Image" class="img-responsive" />
 
 
 
@@ -506,16 +506,12 @@
             <div class="container">
                             <div class="banner-text-and-title">
                                 <h2>
-            <div class="accordion field field--name-field-cu-title field--type-string field--label-hidden field--item">Robert F. Smith Dining Hall: the go-to eatery in Manhattanville</div>
+            <div class="accordion field field--name-field-cu-title field--type-string field--label-hidden field--item">The Fac Shack: On-the-go gourmet served out of a food truck. Powered by Faculty House.</div>
       </h2>
                                 
               </div>
               
               
-<div class="field field--name-field-cu-links field--type-link field--label-hidden field--items cu-links">
-  <a href="/content/robert-f-smith-dining-hall-gallery" class="btn btn-lg btn-primary" role="button">View Photo Gallery</a>
-</div>
-
             </div>
         </div>
             </div>
@@ -526,114 +522,19 @@
     </div>
 </div>
 
-  
-<div id="cu_img_card_carousel-34970" class="paragraph paragraph--type--cu-img-card-carousel paragraph--view-mode--default anchored">
-    
-            <div class="field field--name-field-cu-img-cards-carousel-cont field--type-entity-reference-revisions field--label-hidden field--item"><div id="cu_card_group_media-34969" class="paragraph paragraph--type--cu-card-group-media paragraph--view-mode--default row anchored">
-    
-  <h2 class="field field--name-field-cu-card-group-label field--type-string field--label-hidden field--item">Meet Our Managers</h2>
-
-    
-    
-
-
-
-
-
-
-<div class="field field--name-field-cu-cards field--type-entity-reference-revisions field--label-hidden field--items clearfix"><div class="card-inner" data-flickity="{ &quot;groupCells&quot;: true, &quot;wrapAround&quot;: false, &quot;pageDots&quot;: false, &quot;imagesLoaded&quot;: true }">
-      <div class="field--item media-style-0 media-item col-xs-6 col-sm-3 col-md-3 col-lg-2">
-<div id="cu_media_card-34968" class="paragraph paragraph--type--cu-media-card paragraph--view-mode--default anchored">
-  
-  
-                        <a class="card-link" href="/people/elhoucine-baha" aria-labelledby="cu_media_card-34968-title" aria-describedby="cu_media_card-34968-text">
-                <span>
-
-                        <div class="field field--name-field-cu-image field--type-image field--label-hidden field--item">
-                <div class="image-wrapper">
-                    <img src="/sites/default/files/styles/cu_crop/public/content/img/Bio%20Photos/ChefBaja_IC.jpg?itok=b97SLo7Z" width="1920" height="1280" alt="Photograph of Chef Baja in front of food service bar in the dining hall" title="Chef Elhoucine Baha" typeof="foaf:Image" class="img-responsive" />
-
-
-
-                </div>
-
-                                    <div class="container">
-                        <div class="image-caption">Chef Elhoucine Baha</div>
-                    </div>
-                            </div>
-            </span>
-      <div class="meta">
-              <div id="cu_media_card-34968-title">
-          
-  <div class="field field--name-field-cu-card-title field--type-string field--label-hidden field--item"><span>Chef Baha</span></div>
-
-        </div>
-            </div>
-          </a>
-    
-        <div id="cu_media_card-34968-text">
-      
-    </div>
-    
-  
-</div>
-</div>
-      <div class="field--item media-style-0 media-item col-xs-6 col-sm-3 col-md-3 col-lg-2">
-<div id="cu_media_card-34971" class="paragraph paragraph--type--cu-media-card paragraph--view-mode--default anchored">
-  
-  
-                        <a class="card-link" href="/people/hazel-clark" aria-labelledby="cu_media_card-34971-title" aria-describedby="cu_media_card-34971-text">
-                <span>
-
-                        <div class="field field--name-field-cu-image field--type-image field--label-hidden field--item">
-                <div class="image-wrapper">
-                    <img src="/sites/default/files/styles/cu_crop/public/content/img/Bio%20Photos/Hazel_IC.jpg?itok=D_1RlWPD" width="1920" height="1280" alt="Photograph of Hazel in the dining hall in front of the salad bar" title="Hazel Clark" typeof="foaf:Image" class="img-responsive" />
-
-
-
-                </div>
-
-                                    <div class="container">
-                        <div class="image-caption">Hazel Clark</div>
-                    </div>
-                            </div>
-            </span>
-      <div class="meta">
-              <div id="cu_media_card-34971-title">
-          
-  <div class="field field--name-field-cu-card-title field--type-string field--label-hidden field--item"><span>Hazel Clark</span></div>
-
-        </div>
-            </div>
-          </a>
-    
-        <div id="cu_media_card-34971-text">
-      
-    </div>
-    
-  
-</div>
-</div>
-  </div></div>
-
-</div>
-</div>
-      
-</div>
-
   <script>
-	var defaultLocation = 7452;
+	var defaultLocation = 7487;
 	var timezoneOffset = -18000;
-	var nodeJsonTime = 1700505707;
+	var nodeJsonTime = 1702310168;
 	var termJsonTime = 1693919013;
 	var mealsGoLive = `1`;
 	var gmapApiKey = `AIzaSyBrj76-A_UgX04jPkpY381CO0lc4Zz_ZZ4`;
-	var dining_nodes = `{\"locations\":[{\"nid\":\"7482\",\"type\":\"cu_dining_location\",\"title\":\"Blue Java at Everett Library Caf\\u00e9 \",\"address\":\"<p>525 W 120th St, New York, NY 10027<\\/p>\",\"description\":\"<p>Located in Teachers College, Blue Java at Everett Library Caf\\u00e9 features a variety of Brooklyn Roasting Company coffees, teas, sandwiches, soups, and pastries, in addition to specialty items such as Nitro Brew and products from our local partners in Harlem.<\\/p>\\n\\n<p><strong><em>Menus are subject to change. For the most accurate allergen information, refer to the printed in-unit menus.<\\/em><\\/strong><\\/p>\",\"display_crowd\":\"0\",\"crowd_id\":\"\",\"crowd_info\":\"\",\"crowd_max\":\"\",\"image\":\"\",\"latitude\":\"40.8114\",\"longitude\":\"-73.9601\",\"open_hours\":[\"35647\",\"40561\"],\"path\":\"\\/content\\/blue-java-everett-library-cafe\",\"open_hours_fields\":[{\"date_from\":\"2023-09-05T04:00:00\",\"date_to\":\"2023-12-23T04:59:59\",\"days\":[{\"days_friday\":[{\"hours_from\":\"830\",\"hours_to\":\"1400\"}],\"days_monday\":[{\"hours_from\":\"830\",\"hours_to\":\"1930\"}],\"days_thursday\":[{\"hours_from\":\"830\",\"hours_to\":\"1930\"}],\"days_tuesday\":[{\"hours_from\":\"830\",\"hours_to\":\"1930\"}],\"days_wednesday\":[{\"hours_from\":\"830\",\"hours_to\":\"1930\"}]}],\"displayed_hours\":[{\"title\":\"Open Monday - Thursday, 8:30 a.m. - 7:30 p.m.\"},{\"title\":\"Open Friday, 8:30 a.m. - 2 p.m.\"}],\"excluded\":[\"2023-11-21\",\"2023-11-22\",\"2023-11-23\",\"2023-11-24\"]},{\"date_from\":\"2023-11-21T05:00:00\",\"date_to\":\"2023-11-27T04:59:00\",\"days\":[{\"days_tuesday\":[{\"hours_from\":\"800\",\"hours_to\":\"1500\"}]}],\"displayed_hours\":[{\"title\":\"Adjusted Hours for Thanksgiving Break\"}]}]},{\"nid\":\"56\",\"type\":\"cu_dining_location\",\"title\":\"Blue Java Caf\\u00e9 - Butler Library\",\"address\":\"<p>535 W 114th St, New York, NY 10027<\\/p>\",\"description\":\"<p>Four convenient locations on campus offering fresh, fair trade, and organic coffee, along with a host of gourmet pastries, sandwiches, salads, and desserts. This location is on the ground floor of Butler Library.<\\/p>\\n\\n<p><strong><em>Menus are subject to change. For the most accurate allergen information, refer to the printed in-unit menus.<\\/em><\\/strong><\\/p>\",\"display_crowd\":\"0\",\"crowd_id\":\"\",\"crowd_info\":\"\",\"crowd_max\":\"\",\"image\":\"\",\"latitude\":\"40.8064\",\"longitude\":\"-73.9632\",\"open_hours\":[\"25127\",\"28418\",\"40558\"],\"path\":\"\\/content\\/blue-java-cafe-butler-library-0\",\"open_hours_fields\":[{\"date_from\":\"2023-09-05T04:00:00\",\"date_to\":\"2023-12-23T04:59:59\",\"days\":[{\"days_friday\":[{\"hours_from\":\"900\",\"hours_to\":\"2100\"}],\"days_monday\":[{\"hours_from\":\"800\",\"hours_to\":\"0\"}],\"days_saturday\":[{\"hours_from\":\"900\",\"hours_to\":\"2100\"}],\"days_sunday\":[{\"hours_from\":\"900\",\"hours_to\":\"2100\"}],\"days_thursday\":[{\"hours_from\":\"800\",\"hours_to\":\"0\"}],\"days_tuesday\":[{\"hours_from\":\"800\",\"hours_to\":\"0\"}],\"days_wednesday\":[{\"hours_from\":\"800\",\"hours_to\":\"0\"}]}],\"displayed_hours\":[{\"title\":\"Open Monday \\u2013 Thursday, 8:00 a.m. \\u2013 12:00 a.m.\"},{\"title\":\"Open Friday \\u2013 Sunday, 9:00 a.m. \\u2013 9:00 p.m.\"}],\"excluded\":[\"2023-05-04\",\"2023-11-22\",\"2023-11-23\",\"2023-11-24\",\"2023-11-25\",\"2023-11-26\"]},{\"date_from\":\"2023-05-15T04:00:00\",\"date_to\":\"2023-09-02T03:59:00\",\"days\":[{\"days_friday\":[{\"hours_from\":\"800\",\"hours_to\":\"1400\"}],\"days_monday\":[{\"hours_from\":\"800\",\"hours_to\":\"1400\"}],\"days_thursday\":[{\"hours_from\":\"800\",\"hours_to\":\"1400\"}],\"days_tuesday\":[{\"hours_from\":\"800\",\"hours_to\":\"1400\"}],\"days_wednesday\":[{\"hours_from\":\"0\",\"hours_to\":\"0\"}]}],\"displayed_hours\":[{\"title\":\"Open Monday - Friday, 8:00 a.m. - 2:00 p.m. during Summer Break\"}],\"excluded\":[\"0023-05-29\"]},{\"date_from\":\"2023-11-22T05:00:00\",\"date_to\":\"2023-11-27T04:59:00\",\"days\":[{\"days_monday\":[{\"hours_from\":\"800\",\"hours_to\":\"1500\"}],\"days_tuesday\":[{\"hours_from\":\"800\",\"hours_to\":\"1500\"}],\"days_wednesday\":[{\"hours_from\":\"800\",\"hours_to\":\"1500\"}]}],\"displayed_hours\":[{\"title\":\"Adjusted Hours for Thanksgiving Break\"}]}]},{\"nid\":\"57\",\"type\":\"cu_dining_location\",\"title\":\"Blue Java Caf\\u00e9 - Mudd Hall\",\"address\":\"<p>500 W 120th St, New York, NY 10027<\\/p>\",\"description\":\"<p>Four convenient locations on campus offering fresh, fair trade, and organic coffee, along with a host of gourmet pastries, sandwiches, salads, and desserts.\\u00a0Located on the first floor of the Engineering School\'s Mudd building.<\\/p>\\n\\n<p><strong><em>Menus are subject to change. For the most accurate allergen information, refer to the printed in-unit menus.<\\/em><\\/strong><\\/p>\",\"display_crowd\":\"0\",\"crowd_id\":\"\",\"crowd_info\":\"\",\"crowd_max\":\"\",\"image\":\"\",\"latitude\":\"40.8095\",\"longitude\":\"-73.96\",\"open_hours\":[\"25096\",\"26745\"],\"path\":\"\\/content\\/blue-java-cafe-mudd-hall-0\",\"open_hours_fields\":[{\"date_from\":\"2023-09-05T04:00:00\",\"date_to\":\"2023-12-23T04:00:00\",\"days\":[{\"days_friday\":[{\"hours_from\":\"800\",\"hours_to\":\"1030\"}],\"days_monday\":[{\"hours_from\":\"800\",\"hours_to\":\"1030\"}],\"days_thursday\":[{\"hours_from\":\"800\",\"hours_to\":\"1030\"}],\"days_tuesday\":[{\"hours_from\":\"800\",\"hours_to\":\"1030\"}],\"days_wednesday\":[{\"hours_from\":\"800\",\"hours_to\":\"1030\"}]}],\"displayed_hours\":[{\"title\":\"Monday \\u2013 Friday: 8 a.m. \\u2013 10:30 a.m.\"}],\"excluded\":[\"2023-11-22\",\"2023-11-23\",\"2023-11-24\"]},{\"date_from\":\"2023-11-22T16:00:01\",\"date_to\":\"2023-11-25T04:59:00\",\"days\":[[]],\"displayed_hours\":[{\"title\":\"Closed for Thanksgiving Break\"}]}]},{\"nid\":\"60\",\"type\":\"cu_dining_location\",\"title\":\"Blue Java Caf\\u00e9 - Uris\",\"address\":\"<p>3022 Broadway, New York, NY 10027<\\/p>\",\"description\":\"<p>Blue Java Caf\\u00e9 in Uris features a variety of Brooklyn Roasting Company coffees, teas, sandwiches, soups, and pastries, in addition to specialty items such as Nitro Brew and products from our local partners in Harlem.<\\/p>\\n\\n<p><strong><em>Menus are subject to change. For the most accurate allergen information, refer to the printed in-unit menus.<\\/em><\\/strong><\\/p>\",\"display_crowd\":\"0\",\"crowd_id\":\"1340\",\"crowd_info\":\"\",\"crowd_max\":\"200\",\"image\":\"\",\"latitude\":\"40.809\",\"longitude\":\"-73.9615\",\"open_hours\":[\"20628\",\"27226\"],\"path\":\"\\/content\\/blue-java-cafe-uris-hall\",\"open_hours_fields\":[{\"date_from\":\"2023-09-05T04:00:00\",\"date_to\":\"2023-12-23T04:59:59\",\"days\":[{\"days_friday\":[{\"hours_from\":\"800\",\"hours_to\":\"1730\"}],\"days_monday\":[{\"hours_from\":\"800\",\"hours_to\":\"1730\"}],\"days_thursday\":[{\"hours_from\":\"800\",\"hours_to\":\"1730\"}],\"days_tuesday\":[{\"hours_from\":\"800\",\"hours_to\":\"1730\"}],\"days_wednesday\":[{\"hours_from\":\"800\",\"hours_to\":\"1730\"}]}],\"displayed_hours\":[{\"title\":\"Monday - Friday: 8:00 a.m. - 5:30 p.m.\"}],\"excluded\":[\"2023-11-22\",\"2023-11-23\",\"2023-11-24\"]},{\"date_from\":\"2023-11-22T05:00:00\",\"date_to\":\"2023-11-24T04:59:00\",\"days\":[[]],\"displayed_hours\":[{\"title\":\"Closed for Thanksgiving Break\"}]}]},{\"nid\":\"6990\",\"type\":\"cu_dining_location\",\"title\":\"Chef Don&#039;s Pizza Pi\",\"address\":\"<p>500 W 120th St, New York, NY 10027<\\/p>\",\"description\":\"<p>Chef Don\'s Pizza Pi serves four personal pizza options daily made on the spot just for you. Plus sides!<\\/p>\\n\\n<p>Food service is continuous during operational hours, with specific meal items served at the following times:<\\/p>\\n\\n<ul><li><strong>Breakfast:<\\/strong>\\u00a08:00 a.m. - 10:30 a.m.<\\/li>\\n\\t<li><strong>Lunch\\/Dinner:\\u00a0<\\/strong>11:00 a.m. - 7:00 p.m<\\/li>\\n<\\/ul><p><strong>Coffee is available for purchase during all hours of operation.<\\/strong><\\/p>\\n\\n<p><em>Menus are subject to change. For the most accurate allergen information, refer to the printed in-unit menus.<\\/em><\\/p>\",\"display_crowd\":\"0\",\"crowd_id\":\"\",\"crowd_info\":\"\",\"crowd_max\":\"\",\"image\":\"\",\"latitude\":\"40.8095\",\"longitude\":\"-73.96\",\"open_hours\":[\"28443\",\"29022\",\"38400\"],\"path\":\"\\/content\\/chef-dons-pizza-pi\",\"open_hours_fields\":[{\"date_from\":\"2023-09-05T04:00:00\",\"date_to\":\"2023-12-23T04:59:59\",\"days\":[{\"days_friday\":[{\"hours_from\":\"800\",\"hours_to\":\"1030\"},{\"hours_from\":\"1100\",\"hours_to\":\"1900\"}],\"days_monday\":[{\"hours_from\":\"800\",\"hours_to\":\"1030\"},{\"hours_from\":\"1100\",\"hours_to\":\"1900\"}],\"days_thursday\":[{\"hours_from\":\"800\",\"hours_to\":\"1030\"},{\"hours_from\":\"1130\",\"hours_to\":\"1900\"}],\"days_tuesday\":[{\"hours_from\":\"800\",\"hours_to\":\"1030\"},{\"hours_from\":\"1100\",\"hours_to\":\"1900\"}],\"days_wednesday\":[{\"hours_from\":\"800\",\"hours_to\":\"1030\"},{\"hours_from\":\"1100\",\"hours_to\":\"1900\"}]}],\"displayed_hours\":[{\"title\":\"Monday \\u2013 Friday: 8:00 a.m. \\u2013 10:30 a.m., 11:00 a.m. \\u2013 7:00 p.m.\"}],\"excluded\":[\"2023-11-22\",\"2023-11-23\",\"2023-11-24\",\"2023-11-25\",\"2023-11-26\",\"2023-11-21\"]},{\"date_from\":\"2023-11-21T05:00:00\",\"date_to\":\"2023-11-27T04:59:59\",\"days\":[{\"days_monday\":[{\"hours_from\":\"800\",\"hours_to\":\"1030\"},{\"hours_from\":\"1100\",\"hours_to\":\"1700\"}],\"days_tuesday\":[{\"hours_from\":\"800\",\"hours_to\":\"1030\"},{\"hours_from\":\"1100\",\"hours_to\":\"1700\"}]}],\"displayed_hours\":[{\"title\":\"Adjusted Hours for Thanksgiving Break\"}]},{\"date_from\":\"2023-09-29T04:00:00\",\"date_to\":\"2023-09-30T03:59:00\",\"days\":[{\"days_friday\":[{\"hours_from\":\"800\",\"hours_to\":\"1100\"}]}],\"displayed_hours\":[{\"title\":\"Closing at 11 a.m. Due to Weather-Related Issues\"}]}]},{\"nid\":\"6907\",\"type\":\"cu_dining_location\",\"title\":\"Chef Mike&#039;s Sub Shop\",\"address\":\"<p>Uris Hall, main Level<\\/p>\",\"description\":\"<p>Custom sub sandwiches, just like Chef Mike\'s grandma used to make. Plus soup, chips, drink and dessert.<\\/p>\\n\\n<p><strong><em>Menus are subject to change. For the most accurate allergen information, refer to the printed in-unit menus.<\\/em><\\/strong><\\/p>\",\"display_crowd\":\"1\",\"crowd_id\":\"1339\",\"crowd_info\":\"\",\"crowd_max\":\"\",\"image\":\"\",\"latitude\":\"40.8098\",\"longitude\":\"-73.9613\",\"open_hours\":[\"28195\",\"38406\"],\"path\":\"\\/chef-mikes\",\"open_hours_fields\":[{\"date_from\":\"2023-09-05T04:00:00\",\"date_to\":\"2023-12-23T04:59:59\",\"days\":[{\"days_friday\":[{\"hours_from\":\"1030\",\"hours_to\":\"2200\"}],\"days_monday\":[{\"hours_from\":\"1030\",\"hours_to\":\"2200\"}],\"days_thursday\":[{\"hours_from\":\"1030\",\"hours_to\":\"2200\"}],\"days_tuesday\":[{\"hours_from\":\"1030\",\"hours_to\":\"2200\"}],\"days_wednesday\":[{\"hours_from\":\"1030\",\"hours_to\":\"2200\"}]}],\"displayed_hours\":[{\"title\":\"Open Monday - Friday, 10:30 a.m. - 10:00 p.m.\"}],\"excluded\":[\"2023-11-22\",\"2023-11-23\",\"2023-11-24\",\"2023-11-25\",\"2023-11-26\"]},{\"date_from\":\"2023-11-22T05:00:00\",\"date_to\":\"2023-11-27T04:59:00\",\"days\":[{\"days_wednesday\":[{\"hours_from\":\"1030\",\"hours_to\":\"1700\"}]}],\"displayed_hours\":[{\"title\":\"Adjusted Hours for Thanksgiving Break\"}]}]},{\"nid\":\"7351\",\"type\":\"cu_dining_location\",\"title\":\"Faculty House\",\"address\":\"<p>64 Morningside Drive<\\/p>\\n\\n<p>New York, NY 10027<\\/p>\",\"description\":\"<p>Known for its delightful lunch featuring globally inspired cuisine, Faculty House emphasizes regionally grown and locally sourced ingredients. Our daily lunch features a main dish, pasta, a\\u00a0vegan entr\\u00e9e,\\u00a0plus a starch, veggie, salad, fruit and dessert!<\\/p>\\n\\n<p>Lunch is one swipe. Dining Dollars and Flex Dollars are also accepted. Click each menu below for details.<\\/p>\\n\\n<p><strong><em>Menus are subject to change. For the most accurate allergen information, refer to the printed in-unit menus.<\\/em><\\/strong><\\/p>\",\"display_crowd\":\"0\",\"crowd_id\":\"\",\"crowd_info\":\"\",\"crowd_max\":\"\",\"image\":\"\",\"latitude\":\"40.8067\",\"longitude\":\"-73.9592\",\"open_hours\":[\"35606\",\"37186\"],\"path\":\"\\/content\\/faculty-house-0\",\"open_hours_fields\":[{\"date_from\":\"2023-09-05T04:00:00\",\"date_to\":\"2023-12-23T04:59:59\",\"days\":[{\"days_friday\":[{\"hours_from\":\"1100\",\"hours_to\":\"1430\"}],\"days_monday\":[{\"hours_from\":\"1100\",\"hours_to\":\"1430\"}],\"days_thursday\":[{\"hours_from\":\"1100\",\"hours_to\":\"1430\"}],\"days_tuesday\":[{\"hours_from\":\"1100\",\"hours_to\":\"1430\"}],\"days_wednesday\":[{\"hours_from\":\"1100\",\"hours_to\":\"1430\"}]}],\"displayed_hours\":[{\"title\":\"Open Monday - Friday, 11:00 a.m. - 2:30 p.m.\"}],\"excluded\":[\"2023-11-23\",\"2023-11-24\",\"2023-11-07\"]},{\"date_from\":\"2023-11-23T05:00:00\",\"date_to\":\"2023-11-25T04:59:59\",\"days\":[[]],\"displayed_hours\":[{\"title\":\"Closed for Thanksgiving Break\"}]}]},{\"nid\":\"12\",\"type\":\"cu_dining_location\",\"title\":\"Ferris Booth Commons\",\"address\":\"<p>Alfred Lerner Hall, 2920 Broadway, New York, NY 10027<\\/p>\",\"description\":\"<p>Breakfast including but not limited to eggs to order, Belgian waffles and\\u00a0yogurt until 2:00 PM, along with daily offerings of pasta, pizza, paninis, wraps and delectable desserts. Located on the 3rd floor of Alfred Lerner Hall.<\\/p>\\n\\n<p>Food service is continuous during operation, with specific meal items served during the following times:<\\/p>\\n\\n<ul><li>Breakfast: 7:30 a.m. - 11:00 a.m.<\\/li>\\n\\t<li>Lunch: 11:00 a.m. - 5:00 p.m.<\\/li>\\n\\t<li>Dinner: 5:00 p.m. - Closing<\\/li>\\n<\\/ul><p><strong>Vegan Station<\\/strong><\\/p>\\n\\n<ul><li>Lunch: 11:00 a.m. - 3:00 p.m.<\\/li>\\n\\t<li>Dinner: 5:00 p.m. - Closing<\\/li>\\n\\t<li><em>Closed from 3:00 p.m. to 5:00 p.m.<\\/em><\\/li>\\n<\\/ul><p><strong>Main Line:<\\/strong><\\/p>\\n\\n<ul><li>Brunch: Opening - 2:00 p.m.<\\/li>\\n\\t<li>Dinner: \\u00a05:00 p.m. - Closing<\\/li>\\n\\t<li><em>Closed from 2:00 p.m. to 5:00 p.m.<\\/em><\\/li>\\n<\\/ul><p><strong>Omelette<\\/strong>: Opening -11:00 a.m.<\\/p>\\n\\n<p><strong>Pasta:\\u00a0<\\/strong>11:30 a.m. - Closing<\\/p>\\n\\n<p><strong>Action Station:<\\/strong><\\/p>\\n\\n<ul><li>Lunch: 11:00 a.m. - 4:00 p.m.<\\/li>\\n\\t<li>Dinner: 5:00 p.m. - Closing<\\/li>\\n\\t<li><em>Closed from 4:00 p.m. to 5:00 p.m.<\\/em><\\/li>\\n<\\/ul><p><strong>Sandwiches, Desserts, Soups<\\/strong>: Opens at 11:00 a.m.<\\/p>\\n\\n<p><strong><em>Menus are subject to change. For the most accurate allergen information, refer to the printed in-unit menus.<\\/em><\\/strong><\\/p>\",\"display_crowd\":\"1\",\"crowd_id\":\"835\",\"crowd_info\":\"\",\"crowd_max\":\"264\",\"image\":\"\",\"latitude\":\"40.8069\",\"longitude\":\"-73.9637\",\"open_hours\":[\"25116\",\"28150\",\"38809\"],\"path\":\"\\/content\\/ferris-booth-commons-0\",\"open_hours_fields\":[{\"date_from\":\"2023-09-05T04:00:00\",\"date_to\":\"2023-12-23T03:59:59\",\"days\":[{\"days_friday\":[{\"hours_from\":\"730\",\"hours_to\":\"2000\"}],\"days_monday\":[{\"hours_from\":\"730\",\"hours_to\":\"2000\"}],\"days_saturday\":[{\"hours_from\":\"900\",\"hours_to\":\"2000\"}],\"days_sunday\":[{\"hours_from\":\"1000\",\"hours_to\":\"1400\"},{\"hours_from\":\"1600\",\"hours_to\":\"2000\"}],\"days_thursday\":[{\"hours_from\":\"730\",\"hours_to\":\"2000\"}],\"days_tuesday\":[{\"hours_from\":\"730\",\"hours_to\":\"2000\"}],\"days_wednesday\":[{\"hours_from\":\"730\",\"hours_to\":\"2000\"}]}],\"displayed_hours\":[{\"title\":\"Open Monday - Friday, 7:30 a.m. - 8:00 p.m.\"},{\"title\":\"Open Saturday, 9:00 a.m. - 8:00 p.m.\"},{\"title\":\"Open Sunday, 10:00 a.m. - 2:00 p.m., 4:00 - 8:00 p.m.\"}],\"excluded\":[\"2023-11-22\",\"2023-11-23\",\"2023-11-24\",\"2023-11-25\",\"2023-11-26\"]},{\"date_from\":\"2023-11-22T05:00:00\",\"date_to\":\"2023-11-27T04:59:59\",\"days\":[{\"days_wednesday\":[{\"hours_from\":\"730\",\"hours_to\":\"1400\"}]}],\"displayed_hours\":[{\"title\":\"Adjusted Hours for Thanksgiving Break\"}]},{\"date_from\":\"2023-10-13T04:00:00\",\"date_to\":\"2023-10-14T03:59:00\",\"days\":[{\"days_friday\":[{\"hours_from\":\"730\",\"hours_to\":\"1400\"}]}],\"displayed_hours\":[{\"title\":\"Closing at 2 p.m.\"}]}]},{\"nid\":\"7355\",\"type\":\"cu_dining_location\",\"title\":\"Grace Dodge Dining Hall\",\"address\":\"<p>Teachers College, 525 W 120th St, New York, NY 10027<\\/p>\",\"description\":\"<p>Located in the lower level of Teachers College, Grace Dodge Dining Hall offers all-you-care-to-eat dining Monday-Thursday, 11 a.m. - 7 p.m., and Friday, 11 a.m. - 2 p.m. The daily menu will include grill specials like banh mi sandwiches and tacos, vegan and vegetarian paninis, grilled cheese, and a made-to-order salad bar.<\\/p>\\n\\n<p>Food service is continuous during operational hours, with stations open during the following times:<\\/p>\\n\\n<ul><li>Grill Station serving lunch from 11 a.m. - 3 p.m., and dinner from 4 p.m. - 7 p.m.<\\/li>\\n\\t<li>Vegan Station serving lunch\\u00a0from 11 a.m. - 3 p.m., and dinner from 4 p.m. - 7 p.m.<\\/li>\\n\\t<li>Pizza Station serving from 11 a.m. - 7 p.m.<\\/li>\\n\\t<li>Salad Station\\u00a0serving from 11 a.m. - 7 p.m.<\\/li>\\n<\\/ul><p><strong><em>Menus are subject to change. For the most accurate allergen information, refer to the printed in-unit menus.<\\/em><\\/strong><\\/p>\",\"display_crowd\":\"0\",\"crowd_id\":\"\",\"crowd_info\":\"\",\"crowd_max\":\"\",\"image\":\"\",\"latitude\":\"40.811\",\"longitude\":\"-73.9596\",\"open_hours\":[\"35638\",\"40548\"],\"path\":\"\\/content\\/grace-dodge-dining-hall-0\",\"open_hours_fields\":[{\"date_from\":\"2023-09-05T04:00:00\",\"date_to\":\"2023-12-23T04:59:59\",\"days\":[{\"days_friday\":[{\"hours_from\":\"1100\",\"hours_to\":\"1400\"}],\"days_monday\":[{\"hours_from\":\"1100\",\"hours_to\":\"1900\"}],\"days_thursday\":[{\"hours_from\":\"1100\",\"hours_to\":\"1900\"}],\"days_tuesday\":[{\"hours_from\":\"1100\",\"hours_to\":\"1900\"}],\"days_wednesday\":[{\"hours_from\":\"1100\",\"hours_to\":\"1900\"}]}],\"displayed_hours\":[{\"title\":\"Open Monday - Thursday, 11 a.m. - 7 p.m.\"},{\"title\":\"Open Friday, 11 a.m. - 2 p.m.\"}],\"excluded\":[\"2023-11-22\",\"2023-11-23\",\"2023-11-24\",\"2023-11-25\",\"2023-11-26\"]},{\"date_from\":\"2023-11-22T05:00:00\",\"date_to\":\"2023-11-27T04:59:00\",\"days\":[[]],\"displayed_hours\":[{\"title\":\"Closed for Thanksgiving Break\"}]}]},{\"nid\":\"11\",\"type\":\"cu_dining_location\",\"title\":\"JJ&#039;s Place\",\"address\":\"<p>519 W 114th St, New York, NY 10027<\\/p>\",\"description\":\"<p>JJ\\u2019s Place is the\\u00a0casual and comfortable weekend and late-night destination! Featuring an Angus Steak Burger and\\u00a0other specialty sandwiches plus\\u00a0fries, wings, smoothies, and more. Located lower level of John Jay Hall.<\\/p>\\n\\n<h2>JJ\'s Take 4<\\/h2>\\n\\n<p>Need to restock the snacks in your room, or want to grab some goodies for later? Use an extra meal swipe and take 4 items from the shelves by the cashier station in JJ\'s. Items include granola bars, nuts, pop tarts, oatmeal and cereal cups, chips, yogurt, and more.<\\/p>\\n\\n<p><strong><em>Menus are subject to change. For the most accurate allergen information, refer to the printed in-unit menus.<\\/em><\\/strong><\\/p>\",\"display_crowd\":\"1\",\"crowd_id\":\"839\",\"crowd_info\":\"\",\"crowd_max\":\"104\",\"image\":\"\",\"latitude\":\"40.806\",\"longitude\":\"-73.9625\",\"open_hours\":[\"25087\",\"28710\",\"35613\",\"38519\"],\"path\":\"\\/content\\/jjs-place-0\",\"open_hours_fields\":[{\"date_from\":\"2023-09-05T14:00:00\",\"date_to\":\"2023-12-23T04:59:59\",\"days\":[{\"days_friday\":[{\"hours_from\":\"1200\",\"hours_to\":\"1000\"}],\"days_monday\":[{\"hours_from\":\"1200\",\"hours_to\":\"1000\"}],\"days_saturday\":[{\"hours_from\":\"1200\",\"hours_to\":\"1000\"}],\"days_sunday\":[{\"hours_from\":\"1200\",\"hours_to\":\"1000\"}],\"days_thursday\":[{\"hours_from\":\"1200\",\"hours_to\":\"1000\"}],\"days_tuesday\":[{\"hours_from\":\"1200\",\"hours_to\":\"1000\"}],\"days_wednesday\":[{\"hours_from\":\"1200\",\"hours_to\":\"1000\"}]}],\"displayed_hours\":[{\"title\":\"Open daily 12:00 p.m. - 10:00 a.m.\"}],\"excluded\":[\"2023-10-05\",\"2023-10-04\",\"2023-11-22\",\"2023-11-23\",\"2023-11-26\",\"2023-11-21\",\"2023-11-25\",\"2023-11-07\"]},{\"date_from\":\"2023-11-21T05:00:00\",\"date_to\":\"2023-11-27T04:59:59\",\"days\":[{\"days_friday\":[{\"hours_from\":\"1000\",\"hours_to\":\"1900\"}],\"days_monday\":[{\"hours_from\":\"1000\",\"hours_to\":\"1800\"}],\"days_saturday\":[{\"hours_from\":\"1000\",\"hours_to\":\"1900\"}],\"days_tuesday\":[{\"hours_from\":\"0\",\"hours_to\":\"1000\"}]}],\"displayed_hours\":[{\"title\":\"Adjusted hours for Thanksgiving Break\"}]},{\"date_from\":\"2023-09-01T04:00:00\",\"date_to\":\"2023-09-05T03:59:59\",\"days\":[{\"days_friday\":[{\"hours_from\":\"1200\",\"hours_to\":\"2000\"}],\"days_monday\":[{\"hours_from\":\"1200\",\"hours_to\":\"2000\"}],\"days_saturday\":[{\"hours_from\":\"1200\",\"hours_to\":\"2000\"}],\"days_sunday\":[{\"hours_from\":\"1200\",\"hours_to\":\"2000\"}]}],\"displayed_hours\":[{\"title\":\"Open September 1-4, 12:00 p.m. - 8:00 p.m.\"}]},{\"date_from\":\"2023-10-04T04:00:00\",\"date_to\":\"2023-10-06T03:59:00\",\"days\":[{\"days_monday\":[{\"hours_from\":\"0\",\"hours_to\":\"600\"}],\"days_thursday\":[{\"hours_from\":\"1400\",\"hours_to\":\"1000\"}],\"days_wednesday\":[{\"hours_from\":\"1000\",\"hours_to\":\"600\"}]}],\"displayed_hours\":[{\"title\":\"Closed the morning of 10\\/3 for routine maintenance\"}]}]},{\"nid\":\"10\",\"type\":\"cu_dining_location\",\"title\":\"John Jay Dining Hall\",\"address\":\"<p>519 W 114th St, New York, NY 10027<\\/p>\",\"description\":\"<p>Just like home food favorites, made fresh daily. Special orders at the grill or features at the hot entr\\u00e9e station, plus sushi, grain bowls and a full salad bar. Kosher to-go counter at the main entrance. Located in John Jay on the first floor.<\\/p>\\n\\n<p>Food service is continuous during operational hours, with specific meal items served at the following times:<\\/p>\\n\\n<ul><li><strong>Breakfast:<\\/strong>\\u00a09:30 a.m. - 11:00 a.m., with breakfast items available at the grill until 2:00 p.m.<\\/li>\\n\\t<li><strong>Lunch:\\u00a0<\\/strong>11:00 a.m. - 2:30 p.m., Pasta, Fusion, and Salad Stations remain open<\\/li>\\n\\t<li><strong>Dinner:<\\/strong>\\u00a05:00 p.m. - close<\\/li>\\n<\\/ul><p><strong><em>Menus are subject to change. For the most accurate allergen information, refer to the printed in-unit menus.<\\/em><\\/strong><\\/p>\",\"display_crowd\":\"1\",\"crowd_id\":\"840\",\"crowd_info\":\"\",\"crowd_max\":\"246\",\"image\":\"\",\"latitude\":\"40.806\",\"longitude\":\"-73.9626\",\"open_hours\":[\"25075\",\"29007\"],\"path\":\"\\/content\\/john-jay-dining-hall\",\"open_hours_fields\":[{\"date_from\":\"2023-09-03T04:00:00\",\"date_to\":\"2023-12-23T04:59:59\",\"days\":[{\"days_monday\":[{\"hours_from\":\"930\",\"hours_to\":\"2100\"}],\"days_sunday\":[{\"hours_from\":\"930\",\"hours_to\":\"2100\"}],\"days_thursday\":[{\"hours_from\":\"930\",\"hours_to\":\"2100\"}],\"days_tuesday\":[{\"hours_from\":\"930\",\"hours_to\":\"2100\"}],\"days_wednesday\":[{\"hours_from\":\"930\",\"hours_to\":\"2100\"}]}],\"displayed_hours\":[{\"title\":\"Sunday - Thursday: 9:30 a.m. \\u2013 9:00 p.m.\"}],\"excluded\":[\"2023-11-22\",\"2023-11-23\",\"2023-11-24\",\"2023-11-25\",\"2023-11-26\"]},{\"date_from\":\"2023-11-22T05:00:01\",\"date_to\":\"2023-11-27T04:59:59\",\"days\":[{\"days_monday\":[{\"hours_from\":\"1000\",\"hours_to\":\"1800\"}],\"days_sunday\":[{\"hours_from\":\"930\",\"hours_to\":\"1900\"}]}],\"displayed_hours\":[{\"title\":\"Adjusted Hours for Thanksgiving Break\"}]}]},{\"nid\":\"58\",\"type\":\"cu_dining_location\",\"title\":\"Lenfest Caf\\u00e9\",\"address\":\"<p>410 W 117th St, New York, NY 10027<\\/p>\",\"description\":\"<p>A coffee bar and quick grab-and-go dining option offering packaged deli sandwiches, flatbread pizzas,\\u00a0chef-prepared sushi, and daily specials for lunch. Located on the second floor of\\u00a0Columbia Law School, in Jerome Greene Hall.<\\/p>\\n\\n<p><strong><em>Menus are subject to change. For the most accurate allergen information, refer to the printed in-unit menus.<\\/em><\\/strong><\\/p>\",\"display_crowd\":\"0\",\"crowd_id\":\"\",\"crowd_info\":\"\",\"crowd_max\":\"\",\"image\":\"\",\"latitude\":\"40.807\",\"longitude\":\"-73.9597\",\"open_hours\":[\"20285\",\"29026\"],\"path\":\"\\/content\\/lenfest-cafe-0\",\"open_hours_fields\":[{\"date_from\":\"2023-09-05T04:00:00\",\"date_to\":\"2023-12-23T04:59:59\",\"days\":[{\"days_friday\":[{\"hours_from\":\"800\",\"hours_to\":\"1500\"}],\"days_monday\":[{\"hours_from\":\"800\",\"hours_to\":\"1830\"}],\"days_thursday\":[{\"hours_from\":\"800\",\"hours_to\":\"1830\"}],\"days_tuesday\":[{\"hours_from\":\"800\",\"hours_to\":\"1830\"}],\"days_wednesday\":[{\"hours_from\":\"800\",\"hours_to\":\"1830\"}]}],\"displayed_hours\":[{\"title\":\"Monday - Thursday: 8:00 a.m. - 6:30 p.m.\"},{\"title\":\"Friday: 8:00 a.m. - 3:00 p.m.\"}],\"excluded\":[\"2023-11-22\",\"2023-11-23\",\"2023-11-24\"]},{\"date_from\":\"2023-11-22T05:00:00\",\"date_to\":\"2023-11-25T04:59:59\",\"days\":[[]],\"displayed_hours\":[{\"title\":\"Closed forThanksgiving Break\"}]}]},{\"nid\":\"7452\",\"type\":\"cu_dining_location\",\"title\":\"Robert F. Smith Dining Hall\",\"address\":\"<p>Henry R. Kravis Hall 655 W 130th St, New York, NY 10027<\\/p>\",\"description\":\"<p>Located in the Henry R. Kravis Hall at Columbia Business School, the Robert F. Smith Dining Hall is the go-to eatery for business school students, staff, and faculty.<\\/p>\\n\\n<p>Open Monday \\u2013 Friday, 8:00 a.m. \\u2013 4:00 p.m.,\\u00a0 with food service available at the following times:<\\/p>\\n\\n<ul><li>Continental breakfast: 8:00 a.m. \\u2013 11:00 a.m.<\\/li>\\n\\t<li>Lunch: 11:00 a.m. \\u2013 2:00 p.m.<\\/li>\\n\\t<li>Snacks &amp; grab-and-go items: 2:00 p.m. \\u2013 4:00 p.m.<\\/li>\\n\\t<li>Coffee bar: all day<\\/li>\\n<\\/ul><p><em>This location does not accept Columbia Dining meal swipes. Payment is by Flex or credit card only<\\/em>.<\\/p>\\n\\n<p><strong><em>Menus are subject to change. For the most accurate allergen information, refer to the printed in-unit menus.<\\/em><\\/strong><\\/p>\",\"display_crowd\":\"0\",\"crowd_id\":\"\",\"crowd_info\":\"\",\"crowd_max\":\"\",\"image\":\"\",\"latitude\":\"40.8184\",\"longitude\":\"-73.9596\",\"open_hours\":[\"35245\",\"40625\"],\"path\":\"\\/content\\/robert-f-smith-dining-hall-0\",\"open_hours_fields\":[{\"date_from\":\"2023-08-28T04:00:00\",\"date_to\":\"2024-01-01T04:59:00\",\"days\":[{\"days_friday\":[{\"hours_from\":\"800\",\"hours_to\":\"1600\"}],\"days_monday\":[{\"hours_from\":\"800\",\"hours_to\":\"1600\"}],\"days_thursday\":[{\"hours_from\":\"800\",\"hours_to\":\"1600\"}],\"days_tuesday\":[{\"hours_from\":\"800\",\"hours_to\":\"1600\"}],\"days_wednesday\":[{\"hours_from\":\"800\",\"hours_to\":\"1600\"}]}],\"displayed_hours\":[{\"title\":\"Open Monday \\u2013 Friday, 8:00 a.m. \\u2013 4:00 p.m.\"}],\"excluded\":[\"2023-11-22\",\"2023-11-23\",\"2023-11-24\",\"2023-11-25\",\"2023-11-26\"]},{\"date_from\":\"2023-11-22T05:00:00\",\"date_to\":\"2023-11-27T04:59:00\",\"days\":[[]],\"displayed_hours\":[{\"title\":\"Closed for Thanksgiving Break\"}]}]},{\"nid\":\"7487\",\"type\":\"cu_dining_location\",\"title\":\"The Fac Shack\",\"address\":\"\",\"description\":\"<p>Powered by Faculty House and located in Wien Courtyard, the Fac Shack food truck gives a gourmet twist to global street food. For those who crave quality cuisine but don\'t have time for a sit-down, dine-in experience, the Fac Shack brings a new, convenient, grab-and-go lunch option to East Campus. Use your Columbia Dining meal plan, Flex, or Dining Dollars. Barnard Exchange is also accepted.<\\/p>\\n\\n<p><strong><em>Menus are subject to change. For the most accurate allergen information, refer to the printed in-unit menus.<\\/em><\\/strong><\\/p>\",\"display_crowd\":\"0\",\"crowd_id\":\"\",\"crowd_info\":\"\",\"crowd_max\":\"\",\"image\":\"\",\"latitude\":\"40.8068\",\"longitude\":\"-73.9599\",\"open_hours\":[\"35825\",\"35833\",\"40543\"],\"path\":\"\\/content\\/fac-shack\",\"open_hours_fields\":[{\"date_from\":\"2023-08-31T04:00:00\",\"date_to\":\"2023-09-05T03:59:00\",\"days\":[[]],\"displayed_hours\":[{\"title\":\"Closed until after Labor Day\"}]},{\"date_from\":\"2023-09-05T04:00:00\",\"date_to\":\"2023-12-23T04:59:59\",\"days\":[{\"days_monday\":[{\"hours_from\":\"1100\",\"hours_to\":\"1500\"}],\"days_thursday\":[{\"hours_from\":\"1100\",\"hours_to\":\"1500\"}],\"days_tuesday\":[{\"hours_from\":\"1100\",\"hours_to\":\"1500\"}],\"days_wednesday\":[{\"hours_from\":\"1100\",\"hours_to\":\"1500\"}]}],\"displayed_hours\":[{\"title\":\"Open Monday - Thursday, 11:00 a.m. - 3:00 p.m.\"}],\"excluded\":[\"2023-11-23\",\"2023-11-24\",\"2023-11-03\"]},{\"date_from\":\"2023-11-23T05:00:00\",\"date_to\":\"2023-11-25T04:59:00\",\"days\":[[]],\"displayed_hours\":[{\"title\":\"Closed for Thanksgiving Break\"}]}]}]}`;
+	var dining_nodes = `{\"locations\":[{\"nid\":\"7482\",\"type\":\"cu_dining_location\",\"title\":\"Blue Java at Everett Library Caf\\u00e9 \",\"address\":\"<p>525 W 120th St, New York, NY 10027<\\/p>\",\"description\":\"<p>Located in Teachers College, Blue Java at Everett Library Caf\\u00e9 features a variety of Brooklyn Roasting Company coffees, teas, sandwiches, soups, and pastries, in addition to specialty items such as Nitro Brew and products from our local partners in Harlem.<\\/p>\\n\\n<p><strong><em>Menus are subject to change. For the most accurate allergen information, refer to the printed in-unit menus.<\\/em><\\/strong><\\/p>\",\"display_crowd\":\"0\",\"crowd_id\":\"\",\"crowd_info\":\"\",\"crowd_max\":\"\",\"image\":\"\",\"latitude\":\"40.8114\",\"longitude\":\"-73.9601\",\"open_hours\":[\"35647\",\"40561\"],\"path\":\"\\/content\\/blue-java-everett-library-cafe\",\"open_hours_fields\":[{\"date_from\":\"2023-09-05T04:00:00\",\"date_to\":\"2023-12-23T04:59:59\",\"days\":[{\"days_friday\":[{\"hours_from\":\"830\",\"hours_to\":\"1400\"}],\"days_monday\":[{\"hours_from\":\"830\",\"hours_to\":\"1930\"}],\"days_thursday\":[{\"hours_from\":\"830\",\"hours_to\":\"1930\"}],\"days_tuesday\":[{\"hours_from\":\"830\",\"hours_to\":\"1930\"}],\"days_wednesday\":[{\"hours_from\":\"830\",\"hours_to\":\"1930\"}]}],\"displayed_hours\":[{\"title\":\"Open Monday - Thursday, 8:30 a.m. - 7:30 p.m.\"},{\"title\":\"Open Friday, 8:30 a.m. - 2 p.m.\"}],\"excluded\":[\"2023-11-21\",\"2023-11-22\",\"2023-11-23\",\"2023-11-24\"]},{\"date_from\":\"2023-11-21T05:00:00\",\"date_to\":\"2023-11-27T04:59:00\",\"days\":[{\"days_tuesday\":[{\"hours_from\":\"800\",\"hours_to\":\"1500\"}]}],\"displayed_hours\":[{\"title\":\"Adjusted Hours for Thanksgiving Break\"}]}]},{\"nid\":\"56\",\"type\":\"cu_dining_location\",\"title\":\"Blue Java Caf\\u00e9 - Butler Library\",\"address\":\"<p>535 W 114th St, New York, NY 10027<\\/p>\",\"description\":\"<p>Four convenient locations on campus offering fresh, fair trade, and organic coffee, along with a host of gourmet pastries, sandwiches, salads, and desserts. This location is on the ground floor of Butler Library.<\\/p>\\n\\n<p><strong><em>Menus are subject to change. For the most accurate allergen information, refer to the printed in-unit menus.<\\/em><\\/strong><\\/p>\",\"display_crowd\":\"0\",\"crowd_id\":\"\",\"crowd_info\":\"\",\"crowd_max\":\"\",\"image\":\"\",\"latitude\":\"40.8064\",\"longitude\":\"-73.9632\",\"open_hours\":[\"25127\",\"28418\",\"40558\"],\"path\":\"\\/content\\/blue-java-cafe-butler-library-0\",\"open_hours_fields\":[{\"date_from\":\"2023-09-05T04:00:00\",\"date_to\":\"2023-12-23T04:59:59\",\"days\":[{\"days_friday\":[{\"hours_from\":\"900\",\"hours_to\":\"2100\"}],\"days_monday\":[{\"hours_from\":\"800\",\"hours_to\":\"0\"}],\"days_saturday\":[{\"hours_from\":\"900\",\"hours_to\":\"2100\"}],\"days_sunday\":[{\"hours_from\":\"900\",\"hours_to\":\"2100\"}],\"days_thursday\":[{\"hours_from\":\"800\",\"hours_to\":\"0\"}],\"days_tuesday\":[{\"hours_from\":\"800\",\"hours_to\":\"0\"}],\"days_wednesday\":[{\"hours_from\":\"800\",\"hours_to\":\"0\"}]}],\"displayed_hours\":[{\"title\":\"Open Monday \\u2013 Thursday, 8:00 a.m. \\u2013 12:00 a.m.\"},{\"title\":\"Open Friday \\u2013 Sunday, 9:00 a.m. \\u2013 9:00 p.m.\"}],\"excluded\":[\"2023-05-04\",\"2023-11-22\",\"2023-11-23\",\"2023-11-24\",\"2023-11-25\",\"2023-11-26\"]},{\"date_from\":\"2023-05-15T04:00:00\",\"date_to\":\"2023-09-02T03:59:00\",\"days\":[{\"days_friday\":[{\"hours_from\":\"800\",\"hours_to\":\"1400\"}],\"days_monday\":[{\"hours_from\":\"800\",\"hours_to\":\"1400\"}],\"days_thursday\":[{\"hours_from\":\"800\",\"hours_to\":\"1400\"}],\"days_tuesday\":[{\"hours_from\":\"800\",\"hours_to\":\"1400\"}],\"days_wednesday\":[{\"hours_from\":\"0\",\"hours_to\":\"0\"}]}],\"displayed_hours\":[{\"title\":\"Open Monday - Friday, 8:00 a.m. - 2:00 p.m. during Summer Break\"}],\"excluded\":[\"0023-05-29\"]},{\"date_from\":\"2023-11-22T05:00:00\",\"date_to\":\"2023-11-27T04:59:00\",\"days\":[{\"days_monday\":[{\"hours_from\":\"800\",\"hours_to\":\"1500\"}],\"days_tuesday\":[{\"hours_from\":\"800\",\"hours_to\":\"1500\"}],\"days_wednesday\":[{\"hours_from\":\"800\",\"hours_to\":\"1500\"}]}],\"displayed_hours\":[{\"title\":\"Adjusted Hours for Thanksgiving Break\"}]}]},{\"nid\":\"57\",\"type\":\"cu_dining_location\",\"title\":\"Blue Java Caf\\u00e9 - Mudd Hall\",\"address\":\"<p>500 W 120th St, New York, NY 10027<\\/p>\",\"description\":\"<p>Four convenient locations on campus offering fresh, fair trade, and organic coffee, along with a host of gourmet pastries, sandwiches, salads, and desserts.\\u00a0Located on the first floor of the Engineering School\'s Mudd building.<\\/p>\\n\\n<p><strong><em>Menus are subject to change. For the most accurate allergen information, refer to the printed in-unit menus.<\\/em><\\/strong><\\/p>\",\"display_crowd\":\"0\",\"crowd_id\":\"\",\"crowd_info\":\"\",\"crowd_max\":\"\",\"image\":\"\",\"latitude\":\"40.8095\",\"longitude\":\"-73.96\",\"open_hours\":[\"25096\",\"26745\"],\"path\":\"\\/content\\/blue-java-cafe-mudd-hall-0\",\"open_hours_fields\":[{\"date_from\":\"2023-09-05T04:00:00\",\"date_to\":\"2023-12-23T04:00:00\",\"days\":[{\"days_friday\":[{\"hours_from\":\"800\",\"hours_to\":\"1030\"}],\"days_monday\":[{\"hours_from\":\"800\",\"hours_to\":\"1030\"}],\"days_thursday\":[{\"hours_from\":\"800\",\"hours_to\":\"1030\"}],\"days_tuesday\":[{\"hours_from\":\"800\",\"hours_to\":\"1030\"}],\"days_wednesday\":[{\"hours_from\":\"800\",\"hours_to\":\"1030\"}]}],\"displayed_hours\":[{\"title\":\"Monday \\u2013 Friday: 8 a.m. \\u2013 10:30 a.m.\"}],\"excluded\":[\"2023-11-22\",\"2023-11-23\",\"2023-11-24\"]},{\"date_from\":\"2023-11-22T16:00:01\",\"date_to\":\"2023-11-25T04:59:00\",\"days\":[[]],\"displayed_hours\":[{\"title\":\"Closed for Thanksgiving Break\"}]}]},{\"nid\":\"60\",\"type\":\"cu_dining_location\",\"title\":\"Blue Java Caf\\u00e9 - Uris\",\"address\":\"<p>3022 Broadway, New York, NY 10027<\\/p>\",\"description\":\"<p>Blue Java Caf\\u00e9 in Uris features a variety of Brooklyn Roasting Company coffees, teas, sandwiches, soups, and pastries, in addition to specialty items such as Nitro Brew and products from our local partners in Harlem.<\\/p>\\n\\n<p><strong><em>Menus are subject to change. For the most accurate allergen information, refer to the printed in-unit menus.<\\/em><\\/strong><\\/p>\",\"display_crowd\":\"0\",\"crowd_id\":\"1340\",\"crowd_info\":\"\",\"crowd_max\":\"200\",\"image\":\"\",\"latitude\":\"40.809\",\"longitude\":\"-73.9615\",\"open_hours\":[\"20628\",\"27226\"],\"path\":\"\\/content\\/blue-java-cafe-uris-hall\",\"open_hours_fields\":[{\"date_from\":\"2023-09-05T04:00:00\",\"date_to\":\"2023-12-23T04:59:59\",\"days\":[{\"days_friday\":[{\"hours_from\":\"800\",\"hours_to\":\"1730\"}],\"days_monday\":[{\"hours_from\":\"800\",\"hours_to\":\"1730\"}],\"days_thursday\":[{\"hours_from\":\"800\",\"hours_to\":\"1730\"}],\"days_tuesday\":[{\"hours_from\":\"800\",\"hours_to\":\"1730\"}],\"days_wednesday\":[{\"hours_from\":\"800\",\"hours_to\":\"1730\"}]}],\"displayed_hours\":[{\"title\":\"Monday - Friday: 8:00 a.m. - 5:30 p.m.\"}],\"excluded\":[\"2023-11-22\",\"2023-11-23\",\"2023-11-24\"]},{\"date_from\":\"2023-11-22T05:00:00\",\"date_to\":\"2023-11-24T04:59:00\",\"days\":[[]],\"displayed_hours\":[{\"title\":\"Closed for Thanksgiving Break\"}]}]},{\"nid\":\"6990\",\"type\":\"cu_dining_location\",\"title\":\"Chef Don&#039;s Pizza Pi\",\"address\":\"<p>500 W 120th St, New York, NY 10027<\\/p>\",\"description\":\"<p>Chef Don\'s Pizza Pi serves four personal pizza options daily made on the spot just for you. Plus sides!<\\/p>\\n\\n<p>Food service is continuous during operational hours, with specific meal items served at the following times:<\\/p>\\n\\n<ul><li><strong>Breakfast:<\\/strong>\\u00a08:00 a.m. - 10:30 a.m.<\\/li>\\n\\t<li><strong>Lunch\\/Dinner:\\u00a0<\\/strong>11:00 a.m. - 7:00 p.m<\\/li>\\n<\\/ul><p><strong>Coffee is available for purchase during all hours of operation.<\\/strong><\\/p>\\n\\n<p><em>Menus are subject to change. For the most accurate allergen information, refer to the printed in-unit menus.<\\/em><\\/p>\",\"display_crowd\":\"0\",\"crowd_id\":\"\",\"crowd_info\":\"\",\"crowd_max\":\"\",\"image\":\"\",\"latitude\":\"40.8095\",\"longitude\":\"-73.96\",\"open_hours\":[\"28443\",\"29022\",\"38400\"],\"path\":\"\\/content\\/chef-dons-pizza-pi\",\"open_hours_fields\":[{\"date_from\":\"2023-09-05T04:00:00\",\"date_to\":\"2023-12-23T04:59:59\",\"days\":[{\"days_friday\":[{\"hours_from\":\"800\",\"hours_to\":\"1030\"},{\"hours_from\":\"1100\",\"hours_to\":\"1900\"}],\"days_monday\":[{\"hours_from\":\"800\",\"hours_to\":\"1030\"},{\"hours_from\":\"1100\",\"hours_to\":\"1900\"}],\"days_thursday\":[{\"hours_from\":\"800\",\"hours_to\":\"1030\"},{\"hours_from\":\"1130\",\"hours_to\":\"1900\"}],\"days_tuesday\":[{\"hours_from\":\"800\",\"hours_to\":\"1030\"},{\"hours_from\":\"1100\",\"hours_to\":\"1900\"}],\"days_wednesday\":[{\"hours_from\":\"800\",\"hours_to\":\"1030\"},{\"hours_from\":\"1100\",\"hours_to\":\"1900\"}]}],\"displayed_hours\":[{\"title\":\"Monday \\u2013 Friday: 8:00 a.m. \\u2013 10:30 a.m., 11:00 a.m. \\u2013 7:00 p.m.\"}],\"excluded\":[\"2023-11-22\",\"2023-11-23\",\"2023-11-24\",\"2023-11-25\",\"2023-11-26\",\"2023-11-21\"]},{\"date_from\":\"2023-11-21T05:00:00\",\"date_to\":\"2023-11-27T04:59:59\",\"days\":[{\"days_monday\":[{\"hours_from\":\"800\",\"hours_to\":\"1030\"},{\"hours_from\":\"1100\",\"hours_to\":\"1700\"}],\"days_tuesday\":[{\"hours_from\":\"800\",\"hours_to\":\"1030\"},{\"hours_from\":\"1100\",\"hours_to\":\"1700\"}]}],\"displayed_hours\":[{\"title\":\"Adjusted Hours for Thanksgiving Break\"}]},{\"date_from\":\"2023-09-29T04:00:00\",\"date_to\":\"2023-09-30T03:59:00\",\"days\":[{\"days_friday\":[{\"hours_from\":\"800\",\"hours_to\":\"1100\"}]}],\"displayed_hours\":[{\"title\":\"Closing at 11 a.m. Due to Weather-Related Issues\"}]}]},{\"nid\":\"6907\",\"type\":\"cu_dining_location\",\"title\":\"Chef Mike&#039;s Sub Shop\",\"address\":\"<p>Uris Hall, main Level<\\/p>\",\"description\":\"<p>Custom sub sandwiches, just like Chef Mike\'s grandma used to make. Plus soup, chips, drink and dessert.<\\/p>\\n\\n<p><strong><em>Menus are subject to change. For the most accurate allergen information, refer to the printed in-unit menus.<\\/em><\\/strong><\\/p>\",\"display_crowd\":\"1\",\"crowd_id\":\"1339\",\"crowd_info\":\"\",\"crowd_max\":\"\",\"image\":\"\",\"latitude\":\"40.8098\",\"longitude\":\"-73.9613\",\"open_hours\":[\"28195\",\"38406\"],\"path\":\"\\/chef-mikes\",\"open_hours_fields\":[{\"date_from\":\"2023-09-05T04:00:00\",\"date_to\":\"2023-12-23T04:59:59\",\"days\":[{\"days_friday\":[{\"hours_from\":\"1030\",\"hours_to\":\"2200\"}],\"days_monday\":[{\"hours_from\":\"1030\",\"hours_to\":\"2200\"}],\"days_thursday\":[{\"hours_from\":\"1030\",\"hours_to\":\"2200\"}],\"days_tuesday\":[{\"hours_from\":\"1030\",\"hours_to\":\"2200\"}],\"days_wednesday\":[{\"hours_from\":\"1030\",\"hours_to\":\"2200\"}]}],\"displayed_hours\":[{\"title\":\"Open Monday - Friday, 10:30 a.m. - 10:00 p.m.\"}],\"excluded\":[\"2023-11-22\",\"2023-11-23\",\"2023-11-24\",\"2023-11-25\",\"2023-11-26\"]},{\"date_from\":\"2023-11-22T05:00:00\",\"date_to\":\"2023-11-27T04:59:00\",\"days\":[{\"days_wednesday\":[{\"hours_from\":\"1030\",\"hours_to\":\"1700\"}]}],\"displayed_hours\":[{\"title\":\"Adjusted Hours for Thanksgiving Break\"}]}]},{\"nid\":\"7351\",\"type\":\"cu_dining_location\",\"title\":\"Faculty House\",\"address\":\"<p>64 Morningside Drive<\\/p>\\n\\n<p>New York, NY 10027<\\/p>\",\"description\":\"<p>Known for its delightful lunch featuring globally inspired cuisine, Faculty House emphasizes regionally grown and locally sourced ingredients. Our daily lunch features a main dish, pasta, a\\u00a0vegan entr\\u00e9e,\\u00a0plus a starch, veggie, salad, fruit and dessert!<\\/p>\\n\\n<p>Lunch is one swipe. Dining Dollars and Flex Dollars are also accepted. Click each menu below for details.<\\/p>\\n\\n<p><strong><em>Menus are subject to change. For the most accurate allergen information, refer to the printed in-unit menus.<\\/em><\\/strong><\\/p>\",\"display_crowd\":\"0\",\"crowd_id\":\"\",\"crowd_info\":\"\",\"crowd_max\":\"\",\"image\":\"\",\"latitude\":\"40.8067\",\"longitude\":\"-73.9592\",\"open_hours\":[\"35606\",\"37186\"],\"path\":\"\\/content\\/faculty-house-0\",\"open_hours_fields\":[{\"date_from\":\"2023-09-05T04:00:00\",\"date_to\":\"2023-12-23T04:59:59\",\"days\":[{\"days_friday\":[{\"hours_from\":\"1100\",\"hours_to\":\"1430\"}],\"days_monday\":[{\"hours_from\":\"1100\",\"hours_to\":\"1430\"}],\"days_thursday\":[{\"hours_from\":\"1100\",\"hours_to\":\"1430\"}],\"days_tuesday\":[{\"hours_from\":\"1100\",\"hours_to\":\"1430\"}],\"days_wednesday\":[{\"hours_from\":\"1100\",\"hours_to\":\"1430\"}]}],\"displayed_hours\":[{\"title\":\"Open Monday - Friday, 11:00 a.m. - 2:30 p.m.\"}],\"excluded\":[\"2023-11-23\",\"2023-11-24\",\"2023-11-07\"]},{\"date_from\":\"2023-11-23T05:00:00\",\"date_to\":\"2023-11-25T04:59:59\",\"days\":[[]],\"displayed_hours\":[{\"title\":\"Closed for Thanksgiving Break\"}]}]},{\"nid\":\"12\",\"type\":\"cu_dining_location\",\"title\":\"Ferris Booth Commons\",\"address\":\"<p>Alfred Lerner Hall, 2920 Broadway, New York, NY 10027<\\/p>\",\"description\":\"<p>Breakfast including but not limited to eggs to order, Belgian waffles and\\u00a0yogurt until 2:00 PM, along with daily offerings of pasta, pizza, paninis, wraps and delectable desserts. Located on the 3rd floor of Alfred Lerner Hall.<\\/p>\\n\\n<p>Food service is continuous during operation, with specific meal items served during the following times:<\\/p>\\n\\n<ul><li>Breakfast: 7:30 a.m. - 11:00 a.m.<\\/li>\\n\\t<li>Lunch: 11:00 a.m. - 5:00 p.m.<\\/li>\\n\\t<li>Dinner: 5:00 p.m. - Closing<\\/li>\\n<\\/ul><p><strong>Vegan Station<\\/strong><\\/p>\\n\\n<ul><li>Lunch: 11:00 a.m. - 3:00 p.m.<\\/li>\\n\\t<li>Dinner: 5:00 p.m. - Closing<\\/li>\\n\\t<li><em>Closed from 3:00 p.m. to 5:00 p.m.<\\/em><\\/li>\\n<\\/ul><p><strong>Main Line:<\\/strong><\\/p>\\n\\n<ul><li>Brunch: Opening - 2:00 p.m.<\\/li>\\n\\t<li>Dinner: \\u00a05:00 p.m. - Closing<\\/li>\\n\\t<li><em>Closed from 2:00 p.m. to 5:00 p.m.<\\/em><\\/li>\\n<\\/ul><p><strong>Omelette<\\/strong>: Opening -11:00 a.m.<\\/p>\\n\\n<p><strong>Pasta:\\u00a0<\\/strong>11:30 a.m. - Closing<\\/p>\\n\\n<p><strong>Action Station:<\\/strong><\\/p>\\n\\n<ul><li>Lunch: 11:00 a.m. - 4:00 p.m.<\\/li>\\n\\t<li>Dinner: 5:00 p.m. - Closing<\\/li>\\n\\t<li><em>Closed from 4:00 p.m. to 5:00 p.m.<\\/em><\\/li>\\n<\\/ul><p><strong>Sandwiches, Desserts, Soups<\\/strong>: Opens at 11:00 a.m.<\\/p>\\n\\n<p><strong><em>Menus are subject to change. For the most accurate allergen information, refer to the printed in-unit menus.<\\/em><\\/strong><\\/p>\",\"display_crowd\":\"1\",\"crowd_id\":\"835\",\"crowd_info\":\"\",\"crowd_max\":\"264\",\"image\":\"\",\"latitude\":\"40.8069\",\"longitude\":\"-73.9637\",\"open_hours\":[\"25116\",\"28150\",\"38809\"],\"path\":\"\\/content\\/ferris-booth-commons-0\",\"open_hours_fields\":[{\"date_from\":\"2023-09-05T04:00:00\",\"date_to\":\"2023-12-23T03:59:59\",\"days\":[{\"days_friday\":[{\"hours_from\":\"730\",\"hours_to\":\"2000\"}],\"days_monday\":[{\"hours_from\":\"730\",\"hours_to\":\"2000\"}],\"days_saturday\":[{\"hours_from\":\"900\",\"hours_to\":\"2000\"}],\"days_sunday\":[{\"hours_from\":\"1000\",\"hours_to\":\"1400\"},{\"hours_from\":\"1600\",\"hours_to\":\"2000\"}],\"days_thursday\":[{\"hours_from\":\"730\",\"hours_to\":\"2000\"}],\"days_tuesday\":[{\"hours_from\":\"730\",\"hours_to\":\"2000\"}],\"days_wednesday\":[{\"hours_from\":\"730\",\"hours_to\":\"2000\"}]}],\"displayed_hours\":[{\"title\":\"Open Monday - Friday, 7:30 a.m. - 8:00 p.m.\"},{\"title\":\"Open Saturday, 9:00 a.m. - 8:00 p.m.\"},{\"title\":\"Open Sunday, 10:00 a.m. - 2:00 p.m., 4:00 - 8:00 p.m.\"}],\"excluded\":[\"2023-11-22\",\"2023-11-23\",\"2023-11-24\",\"2023-11-25\",\"2023-11-26\"]},{\"date_from\":\"2023-11-22T05:00:00\",\"date_to\":\"2023-11-27T04:59:59\",\"days\":[{\"days_wednesday\":[{\"hours_from\":\"730\",\"hours_to\":\"1400\"}]}],\"displayed_hours\":[{\"title\":\"Adjusted Hours for Thanksgiving Break\"}]},{\"date_from\":\"2023-10-13T04:00:00\",\"date_to\":\"2023-10-14T03:59:00\",\"days\":[{\"days_friday\":[{\"hours_from\":\"730\",\"hours_to\":\"1400\"}]}],\"displayed_hours\":[{\"title\":\"Closing at 2 p.m.\"}]}]},{\"nid\":\"7355\",\"type\":\"cu_dining_location\",\"title\":\"Grace Dodge Dining Hall\",\"address\":\"<p>Teachers College, 525 W 120th St, New York, NY 10027<\\/p>\",\"description\":\"<p>Located in the lower level of Teachers College, Grace Dodge Dining Hall offers all-you-care-to-eat dining Monday-Thursday, 11 a.m. - 7 p.m., and Friday, 11 a.m. - 2 p.m. The daily menu will include grill specials like banh mi sandwiches and tacos, vegan and vegetarian paninis, grilled cheese, and a made-to-order salad bar.<\\/p>\\n\\n<p>Food service is continuous during operational hours, with stations open during the following times:<\\/p>\\n\\n<ul><li>Grill Station serving lunch from 11 a.m. - 3 p.m., and dinner from 4 p.m. - 7 p.m.<\\/li>\\n\\t<li>Vegan Station serving lunch\\u00a0from 11 a.m. - 3 p.m., and dinner from 4 p.m. - 7 p.m.<\\/li>\\n\\t<li>Pizza Station serving from 11 a.m. - 7 p.m.<\\/li>\\n\\t<li>Salad Station\\u00a0serving from 11 a.m. - 7 p.m.<\\/li>\\n<\\/ul><p><strong><em>Menus are subject to change. For the most accurate allergen information, refer to the printed in-unit menus.<\\/em><\\/strong><\\/p>\",\"display_crowd\":\"0\",\"crowd_id\":\"\",\"crowd_info\":\"\",\"crowd_max\":\"\",\"image\":\"\",\"latitude\":\"40.811\",\"longitude\":\"-73.9596\",\"open_hours\":[\"35638\",\"40548\"],\"path\":\"\\/content\\/grace-dodge-dining-hall-0\",\"open_hours_fields\":[{\"date_from\":\"2023-09-05T04:00:00\",\"date_to\":\"2023-12-23T04:59:59\",\"days\":[{\"days_friday\":[{\"hours_from\":\"1100\",\"hours_to\":\"1400\"}],\"days_monday\":[{\"hours_from\":\"1100\",\"hours_to\":\"1900\"}],\"days_thursday\":[{\"hours_from\":\"1100\",\"hours_to\":\"1900\"}],\"days_tuesday\":[{\"hours_from\":\"1100\",\"hours_to\":\"1900\"}],\"days_wednesday\":[{\"hours_from\":\"1100\",\"hours_to\":\"1900\"}]}],\"displayed_hours\":[{\"title\":\"Open Monday - Thursday, 11 a.m. - 7 p.m.\"},{\"title\":\"Open Friday, 11 a.m. - 2 p.m.\"}],\"excluded\":[\"2023-11-22\",\"2023-11-23\",\"2023-11-24\",\"2023-11-25\",\"2023-11-26\"]},{\"date_from\":\"2023-11-22T05:00:00\",\"date_to\":\"2023-11-27T04:59:00\",\"days\":[[]],\"displayed_hours\":[{\"title\":\"Closed for Thanksgiving Break\"}]}]},{\"nid\":\"11\",\"type\":\"cu_dining_location\",\"title\":\"JJ&#039;s Place\",\"address\":\"<p>519 W 114th St, New York, NY 10027<\\/p>\",\"description\":\"<p>JJ\\u2019s Place is the\\u00a0casual and comfortable weekend and late-night destination! Featuring an Angus Steak Burger and\\u00a0other specialty sandwiches plus\\u00a0fries, wings, smoothies, and more. Located lower level of John Jay Hall.<\\/p>\\n\\n<h2>JJ\'s Take 4<\\/h2>\\n\\n<p>Need to restock the snacks in your room, or want to grab some goodies for later? Use an extra meal swipe and take 4 items from the shelves by the cashier station in JJ\'s. Items include granola bars, nuts, pop tarts, oatmeal and cereal cups, chips, yogurt, and more.<\\/p>\\n\\n<p><strong><em>Menus are subject to change. For the most accurate allergen information, refer to the printed in-unit menus.<\\/em><\\/strong><\\/p>\",\"display_crowd\":\"1\",\"crowd_id\":\"839\",\"crowd_info\":\"\",\"crowd_max\":\"104\",\"image\":\"\",\"latitude\":\"40.806\",\"longitude\":\"-73.9625\",\"open_hours\":[\"25087\",\"28710\",\"35613\",\"38519\"],\"path\":\"\\/content\\/jjs-place-0\",\"open_hours_fields\":[{\"date_from\":\"2023-09-05T14:00:00\",\"date_to\":\"2023-12-23T04:59:59\",\"days\":[{\"days_friday\":[{\"hours_from\":\"1200\",\"hours_to\":\"1000\"}],\"days_monday\":[{\"hours_from\":\"1200\",\"hours_to\":\"1000\"}],\"days_saturday\":[{\"hours_from\":\"1200\",\"hours_to\":\"1000\"}],\"days_sunday\":[{\"hours_from\":\"1200\",\"hours_to\":\"1000\"}],\"days_thursday\":[{\"hours_from\":\"1200\",\"hours_to\":\"1000\"}],\"days_tuesday\":[{\"hours_from\":\"1200\",\"hours_to\":\"1000\"}],\"days_wednesday\":[{\"hours_from\":\"1200\",\"hours_to\":\"1000\"}]}],\"displayed_hours\":[{\"title\":\"Open daily 12:00 p.m. - 10:00 a.m.\"}],\"excluded\":[\"2023-10-05\",\"2023-10-04\",\"2023-11-22\",\"2023-11-23\",\"2023-11-26\",\"2023-11-21\",\"2023-11-25\",\"2023-11-07\"]},{\"date_from\":\"2023-11-21T05:00:00\",\"date_to\":\"2023-11-27T04:59:59\",\"days\":[{\"days_friday\":[{\"hours_from\":\"1000\",\"hours_to\":\"1900\"}],\"days_monday\":[{\"hours_from\":\"1000\",\"hours_to\":\"1800\"}],\"days_saturday\":[{\"hours_from\":\"1000\",\"hours_to\":\"1900\"}],\"days_tuesday\":[{\"hours_from\":\"0\",\"hours_to\":\"1000\"}]}],\"displayed_hours\":[{\"title\":\"Adjusted hours for Thanksgiving Break\"}]},{\"date_from\":\"2023-09-01T04:00:00\",\"date_to\":\"2023-09-05T03:59:59\",\"days\":[{\"days_friday\":[{\"hours_from\":\"1200\",\"hours_to\":\"2000\"}],\"days_monday\":[{\"hours_from\":\"1200\",\"hours_to\":\"2000\"}],\"days_saturday\":[{\"hours_from\":\"1200\",\"hours_to\":\"2000\"}],\"days_sunday\":[{\"hours_from\":\"1200\",\"hours_to\":\"2000\"}]}],\"displayed_hours\":[{\"title\":\"Open September 1-4, 12:00 p.m. - 8:00 p.m.\"}]},{\"date_from\":\"2023-10-04T04:00:00\",\"date_to\":\"2023-10-06T03:59:00\",\"days\":[{\"days_monday\":[{\"hours_from\":\"0\",\"hours_to\":\"600\"}],\"days_thursday\":[{\"hours_from\":\"1400\",\"hours_to\":\"1000\"}],\"days_wednesday\":[{\"hours_from\":\"1000\",\"hours_to\":\"600\"}]}],\"displayed_hours\":[{\"title\":\"Closed the morning of 10\\/3 for routine maintenance\"}]}]},{\"nid\":\"10\",\"type\":\"cu_dining_location\",\"title\":\"John Jay Dining Hall\",\"address\":\"<p>519 W 114th St, New York, NY 10027<\\/p>\",\"description\":\"<p>Just like home food favorites, made fresh daily. Special orders at the grill or features at the hot entr\\u00e9e station, plus sushi, grain bowls and a full salad bar. Kosher to-go counter at the main entrance. Located in John Jay on the first floor.<\\/p>\\n\\n<p>Food service is continuous during operational hours, with specific meal items served at the following times:<\\/p>\\n\\n<ul><li><strong>Breakfast:<\\/strong>\\u00a09:30 a.m. - 11:00 a.m., with breakfast items available at the grill until 2:00 p.m.<\\/li>\\n\\t<li><strong>Lunch:\\u00a0<\\/strong>11:00 a.m. - 2:30 p.m., Pasta, Fusion, and Salad Stations remain open<\\/li>\\n\\t<li><strong>Dinner:<\\/strong>\\u00a05:00 p.m. - close<\\/li>\\n<\\/ul><p><strong><em>Menus are subject to change. For the most accurate allergen information, refer to the printed in-unit menus.<\\/em><\\/strong><\\/p>\",\"display_crowd\":\"1\",\"crowd_id\":\"840\",\"crowd_info\":\"\",\"crowd_max\":\"246\",\"image\":\"\",\"latitude\":\"40.806\",\"longitude\":\"-73.9626\",\"open_hours\":[\"25075\",\"29007\"],\"path\":\"\\/content\\/john-jay-dining-hall\",\"open_hours_fields\":[{\"date_from\":\"2023-09-03T04:00:00\",\"date_to\":\"2023-12-23T04:59:59\",\"days\":[{\"days_monday\":[{\"hours_from\":\"930\",\"hours_to\":\"2100\"}],\"days_sunday\":[{\"hours_from\":\"930\",\"hours_to\":\"2100\"}],\"days_thursday\":[{\"hours_from\":\"930\",\"hours_to\":\"2100\"}],\"days_tuesday\":[{\"hours_from\":\"930\",\"hours_to\":\"2100\"}],\"days_wednesday\":[{\"hours_from\":\"930\",\"hours_to\":\"2100\"}]}],\"displayed_hours\":[{\"title\":\"Sunday - Thursday: 9:30 a.m. \\u2013 9:00 p.m.\"}],\"excluded\":[\"2023-11-22\",\"2023-11-23\",\"2023-11-24\",\"2023-11-25\",\"2023-11-26\"]},{\"date_from\":\"2023-11-22T05:00:01\",\"date_to\":\"2023-11-27T04:59:59\",\"days\":[{\"days_monday\":[{\"hours_from\":\"1000\",\"hours_to\":\"1800\"}],\"days_sunday\":[{\"hours_from\":\"930\",\"hours_to\":\"1900\"}]}],\"displayed_hours\":[{\"title\":\"Adjusted Hours for Thanksgiving Break\"}]}]},{\"nid\":\"58\",\"type\":\"cu_dining_location\",\"title\":\"Lenfest Caf\\u00e9\",\"address\":\"<p>410 W 117th St, New York, NY 10027<\\/p>\",\"description\":\"<p>A coffee bar and quick grab-and-go dining option offering packaged deli sandwiches, flatbread pizzas,\\u00a0chef-prepared sushi, and daily specials for lunch. Located on the second floor of\\u00a0Columbia Law School, in Jerome Greene Hall.<\\/p>\\n\\n<p><strong><em>Menus are subject to change. For the most accurate allergen information, refer to the printed in-unit menus.<\\/em><\\/strong><\\/p>\",\"display_crowd\":\"0\",\"crowd_id\":\"\",\"crowd_info\":\"\",\"crowd_max\":\"\",\"image\":\"\",\"latitude\":\"40.807\",\"longitude\":\"-73.9597\",\"open_hours\":[\"20285\",\"29026\"],\"path\":\"\\/content\\/lenfest-cafe-0\",\"open_hours_fields\":[{\"date_from\":\"2023-09-05T04:00:00\",\"date_to\":\"2023-12-23T04:59:59\",\"days\":[{\"days_friday\":[{\"hours_from\":\"800\",\"hours_to\":\"1500\"}],\"days_monday\":[{\"hours_from\":\"800\",\"hours_to\":\"1830\"}],\"days_thursday\":[{\"hours_from\":\"800\",\"hours_to\":\"1830\"}],\"days_tuesday\":[{\"hours_from\":\"800\",\"hours_to\":\"1830\"}],\"days_wednesday\":[{\"hours_from\":\"800\",\"hours_to\":\"1830\"}]}],\"displayed_hours\":[{\"title\":\"Monday - Thursday: 8:00 a.m. - 6:30 p.m.\"},{\"title\":\"Friday: 8:00 a.m. - 3:00 p.m.\"}],\"excluded\":[\"2023-11-22\",\"2023-11-23\",\"2023-11-24\"]},{\"date_from\":\"2023-11-22T05:00:00\",\"date_to\":\"2023-11-25T04:59:59\",\"days\":[[]],\"displayed_hours\":[{\"title\":\"Closed forThanksgiving Break\"}]}]},{\"nid\":\"7452\",\"type\":\"cu_dining_location\",\"title\":\"Robert F. Smith Dining Hall\",\"address\":\"<p>Henry R. Kravis Hall 655 W 130th St, New York, NY 10027<\\/p>\",\"description\":\"<p>Located in the Henry R. Kravis Hall at Columbia Business School, the Robert F. Smith Dining Hall is the go-to eatery for business school students, staff, and faculty.<\\/p>\\n\\n<p>Open Monday \\u2013 Friday, 8:00 a.m. \\u2013 4:00 p.m.,\\u00a0 with food service available at the following times:<\\/p>\\n\\n<ul><li>Continental breakfast: 8:00 a.m. \\u2013 11:00 a.m.<\\/li>\\n\\t<li>Lunch: 11:00 a.m. \\u2013 2:00 p.m.<\\/li>\\n\\t<li>Snacks &amp; grab-and-go items: 2:00 p.m. \\u2013 4:00 p.m.<\\/li>\\n\\t<li>Coffee bar: all day<\\/li>\\n<\\/ul><p><em>This location does not accept Columbia Dining meal swipes. Payment is by Flex or credit card only<\\/em>.<\\/p>\\n\\n<p><strong><em>Menus are subject to change. For the most accurate allergen information, refer to the printed in-unit menus.<\\/em><\\/strong><\\/p>\",\"display_crowd\":\"0\",\"crowd_id\":\"\",\"crowd_info\":\"\",\"crowd_max\":\"\",\"image\":\"\",\"latitude\":\"40.8184\",\"longitude\":\"-73.9596\",\"open_hours\":[\"35245\",\"40625\"],\"path\":\"\\/content\\/robert-f-smith-dining-hall-0\",\"open_hours_fields\":[{\"date_from\":\"2023-08-28T04:00:00\",\"date_to\":\"2024-01-01T04:59:00\",\"days\":[{\"days_friday\":[{\"hours_from\":\"800\",\"hours_to\":\"1600\"}],\"days_monday\":[{\"hours_from\":\"800\",\"hours_to\":\"1600\"}],\"days_thursday\":[{\"hours_from\":\"800\",\"hours_to\":\"1600\"}],\"days_tuesday\":[{\"hours_from\":\"800\",\"hours_to\":\"1600\"}],\"days_wednesday\":[{\"hours_from\":\"800\",\"hours_to\":\"1600\"}]}],\"displayed_hours\":[{\"title\":\"Open Monday \\u2013 Friday, 8:00 a.m. \\u2013 4:00 p.m.\"}],\"excluded\":[\"2023-11-22\",\"2023-11-23\",\"2023-11-24\",\"2023-11-25\",\"2023-11-26\"]},{\"date_from\":\"2023-11-22T05:00:00\",\"date_to\":\"2023-11-27T04:59:00\",\"days\":[[]],\"displayed_hours\":[{\"title\":\"Closed for Thanksgiving Break\"}]}]},{\"nid\":\"7487\",\"type\":\"cu_dining_location\",\"title\":\"The Fac Shack\",\"address\":\"\",\"description\":\"<p>Powered by Faculty House and located in Wien Courtyard, the Fac Shack food truck gives a gourmet twist to global street food. For those who crave quality cuisine but don\'t have time for a sit-down, dine-in experience, the Fac Shack brings a new, convenient, grab-and-go lunch option to East Campus. Use your Columbia Dining meal plan, Flex, or Dining Dollars. Barnard Exchange is also accepted.<\\/p>\\n\\n<p><strong><em>Menus are subject to change. For the most accurate allergen information, refer to the printed in-unit menus.<\\/em><\\/strong><\\/p>\",\"display_crowd\":\"0\",\"crowd_id\":\"\",\"crowd_info\":\"\",\"crowd_max\":\"\",\"image\":\"\",\"latitude\":\"40.8068\",\"longitude\":\"-73.9599\",\"open_hours\":[\"35825\",\"35833\",\"43779\"],\"path\":\"\\/content\\/fac-shack\",\"open_hours_fields\":[{\"date_from\":\"2023-08-31T04:00:00\",\"date_to\":\"2023-09-05T03:59:00\",\"days\":[[]],\"displayed_hours\":[{\"title\":\"Closed until after Labor Day\"}]},{\"date_from\":\"2023-09-05T04:00:00\",\"date_to\":\"2023-12-12T20:00:00\",\"days\":[{\"days_monday\":[{\"hours_from\":\"1100\",\"hours_to\":\"1500\"}],\"days_thursday\":[{\"hours_from\":\"1100\",\"hours_to\":\"1500\"}],\"days_tuesday\":[{\"hours_from\":\"1100\",\"hours_to\":\"1500\"}],\"days_wednesday\":[{\"hours_from\":\"1100\",\"hours_to\":\"1500\"}]}],\"displayed_hours\":[{\"title\":\"Open Monday - Thursday, 11:00 a.m. - 3:00 p.m.\"}],\"excluded\":[\"2023-11-23\",\"2023-11-24\",\"2023-11-03\"]},{\"date_from\":\"2023-12-12T20:00:01\",\"date_to\":\"2023-01-16T04:59:00\",\"days\":[[]],\"displayed_hours\":[{\"title\":\"Closed for Winter Break\"}]}]}]}`;
 	var dining_terms = `{\"types\":{\"6\":{\"name\":\"Breakfast\",\"tid\":\"6\"},\"55\":{\"name\":\"Daily\",\"tid\":\"55\"},\"61\":{\"name\":\"Lunch &amp; Dinner\",\"tid\":\"61\"},\"36\":{\"name\":\"Brunch\",\"tid\":\"36\"},\"37\":{\"name\":\"Late Night\",\"tid\":\"37\"},\"7\":{\"name\":\"Lunch\",\"tid\":\"7\"},\"8\":{\"name\":\"Dinner\",\"tid\":\"8\"}},\"stations\":{\"11\":{\"name\":\"Action Station\",\"tid\":\"11\"},\"110\":{\"name\":\"Build Your Own - Right Line\",\"tid\":\"110\"},\"109\":{\"name\":\"Cold Counter - Middle Line\",\"tid\":\"109\"},\"105\":{\"name\":\"Grain Bowl\",\"tid\":\"105\"},\"108\":{\"name\":\"Hot Counter - Left Line\",\"tid\":\"108\"},\"141\":{\"name\":\"Salad\",\"tid\":\"141\"},\"113\":{\"name\":\"Specialty Pizzas\",\"tid\":\"113\"},\"140\":{\"name\":\"Vegan &amp; Vegetarian Station\",\"tid\":\"140\"},\"74\":{\"name\":\"Beverages\",\"tid\":\"74\"},\"62\":{\"name\":\"Cold Bar\",\"tid\":\"62\"},\"73\":{\"name\":\"Daily Offerings\",\"tid\":\"73\"},\"98\":{\"name\":\"Dining Room Buffet\",\"tid\":\"98\"},\"100\":{\"name\":\"Fusion Station\",\"tid\":\"100\"},\"57\":{\"name\":\"Lunch &amp; Dinner\",\"tid\":\"57\"},\"56\":{\"name\":\"Sushi Station\",\"tid\":\"56\"},\"10\":{\"name\":\"Chef Mike&#039;s Kitchen\",\"tid\":\"10\"},\"31\":{\"name\":\"Deli\",\"tid\":\"31\"},\"35\":{\"name\":\"Fry Station\",\"tid\":\"35\"},\"12\":{\"name\":\"Gluten Free Station\",\"tid\":\"12\"},\"33\":{\"name\":\"Grill\",\"tid\":\"33\"},\"16\":{\"name\":\"Halal Station\",\"tid\":\"16\"},\"24\":{\"name\":\"Main Line\",\"tid\":\"24\"},\"27\":{\"name\":\"Nook\",\"tid\":\"27\"},\"13\":{\"name\":\"Nut Zone\",\"tid\":\"13\"},\"30\":{\"name\":\"Pasta Station\",\"tid\":\"30\"},\"34\":{\"name\":\"Daily Pizzas\",\"tid\":\"34\"},\"28\":{\"name\":\"Soup Station\",\"tid\":\"28\"},\"29\":{\"name\":\"Vegan Station\",\"tid\":\"29\"}},\"dietary_prefs\":{\"23\":{\"name\":\"Gluten Free\",\"tid\":\"23\"},\"22\":{\"name\":\"Halal\",\"tid\":\"22\"},\"20\":{\"name\":\"Vegan\",\"tid\":\"20\"},\"21\":{\"name\":\"Vegetarian\",\"tid\":\"21\"}}}`;
-	var menu_data = `[]`;
+	var menu_data = `[{\"nid\":\"7824\",\"type\":\"cu_dining_menu\",\"title\":\"The Fac Shack - MON-THURS 11am-3pm \",\"locations\":[\"7487\"],\"date_range\":[\"43838\"],\"date_range_fields\":[{\"date_from\":\"2023-12-12T05:01:01\",\"date_to\":\"2023-12-13T04:59:59\",\"menu_type\":[\"7\"],\"stations\":[{\"meals_paragraph\":[{\"prefs\":[\"Halal\"],\"title\":\"Choice of Vegetarian Entree or Non-Vegetarian Entree\"},{\"prefs\":[\"Gluten Free\",\"Halal\"],\"title\":\"Chicken Palak (Chicken & Spinach) and Yellow Dal (Lentils) Side\"},{\"prefs\":[\"Gluten Free\",\"Halal\",\"Vegan\"],\"title\":\"Yellow Dal (Lentils)  with Aloo Tofu (Potato & Tofu) Side \"},{\"prefs\":[\"Gluten Free\",\"Halal\",\"Vegan\"],\"title\":\"Zaffron Basmati Rice\"},{\"meal_text\":\"Naan Bread is NOT GF\",\"prefs\":[\"Halal\",\"Vegan\"],\"title\":\"Naan Bread & Mint Chutney Side\"},{\"meal_text\":\"Please ask for Today\'s Selection (and its ingredients)\",\"prefs\":[\"Halal\"],\"title\":\"Dessert\"},{\"prefs\":[\"Gluten Free\",\"Halal\",\"Vegan\"],\"title\":\"Water & Whole Fruit\"}],\"station\":[\"24\"]}],\"title\":\"The Fac Shack - MON-THURS 11am-3pm\"}]}]`;
 </script>
 <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBrj76-A_UgX04jPkpY381CO0lc4Zz_ZZ4"></script>
-<section id="cu_dining_locations-34967" class="paragraph paragraph--type--cu-dining-locations paragraph--view-mode--default anchored" data-ng-controller="dining">
+<section id="cu_dining_locations-35292" class="paragraph paragraph--type--cu-dining-locations paragraph--view-mode--default anchored" data-ng-controller="dining">
 		<div id="location_map" class="location-map"></div>
 		<div class="container">
 
@@ -810,219 +711,6 @@
 
 </section>
 
-  <div class="paragraph paragraph--type--cu-page-slice paragraph--view-mode--default page-slice">
-  <div class="container">
-    
-<div class="field field--name-field-cu-page-slice-content field--type-entity-reference-revisions field--label-hidden row">
-      <div class="paragraph paragraph--type--cu-page-slice-item paragraph--view-mode--default col-md-11 col-lg-11 grid-centered">
-    <div class="field field--name-field-cu-page-slice-item-content field--type-entity-reference-revisions field--label-hidden solo-grid-item field--items">
-  <div id="cu_card_group_media-35199" class="paragraph paragraph--type--cu-card-group-media paragraph--view-mode--default row anchored">
-    
-  <h2 class="field field--name-field-cu-card-group-label field--type-string field--label-hidden field--item">What’s on the Menu</h2>
-
-    
-    
-
-
-<div class="field field--name-field-cu-cards field--type-entity-reference-revisions field--label-hidden field--items clearfix"><div class="card-inner row">
-      <div class="field--item col-md-4 col-lg-4 col-xs-6 col-sm-4 media-style-0 media-item">
-<div id="cu_media_card-35193" class="paragraph paragraph--type--cu-media-card paragraph--view-mode--default anchored">
-  
-  
-          <span>
-
-                        <div class="field field--name-field-cu-image field--type-image field--label-hidden field--item">
-                <div class="image-wrapper">
-                    <img src="/sites/default/files/styles/cu_crop/public/content/RobertSmith/IC_Brekfast2.jpg?itok=3WiQ_9lO" width="585" height="390" alt="Photo of pistachio muffin, black coffee in a cup, and breakfast pastry with nuts" typeof="foaf:Image" class="img-responsive" />
-
-
-
-                </div>
-
-                            </div>
-            </span>
-      <div class="meta">
-              <div id="cu_media_card-35193-title">
-          
-  <div class="field field--name-field-cu-card-title field--type-string field--label-hidden field--item"><span>Breakfast Pastries</span></div>
-
-        </div>
-            </div>
-    
-        <div id="cu_media_card-35193-text">
-      
-    </div>
-    
-  
-</div>
-</div>
-      <div class="field--item col-md-4 col-lg-4 col-xs-6 col-sm-4 media-style-0 media-item">
-<div id="cu_media_card-35194" class="paragraph paragraph--type--cu-media-card paragraph--view-mode--default anchored">
-  
-  
-          <span>
-
-                        <div class="field field--name-field-cu-image field--type-image field--label-hidden field--item">
-                <div class="image-wrapper">
-                    <img src="/sites/default/files/styles/cu_crop/public/content/RobertSmith/Gourmetsalads_IC.jpg?itok=iWZ6tvWv" width="585" height="390" alt="Salad with croutons, shrimp, broccoli, lettuce, and vinaigrette  " typeof="foaf:Image" class="img-responsive" />
-
-
-
-                </div>
-
-                            </div>
-            </span>
-      <div class="meta">
-              <div id="cu_media_card-35194-title">
-          
-  <div class="field field--name-field-cu-card-title field--type-string field--label-hidden field--item"><span>Gourmet Salads</span></div>
-
-        </div>
-            </div>
-    
-        <div id="cu_media_card-35194-text">
-      
-    </div>
-    
-  
-</div>
-</div>
-      <div class="field--item col-md-4 col-lg-4 col-xs-6 col-sm-4 media-style-0 media-item">
-<div id="cu_media_card-35195" class="paragraph paragraph--type--cu-media-card paragraph--view-mode--default anchored">
-  
-  
-          <span>
-
-                        <div class="field field--name-field-cu-image field--type-image field--label-hidden field--item">
-                <div class="image-wrapper">
-                    <img src="/sites/default/files/styles/cu_crop/public/content/RobertSmith/SandwichesIC.jpg?itok=zUoxenHe" width="585" height="390" alt="Close up of sandwich on a seed bun with lettuce, tomato, cheese, pesto sauce, and salami " typeof="foaf:Image" class="img-responsive" />
-
-
-
-                </div>
-
-                            </div>
-            </span>
-      <div class="meta">
-              <div id="cu_media_card-35195-title">
-          
-  <div class="field field--name-field-cu-card-title field--type-string field--label-hidden field--item"><span>E.A.T. Sandwiches by Eli Zabar</span></div>
-
-        </div>
-            </div>
-    
-        <div id="cu_media_card-35195-text">
-      
-    </div>
-    
-  
-</div>
-</div>
-      <div class="field--item col-md-4 col-lg-4 col-xs-6 col-sm-4 media-style-0 media-item">
-<div id="cu_media_card-35196" class="paragraph paragraph--type--cu-media-card paragraph--view-mode--default anchored">
-  
-  
-          <span>
-
-                        <div class="field field--name-field-cu-image field--type-image field--label-hidden field--item">
-                <div class="image-wrapper">
-                    <img src="/sites/default/files/styles/cu_crop/public/content/RobertSmith/HealthySnacks_IC.jpg?itok=MWNNN98G" width="585" height="390" alt="Refrigerator with orange juice, apples, water, yogurts" typeof="foaf:Image" class="img-responsive" />
-
-
-
-                </div>
-
-                            </div>
-            </span>
-      <div class="meta">
-              <div id="cu_media_card-35196-title">
-          
-  <div class="field field--name-field-cu-card-title field--type-string field--label-hidden field--item"><span>Healthy Snacks</span></div>
-
-        </div>
-            </div>
-    
-        <div id="cu_media_card-35196-text">
-      
-    </div>
-    
-  
-</div>
-</div>
-      <div class="field--item col-md-4 col-lg-4 col-xs-6 col-sm-4 media-style-0 media-item">
-<div id="cu_media_card-35197" class="paragraph paragraph--type--cu-media-card paragraph--view-mode--default anchored">
-  
-  
-          <span>
-
-                        <div class="field field--name-field-cu-image field--type-image field--label-hidden field--item">
-                <div class="image-wrapper">
-                    <img src="/sites/default/files/styles/cu_crop/public/content/RobertSmith/Cookies_IC.jpg?itok=E8ScX98c" width="585" height="390" alt="Close up of chocolate chip cookies by Jacques Torres" typeof="foaf:Image" class="img-responsive" />
-
-
-
-                </div>
-
-                            </div>
-            </span>
-      <div class="meta">
-              <div id="cu_media_card-35197-title">
-          
-  <div class="field field--name-field-cu-card-title field--type-string field--label-hidden field--item"><span>Cookies by Jacques Torres</span></div>
-
-        </div>
-            </div>
-    
-        <div id="cu_media_card-35197-text">
-      
-    </div>
-    
-  
-</div>
-</div>
-      <div class="field--item col-md-4 col-lg-4 col-xs-6 col-sm-4 media-style-0 media-item">
-<div id="cu_media_card-35198" class="paragraph paragraph--type--cu-media-card paragraph--view-mode--default anchored">
-  
-  
-          <span>
-
-                        <div class="field field--name-field-cu-image field--type-image field--label-hidden field--item">
-                <div class="image-wrapper">
-                    <img src="/sites/default/files/styles/cu_crop/public/content/RobertSmith/Coffee_IC.jpg?itok=CUEkmSzv" width="585" height="390" alt="Columbia Dining staff smiling into the camera and preparing coffee. Additional Columbia dining staff member in the background  " typeof="foaf:Image" class="img-responsive" />
-
-
-
-                </div>
-
-                            </div>
-            </span>
-      <div class="meta">
-              <div id="cu_media_card-35198-title">
-          
-  <div class="field field--name-field-cu-card-title field--type-string field--label-hidden field--item"><span>Coffee &amp; Espresso Bar</span></div>
-
-        </div>
-            </div>
-    
-        <div id="cu_media_card-35198-text">
-      
-    </div>
-    
-  
-</div>
-</div>
-  </div></div>
-
-</div>
-
-</div>
-
-</div>
-  </div>
-
-  </div>
-</div>
-
 </div>
 
   </div>
@@ -1077,7 +765,7 @@
                   <span role="img" aria-label="Email" class="ss-icon ss-mail"></span>
                   <div class="text">
                     <h2>Contact Us</h2>
-                    <div class="value"><a href="/cdn-cgi/l/email-protection#84e0edeaedeae3c4e7ebe8f1e9e6ede5aae1e0f1"><span class="__cf_email__" data-cfemail="81e5e8efe8efe6c1e2eeedf4ece3e8e0afe4e5f4">[email&#160;protected]</span></a></div>
+                    <div class="value"><a href="/cdn-cgi/l/email-protection#82e6ebecebece5c2e1edeef7efe0ebe3ace7e6f7"><span class="__cf_email__" data-cfemail="395d505750575e795a56554c545b5058175c5d4c">[email&#160;protected]</span></a></div>
                   </div>
                 </div>
                               </div>
