@@ -1,0 +1,1199 @@
+<!DOCTYPE html>
+<html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# " class="wf-loading" data-ng-app="app">
+  <head>
+    <meta charset="utf-8" />
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-28283087-1"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "UA-28283087-1", {"groups":"default","anonymize_ip":true,"page_placeholder":"PLACEHOLDER_page_path","allow_ad_personalization_signals":false});gtag("config", "G-B8JR0BWLMK", {"groups":"default","page_placeholder":"PLACEHOLDER_page_location","allow_ad_personalization_signals":false});</script>
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+<link rel="shortcut icon" href="/themes/custom/columbia/favicon-crown.png" type="image/png" />
+<link rel="canonical" href="https://dining.columbia.edu/content/robert-f-smith-dining-hall-0" />
+<link rel="shortlink" href="https://dining.columbia.edu/node/7453" />
+<link rel="revision" href="https://dining.columbia.edu/content/robert-f-smith-dining-hall-0" />
+
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>Robert F. Smith Dining Hall  | Columbia Dining</title>
+
+    <script src="https://use.typekit.net/rke7urc.js"></script>
+    <script>try{Typekit.load({ async: false });}catch(e){}</script>
+
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_qvCfqvazH0_qOvxhZZlOECfm7YLPOCZoL54kRSPIu50.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_JEZOOA3WUQ4F-Tbru5AQZ45nJdoo5LmFRz8RDuo0dtM.css" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_RvlH2sdo5LPXNh6QZX-YMwcrF-CL4sKRhTlEc0ZYSi0.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_lk8TEVOCBL2CiYQ8GfRP0v8uyQbOcxWoEb-ZnSQsouc.css" />
+
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/7453","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"google_analytics":{"account":"UA-28283087-1","trackOutbound":true,"trackMailto":true,"trackTel":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"search_network":"default","bootstrap":{"forms_has_error_value_toggle":1,"popover_enabled":1,"popover_animation":1,"popover_auto_close":1,"popover_container":"body","popover_content":"","popover_delay":"0","popover_html":0,"popover_placement":"right","popover_selector":"","popover_title":"","popover_trigger":"click","tooltip_enabled":1,"tooltip_animation":1,"tooltip_container":"body","tooltip_delay":"0","tooltip_html":0,"tooltip_placement":"auto left","tooltip_selector":"","tooltip_trigger":"hover"},"page_type":"cu_landing_page","cu_alert":{"master":"preparedness.columbia.edu"},"user":{"uid":0,"permissionsHash":"83df1d1b2dadb7da508fd0b0627eacf9523c39162d7fd7801d9ddf37de7b38ed"}}</script>
+
+<!--[if lte IE 8]>
+<script src="/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+<script src="/sites/default/files/js/js_nY1QJNmCu4ge6jOCDPhFM9iovjgaHlEb_kOmP50MzOs.js"></script>
+
+  </head>
+  <body class="cu-profile-admin node-cu_landing_page path-node page-node-type-cu-landing-page has-glyphicons" data-ng-class="[global.controller, search.widgetOpen ? 'search-open' : '', (global.controller == 'search' && gcse.status) ? 'search-ready' : '', nav.mobileOpen ? 'mobile-nav-open' : '', page.overlayShown ? 'overlay-shown' : '', gsa.classes]" data-breakpoint="{ 0:'mobile', 767:'break768', 991:'break992' }" data-ng-controller="global">
+    <a id="top" href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+  
+<div class="header-wrapper">
+
+    <div class="region region-alerts">
+    <section id="block-globalalerts-cu-admin1" class="cu_alert_client_global_alerts block clearfix">
+  
+    
+
+      <div id="alerts"></div>
+  </section>
+
+
+  </div>
+
+
+  <div data-ng-hide="nav.mobileOpen" data-cu-alerts></div>
+  <header id="header" role="banner" class=" condensed-0" data-ng-class="nav.classes">
+
+    
+
+        <div id="search-widget-wrapper" data-ng-controller="searchWidget" data-ng-cloak>
+      <div class="container">
+        <div id="search-widget" class="angular-animate ng-trans ng-trans-fade-up" data-ng-show="search.widgetOpen">
+          <form data-ng-submit="search.submit()">
+            <div class="form-group clearfix">
+
+              <button id="search-widget-submit" class="hidden-xs pull-left" type="submit" aria-label="Submit keywords">
+                <div class="search-icon">
+                  <span></span>
+                  <span></span>
+                  <span></span>
+                </div>
+                <span class="sr-only">Submit keywords</span>
+              </button>
+
+              <label for="site-search-keywords" class="sr-only">Search the site</label>
+              <input type="text" id="site-search-keywords" data-ng-model="search.keywords" data-ng-model-options="{ debounce: 100 }" data-ng-keyup="gsa.keyUp($event)" class="form-control input-lg" placeholder="Search the site" aria-label="Search the site" autocomplete="off" />
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+    
+    <div id="nav-wrapper" class="hidden-xs" data-ng-if="breakpoint.class != 'mobile'">
+      <div class="container rooftop-and-search">
+
+        <div class="row">
+          <div class="col-sm-9 col-md-9 col-lg-9 rooftop">
+            <a href="https://www.columbia.edu/">Columbia University in the City of New York</a>
+          </div>
+
+          <button id="search-icon-wrapper" data-ng-click="search.toggleWidget()" aria-expanded = "{{search.widgetOpen}}"
+                  class="hidden-xs col-sm-1 col-md-1 col-lg-1 angular-animate ng-trans ng-trans-fade">
+            <div class="search-icon">
+              <span></span>
+              <span></span>
+              <span></span>
+            </div>
+            <span class="sr-only">Toggle search</span>
+          </button>
+
+        </div>
+
+
+      </div>
+    </div>
+    <div class="container branding-and-utility">
+      
+    <div id="utility-menu" class="hidden-xs">
+      <ul class="utility-menu-inner utility-inline">
+        <li data-ng-repeat="item in utility_menu track by $index" data-ng-class="(global.path == item.url) ? 'active': ''">
+          <a ng-if="!search.widgetOpen" data-ng-href="{{ ::(item.url != '<nolink>') ? composeUrlLink(item.url) : '#' }}" data-ng-bind-html="item.label"></a>
+
+          <ul class="dl-submenu" data-ng-if="item.children">
+            <li><a data-ng-href="{{ ::(item.url != '<nolink>') ? item.url : '#' }}" data-ng-class="(global.path == item.url) ? 'active': ''"><span class="bold" data-ng-bind-html="item.label"></span></a></li>
+            <li data-ng-repeat="second in item.children track by $index">
+              <a data-ng-href="{{ ::(second.url != '<nolink>') ? second.url : '#' }}" data-ng-class="(global.path == second.url) ? 'active': ''"><span data-ng-bind-html="second.label"></span></a>
+              <ul class="dl-submenu" data-ng-if="second.children">
+                <li><a data-ng-href="{{ ::(second.url != '<nolink>') ? second.url : '#' }}" data-ng-class="(global.path == second.url) ? 'active': ''"><span class="bold" data-ng-bind-html="second.label"></span></a></li>
+                <li data-ng-repeat="third in second.children track by $index">
+                  <a data-ng-href="{{ ::(third.url != '<nolink>') ? third.url : '#' }}" data-ng-class="(global.path == third.url) ? 'active': ''"><span data-ng-bind-html="third.label"></span></a>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+    
+              <li id="mp_button_wrapper" class="mp_button_wrapper">
+          <div id="cu_mp_button" class="cu_mp_button ">
+            <a data-destination="https://cufo.columbia.edu/" class="internal mp_button_link">Facilities and Operations</a>
+          </div>
+        </li>
+            </ul>
+    </div>
+  
+    <div id="branding" class="" data-ng-class="{ 'menu-empty' : !menu }">
+      <div id="nav-icon-wrapper" data-ng-click="nav.mobileToggle()" class="visible-xs-block" data-ng-class="(nav.mobileOpen) ? 'open' : ''">
+        <div id="nav-icon">
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+      </div>
+
+      <div id="brand-wrapper" class="col-sm-12">
+        <div id="brand-wrapper-inner">
+          <div class="visible-xs-block" data-ng-if="breakpoint.class == 'mobile'"><!-- Mobile -->
+                                          <a data-ng-href="{{ ::global.baseUrl }}"><span class="brand sr-only">Columbia University</span><svg class="cu-brand" xmlns="http://www.w3.org/2000/svg" width="187" height="14" viewBox="0 0 187 14">
+  <path d="M2.9 11.7C1.4 10.4 1 8.5 1 7c0-1.1.4-2.9 1.8-4.4 1-1 2.4-1.7 4.9-1.7.6 0 1.5 0 2.3.2.6.1 1.1.2 1.6.2.2 0 .2.1.2.2s0 .3-.1.9V4c0 .2 0 .3-.1.3s-.1-.1-.1-.3c0-.6-.3-1.3-.7-1.6-.6-.4-1.9-.9-3.3-.9-2.1 0-3.1.6-3.7 1.2-1.1 1.1-1.4 2.5-1.4 4.2 0 3.1 2.4 5.9 5.8 5.9 1.2 0 2.1-.1 2.8-.8.3-.4.5-1.1.6-1.3 0-.2.1-.2.2-.2s.1.1.1.2-.2 1.5-.4 2c-.1.3-.1.3-.4.5-.6.3-1.9.4-2.9.4-2.4-.1-4-.7-5.3-1.9zm16.2-8.9c3.2 0 5.6 1.9 5.6 5.1 0 3-2.3 5.6-5.6 5.6-3.9 0-5.5-2.9-5.5-5.3-.1-2.3 1.6-5.4 5.5-5.4zm.3 10.1c1.3 0 3.8-.7 3.8-4.6 0-3.3-2-5-4.2-5-2.4 0-4 1.5-4 4.4 0 3.2 1.9 5.2 4.4 5.2zm9.5-3.6c0 2 0 2.8.3 3.1.2.2.8.3 1.9.3.7 0 1.4 0 1.7-.4.2-.2.3-.5.3-.8 0-.1.1-.2.1-.2.1 0 .1.1.1.2s-.1 1-.2 1.4c-.1.3-.1.4-.9.4h-5.3c-.1 0-.2 0-.2-.1 0 0 0-.1.1-.1s.3 0 .4-.1c.3-.1.3-.3.4-.7.1-.6.1-1.6.1-2.9V4c0-.5-.1-.7-.6-.8h-.5l-.1-.1c-.1-.1 0-.1.2-.1h3.2c.1 0 .1 0 .1.1l-.1.1h-.5c-.4.1-.4.3-.5.8v5.3zm6.5-2.4V4c0-.4-.1-.7-.6-.8h-.5l-.1-.1c0-.1.1-.1.2-.1h3c.2 0 .2 0 .2.1l-.1.1h-.4c-.4.1-.4.3-.5.8v4.8c0 2 .4 2.8 1 3.3.7.6 1.3.7 2.1.7.9 0 1.7-.4 2.2-1 .7-.8.8-1.9.8-3.3V4s-.1-.7-.6-.8h-.5c-.1 0-.1-.1-.1-.1.1-.1.2-.1.4-.1h2.7c.2 0 .2 0 .2.1 0 0 0 .1-.1.1h-.4c-.4.1-.5.3-.5.8v4.4c0 1.5-.2 3.1-1.3 4.1-1 .9-2.1 1-2.9 1-.5 0-1.9 0-2.9-1-.7-.6-1.2-1.6-1.2-3.6v-2zm22.7 4.6c0 .5.1 1.2.7 1.4.4.1.8.1.9.1.1 0 .1 0 .1.1s-.1.1-.3.1c-.3 0-1.9 0-2.4-.1-.3 0-.4-.1-.4-.1s0-.1.1-.1.1-.2.1-.5l-.7-6.9-3.4 6.9c-.3.6-.4.7-.5.7s-.2-.1-.5-.6c-.4-.7-1.3-2.4-1.6-3.2-.4-.9-1.6-3.2-1.8-3.7h-.1l-.5 6.1v.7c0 .2.1.3.3.4.2.1.4.1.5.1 0 0 .1 0 .1.1s-.1.1-.3.1h-2.5c-.1 0-.2 0-.2-.1l.1-.1h.4c.5-.1.5-.6.5-1.1l1-8.9c0-.1.1-.2.2-.2s.2 0 .3.2l4.3 8.5L56.7 3c.1-.1.1-.2.2-.2s.2.1.2.4l1 8.3zm4.3-4.6V4c0-.5-.1-.7-.6-.8h-.5s-.1 0-.1-.1 0-.1.2-.1h3.2c2.4 0 3 1.4 3 2.1 0 1.1-.7 1.7-1.4 2.4 1.1.3 2.5 1.3 2.5 2.8 0 1.5-1.1 3-3.5 3h-3.5c-.1 0-.2 0-.2-.1 0 0 0-.1.1-.1s.3 0 .4-.1c.3 0 .3-.4.4-.8.1-.6.1-1.6.1-2.9V6.9zm1.2.3c0 .1 0 .1.1.1s.3.1.9.1c.8 0 1.1 0 1.4-.4.3-.3.5-.8.5-1.5 0-1-.6-2.2-2-2.2-.2 0-.5 0-.7.1-.1 0-.2.1-.2.1v3.7zm0 1.5v2.9c0 .7 0 .8.5 1 .4.2 1 .2 1.2.2.9 0 2.1-.4 2.1-2.1 0-.6-.2-1.8-1.3-2.5-.5-.3-.9-.3-1.3-.4h-1.1s-.1 0-.1.1v.8zm9.4.6c0 1.3 0 2.4.1 2.9 0 .4.1.7.5.7.2 0 .5.1.6.1.1 0 .1.1.1.1 0 .1-.1.1-.2.1h-3.2c-.1 0-.2 0-.2-.1 0 0 0-.1.1-.1s.3 0 .4-.1c.3-.1.3-.3.4-.7.1-.6.1-1.6.1-2.9V4c0-.5-.1-.7-.4-.7h-.4c-.1 0-.1-.1-.1-.1-.1-.2-.1-.2.1-.2h2.8c.2 0 .3 0 .3.1l-.1.1h-.4c-.4.1-.5.3-.5.8v5.3zm7.1-6.1c.2-.4.2-.5.3-.5.1 0 .2.2.3.5.3.6 2.5 6.2 3.4 8.3.5 1.2.9 1.4 1.2 1.5.2.1.4.1.6.1.1 0 .2 0 .2.1s-.2.1-.3.1h-2.2c-.3 0-.5 0-.5-.1s0-.1.1-.1.2-.1.1-.4L82 9.5c0-.1 0-.1-.1-.1h-3.2c-.1 0-.1 0-.1.1l-.8 2.2c-.1.3-.2.7-.2.9 0 .3.2.4.5.4h.1c.1 0 .1 0 .1.1s-.1.1-.2.1h-2.7c-.2 0-.3 0-.3-.1s.1-.1.1-.1h.4c.6-.1.9-.6 1.2-1.2l3.3-8.6zm1.5 5.7c.1 0 .1 0 0 0l-1.3-3.8c-.1-.2-.2-.2-.2 0l-1.3 3.7v.1h2.8zm11-3.1V2.3c0-.5-.2-.8-.7-.9h-.5c-.1 0-.1 0-.1-.1s.1-.1.3-.1H95c.2 0 .3 0 .3.1s-.1.1-.1.1h-.4c-.7.1-.8.4-.8.9V8c0 2.3.5 3.3 1.2 4 .8.7 1.5.9 2.4.9 1 0 1.9-.5 2.5-1.2.7-.9.9-2.3.9-3.9V2.3c0-.5-.2-.8-.7-.9h-.5c-.1 0-.1 0-.1-.1s.1-.1.3-.1h3c.2 0 .3 0 .3.1s-.1.1-.1.1h-.4c-.4.1-.6.4-.6.9v5.2c0 1.7-.2 3.6-1.5 4.8-1.2 1-2.4 1.2-3.3 1.2-.5 0-2.2-.1-3.3-1.1-.8-.8-1.4-1.9-1.4-4.2V5.8zm13.9 5.6c0 1.1.2 1.5.5 1.6.3.1.6.1.7.1.1 0 .1 0 .1.1s-.1.1-.3.1h-2.9c-.1 0-.2 0-.2-.1s0-.1.1-.1.4 0 .6-.1c.4-.1.4-.5.4-1.7V3.5c0-.5.1-.7.2-.7.2 0 .4.3.5.4.2.2 2.3 2.4 4.4 4.6 1.4 1.4 2.9 3.1 3.3 3.5l.1-6.8c0-.9-.1-1.2-.5-1.3-.3 0-.6-.1-.7-.1-.1 0-.1-.1-.1-.1 0-.1.1-.1.3-.1h2.7c.1 0 .3 0 .3.1 0 0-.1.1-.2.1h-.3c-.5.1-.5.4-.5 1.2v8c0 .9 0 1-.1 1s-.3-.1-1.1-.8c-.1-.1-2.2-2.1-3.7-3.7-1.6-1.7-3.2-3.4-3.6-3.9v6.5zm13.7-2.1c0 1.3 0 2.4.1 2.9 0 .4.1.7.5.7.2 0 .5.1.6.1.1 0 .1.1.1.1 0 .1-.1.1-.2.1h-3.2c-.1 0-.2 0-.2-.1 0 0 0-.1.1-.1s.3 0 .4-.1c.3-.1.3-.3.4-.7.1-.6.1-1.6.1-2.9V4c0-.5-.1-.7-.4-.7h-.4c-.1 0-.1-.1-.1-.1 0-.1.1-.1.2-.1h2.8c.2 0 .2 0 .2.1l-.1.1h-.4c-.4.1-.5.3-.5.8v5.2zm8 2.2c.8-1.8 2.7-6.5 3-7.4.1-.2.1-.4.1-.5 0-.1 0-.2-.2-.3h-.5c-.1 0-.2 0-.2-.1s.1-.1.3-.1h2.5c.1 0 .2 0 .2.1s0 .1-.2.1c-.1 0-.4 0-.7.2-.2.1-.4.3-.8 1.2-.2.4-.8 2-1.6 3.7-.9 2-1.5 3.5-1.8 4.1-.4.8-.5 1-.6 1-.2 0-.3-.2-.5-.8l-3.5-8.3c-.3-.8-.5-.9-1-1h-.5c-.1 0-.1-.1-.1-.1 0-.1.1-.1.4-.1h2.9c.3 0 .4 0 .4.1s0 .1-.1.1c-.2 0-.4 0-.5.1-.1.1-.2.1-.2.2 0 .2.2.6.4 1.1l2.8 6.7zm7.4-4.6V4c0-.5-.1-.7-.6-.8h-.5l-.1-.1c0-.1.1-.1.2-.1h5c.3 0 .5-.1.6-.1.1 0 .1-.1.2-.1l.1.1c0 .1-.1.3-.1.6 0 .1 0 .7-.1.9 0 .1-.1.1-.1.1-.1 0-.1-.1-.1-.2s0-.3-.1-.5-.2-.3-1-.4h-2c-.1 0-.1 0-.1.1v3.7c0 .1 0 .1.1.1h2.4c.3 0 .5 0 .7-.2l.2-.2s.1 0 .1.1-.1.3-.1.8c0 .3-.1.8-.1.9 0 .1 0 .3-.1.3s-.1 0-.1-.1 0-.3-.1-.4c0-.2-.2-.4-.7-.4-.4 0-1.9-.1-2.1-.1-.1 0-.1 0-.1.1v3.4c0 .9.3 1.1 1.7 1.1.4 0 1 0 1.4-.1.4-.2.6-.4.6-.9 0-.2.1-.2.1-.2s.1.1.1.2-.1 1-.2 1.3c-.1.4-.2.4-.8.4h-5c-.1 0-.2 0-.2-.1 0 0 0-.1.1-.1s.3 0 .4-.1c.3 0 .3-.3.4-.7.1-.6.1-1.6.1-2.9V6.9zm8.8 0V4c0-.5-.1-.7-.6-.8h-.5l-.1-.1c0-.1.1-.1.2-.1h3.5c.9 0 1.9.1 2.6.6.4.3 1 .9 1 1.9 0 1-.4 2-1.7 3.1 1.2 1.4 2.1 2.7 2.9 3.5.8.8 1.2.9 1.6.9h.5c.1 0 .1.1.1.1 0 .1-.1.1-.3.1h-.9c-.8 0-1.2-.1-1.5-.3-.6-.3-1.1-1-1.9-2-.6-.7-1.2-1.6-1.5-2-.1-.1-.1-.1-.2-.1h-1.8c-.1 0-.1 0-.1.1v.3c0 1.3 0 2.4.1 2.9 0 .4.1.7.6.7.2 0 .5.1.6.1.1 0 .1.1.1.1 0 .1-.1.1-.2.1h-3.1c-.1 0-.2 0-.2-.1 0 0 0-.1.1-.1s.3 0 .4-.1c.3-.1.3-.3.4-.7.1-.6.1-1.6.1-2.9V6.9zm1.2 1.2c0 .1 0 .1.1.2.2.1.9.2 1.6.2.3 0 .7 0 1.1-.2.5-.3.8-1 .8-2.1 0-1.7-.9-2.7-2.4-2.7-.4 0-.9 0-1 .1-.1 0-.1.1-.1.2v4.3z"/>
+  <path d="M153.8 13.1c-.2-.1-.2-.1-.2-.5 0-.7.1-1.2.1-1.4 0-.1 0-.2.1-.2s.1 0 .1.2v.5c.2 1 1.3 1.3 2.2 1.3 1.4 0 2.1-.8 2.1-1.8s-.5-1.4-1.8-2.4l-.6-.5c-1.5-1.1-2-2-2-2.9 0-1.6 1.3-2.6 3.1-2.6.6 0 1.1.1 1.5.2h.6c.1 0 .1 0 .1.1s-.1.5-.1 1.4c0 .2 0 .3-.1.3s-.1-.1-.1-.2c0-.2-.1-.5-.2-.7-.1-.2-.6-.7-1.8-.7-1 0-1.9.5-1.9 1.5 0 .9.4 1.4 1.8 2.3l.4.3c1.7 1.2 2.3 2.1 2.3 3.3 0 .8-.3 1.7-1.3 2.3-.6.4-1.5.5-2.2.5-.7 0-1.5-.1-2.1-.3zm10.6-3.8c0 1.3 0 2.4.1 2.9 0 .4.1.7.5.7.2 0 .5.1.6.1.1 0 .1.1.1.1 0 .1-.1.1-.2.1h-3.2c-.1 0-.2 0-.2-.1 0 0 0-.1.1-.1s.3 0 .4-.1c.3-.1.3-.3.4-.7.1-.6.1-1.6.1-2.9V4c0-.5-.1-.7-.4-.7h-.4c-.1 0-.1-.1-.1-.1 0-.1.1-.1.2-.1h2.8c.2 0 .2 0 .2.1l-.1.1h-.4c-.4.1-.5.3-.5.8v5.2zm8 0c0 1.3 0 2.4.1 2.9 0 .4.1.7.5.7.2 0 .5.1.6.1.1 0 .1.1.1.1 0 .1-.1.1-.2.1h-3.2c-.2 0-.2 0-.2-.1 0 0 0-.1.1-.1s.3 0 .4-.1c.3-.1.4-.3.4-.7.1-.6.1-1.6.1-2.9V3.6h-2c-.9 0-1.2.1-1.4.4-.2.2-.2.3-.2.4 0 .1-.1.1-.1.1s-.1 0-.1-.1.3-1.4.3-1.5c0-.1.1-.3.1-.3.1 0 .2.1.6.2.4 0 .9.1 1.1.1h5.3c.5 0 .8 0 1-.1.2 0 .3-.1.4-.1.1 0 .1.1.1.2v1.6c0 .1-.1.2-.1.2s-.1 0-.1-.2v-.1c0-.4-.4-.7-1.7-.8h-1.8v5.7zm8.6.4c0-.7-.1-1-.3-1.4-.1-.2-2-3.2-2.5-4-.3-.5-.7-.8-.9-1-.2-.1-.5-.2-.6-.2-.1 0-.1-.1-.1-.1s0-.1.2-.1h2.6c.2 0 .2 0 .2.1 0 0-.1.1-.2.1s-.2.1-.2.2c0 .2.1.4.2.5L182 8c.3-.6 2-3.5 2.3-3.9.2-.3.2-.5.2-.7 0-.2-.1-.3-.2-.4-.3.2-.3.1-.3 0 0 0 .1-.1.2-.1h2.4c.1 0 .2 0 .2.1s-.1.1-.2.1c-.2 0-.4 0-.7.2-.3.2-.4.3-.7.7-.5.5-2.4 3.7-2.7 4.3-.2.5-.2.9-.2 1.4v2.6c0 .4.1.7.5.7.2 0 .5.1.6.1.1 0 .1.1.1.1 0 .1-.1.1-.2.1h-3.2c-.2 0-.2 0-.2-.1 0 0 0-.1.1-.1s.3 0 .4-.1c.3-.1.4-.3.4-.7V9.7z"/>
+  </svg></a>
+                                                  </div>
+          <div class="hidden-xs"><!-- Desktop -->
+                        <div id="branded-site-name">
+              <div id="site-name"><a ng-attr-tabindex="{{ search.widgetOpen ? -1 : 0}}" href="/"><span>Columbia Dining</span></a></div>
+            </div>
+                      </div>
+        </div>
+      </div>
+
+      <button id="search-icon-wrapper-mobile" data-ng-click="search.toggleWidget()" class="visible-xs-block">
+        <div class="search-icon">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+        <span class="sr-only">Toggle search</span>
+      </button>
+    </div>
+    </div>
+
+    <nav id="mobile-nav" class="angular-animate ng-trans ng-trans-fade-down ng-hide nojs-hide" data-ng-if="breakpoint.class == 'mobile'" data-ng-show="nav.mobileOpen" data-ng-init="initMobileNav()" data-ng-cloak>
+      <div id="mobile-nav-container" class="dl-menuwrapper">
+                  
+        <ul class="dl-menu dl-menuopen">
+
+          <li data-ng-repeat="item in menu track by $index" data-ng-class="($last) ? 'last' : ''">
+            <a data-ng-href="{{ ::(item.url != '<nolink>') ? item.url : '#' }}" data-ng-class="(global.path == item.url) ? 'active': ''"><span data-ng-bind-html="item.label"></span></a>
+            <ul class="dl-submenu" data-ng-if="item.children">
+              <li><a data-ng-href="{{ ::(item.url != '<nolink>') ? item.url : '#' }}" data-ng-class="(global.path == item.url) ? 'active': ''"><span class="bold" data-ng-bind-html="item.label"></span></a></li>
+              <li data-ng-repeat="second in item.children track by $index">
+                <a data-ng-href="{{ ::(second.url != '<nolink>') ? second.url : '#' }}" data-ng-class="(global.path == second.url) ? 'active': ''"><span data-ng-bind-html="second.label"></span></a>
+                <ul class="dl-submenu" data-ng-if="second.children">
+                  <li><a data-ng-href="{{ ::(second.url != '<nolink>') ? second.url : '#' }}" data-ng-class="(global.path == second.url) ? 'active': ''"><span class="bold" data-ng-bind-html="second.label"></span></a></li>
+                  <li data-ng-repeat="third in second.children track by $index">
+                    <a data-ng-href="{{ ::(third.url != '<nolink>') ? third.url : '#' }}" data-ng-class="(global.path == third.url) ? 'active': ''"><span data-ng-bind-html="third.label"></span></a>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+
+          <li class="menu-cu-item" data-ng-repeat="item in utility_menu track by $index" data-ng-class="($last) ? 'last' : ''" ng-switch on="item.url || 'null'">
+            <span ng-switch-when="null" data-ng-href="{{ ::(item.url != '<nolink>') ? item.url : '#' }}" data-ng-class="(global.path == item.url) ? 'active': ''"><span data-ng-bind-html="item.label"></span></span>
+            <a ng-switch-default data-ng-href="{{ ::(item.url != '<nolink>') ? item.url : '#' }}" data-ng-class="(global.path == item.url) ? 'active': ''"><span data-ng-bind-html="item.label"></span></a>
+          </li>
+          <li data-ng-repeat="item in footer_menu track by $index" ng-switch on="item.url || 'null'">
+            <span ng-switch-when="null" data-ng-class="(global.path == item.url) ? 'active': ''"></span>
+            <a ng-switch-default data-ng-href="{{ ::(item.url != '<nolink>') ? composeUrlLink(item.url) : '#' }}" data-ng-class="(global.path == item.url) ? 'active': ''"><span data-ng-bind-html="item.label"></span></a>
+          </li>
+          
+                  <li class="mp_button_wrapper menu-cu-item  last">
+            <a href="https://cufo.columbia.edu/" class="btn"><span>Facilities and Operations</span></a>
+          </li>
+        
+        </ul>
+                </div>
+    </nav>
+
+  </header>
+
+  <nav id="site-nav-wrapper" hover-intent-out="::nav.focus(-1)" hover-intent-delay="250" class=" hidden-xs">
+
+      <div class="region region-navigation">
+    <nav role="navigation" aria-labelledby="block-cu-admin1-mainnavigation-menu" id="block-cu-admin1-mainnavigation" class="menu_block main">
+            
+  <h2 class="visually-hidden" id="block-cu-admin1-mainnavigation-menu">Main navigation expanded</h2>
+  
+
+        
+
+
+
+    
+
+    <script>var cu_site_menu = [ { "label": "Eat With Us", "url": "" , "children": [  {"label": "Dining Halls", "url": "" , "children": [  {"label": "Ferris Booth Commons", "url": "/content/ferris-booth-commons-0"},  {"label": "JJ&#039;s Place", "url": "/content/jjs-place-0"},  {"label": "John Jay Dining Hall", "url": "/content/john-jay-dining-hall"},  {"label": "Faculty House", "url": "/content/faculty-house-0"},  {"label": "Chef Mike&#039;s Sub Shop", "url": "/content/uris-deli-0"},  {"label": "Chef Don&#039;s Pizza Pi", "url": "/content/chef-dons-pizza-pi"},  {"label": "Grace Dodge Dining Hall", "url": "/content/grace-dodge-dining-hall-0"},  {"label": "Robert F. Smith Dining Hall", "url": "/content/robert-f-smith-dining-hall-0"},  {"label": "The Fac Shack", "url": "/content/fac-shack"}  ]  },  {"label": "Retail Locations", "url": "" , "children": [  {"label": "Blue Java Café - Butler Library", "url": "/content/blue-java-cafe-butler-library-0"},  {"label": "Blue Java Café - Mudd Hall", "url": "/content/blue-java-mudd-hall"},  {"label": "Blue Java Café - Uris Hall", "url": "/content/blue-java-cafe-uris-hall"},  {"label": "Blue Java at Everett Library Café", "url": "/content/blue-java-everett-library-cafe"},  {"label": "Lenfest Café", "url": "/content/lenfest-cafe-0"}  ]  },  {"label": "Vending Machines", "url": "/content/campus-vending-machine-locations"  },  {"label": "Nutrition", "url": "/content/nutrition"  },  {"label": "JJ&#039;s Catering", "url": "/catering"  }  ]  },  { "label": "Dining Plans", "url": "" , "children": [  {"label": "About Our Dining Plans", "url": "/content/dining-plans"  },  {"label": "First-Year Dining Plans", "url": "/content/first-year-dining-plans"  },  {"label": "Student Dining Plans", "url": "/student-dining-plans"  },  {"label": "Dining Plan Policy", "url": "/content/dining-plan-policy"  },  {"label": "Flex", "url": "/content/flex" , "children": [  {"label": "Food Delivery with Flex", "url": "/content/food-delivery-flex"},  {"label": "Change Your Dining Plan Jan 10-25", "url": "/news/dining-plan-change-period-january-10-25"}  ]  }  ]  },  { "label": "Dietary Considerations", "url": "/content/food-allergies-special-diets"  },  { "label": "Events", "url": "" , "children": [  {"label": "Event Calendar", "url": "/content/events"  },  {"label": "Special Events", "url": "/content/special-events"  }  ]  },  { "label": "About Us", "url": "" , "children": [  {"label": "Our Pledge", "url": "/content/our-pledge"  },  {"label": "Sustainability", "url": "/content/sustainability"  },  {"label": "Food Insecurity", "url": "/content/food-insecurity"  },  {"label": "Community Outreach", "url": "/content/community-outreach"  },  {"label": "Videos", "url": "/videos"  },  {"label": "News", "url": "/news"  },  {"label": "Staff Directory", "url": "/content/ourteam"  }  ]  }  ];</script>
+
+    <div id="site-nav" class="container" ng-if="search.showMenuOnSearch">
+
+      <ul class="nav nav-justified">
+                      <li class="menu-item active-trail" id="sitenav-1" ng-class="{ active: (nav.focusedTree == 'sitenav-1') }">
+                      <div class="clearfix" tabindex="0" hover-intent="::nav.focus('sitenav-1')" hover-intent-delay="100" ng-keydown="$event.keyCode == 9 && !$event.shiftKey && nav.focus('sitenav-1', 1)"><strong>Eat With Us</strong><span class="ss-icon ss-dropdown"></span></div>
+                  </li>
+                      <li class="menu-item" id="sitenav-2" ng-class="{ active: (nav.focusedTree == 'sitenav-2') }">
+                      <div class="clearfix" tabindex="0" hover-intent="::nav.focus('sitenav-2')" hover-intent-delay="100" ng-keydown="$event.keyCode == 9 && !$event.shiftKey && nav.focus('sitenav-2', 1)"><strong>Dining Plans</strong><span class="ss-icon ss-dropdown"></span></div>
+                  </li>
+                      <li class="menu-item" id="sitenav-3">
+                      <a href="/content/food-allergies-special-diets" class="clearfix" hover-intent="::nav.focus('sitenav-3')" hover-intent-delay="100"><strong>Dietary Considerations</strong></a>
+                  </li>
+                      <li class="menu-item" id="sitenav-4" ng-class="{ active: (nav.focusedTree == 'sitenav-4') }">
+                      <div class="clearfix" tabindex="0" hover-intent="::nav.focus('sitenav-4')" hover-intent-delay="100" ng-keydown="$event.keyCode == 9 && !$event.shiftKey && nav.focus('sitenav-4', 1)"><strong>Events</strong><span class="ss-icon ss-dropdown"></span></div>
+                  </li>
+                      <li class="menu-item" id="sitenav-5" ng-class="{ active: (nav.focusedTree == 'sitenav-5') }">
+                      <div class="clearfix" tabindex="0" hover-intent="::nav.focus('sitenav-5')" hover-intent-delay="100" ng-keydown="$event.keyCode == 9 && !$event.shiftKey && nav.focus('sitenav-5', 1)"><strong>About Us</strong><span class="ss-icon ss-dropdown"></span></div>
+                  </li>
+            </ul>
+
+    </div>
+
+    <div id="site-nav-second" ng-style="{ 'top': nav.secondOffset }" class="nojs-hide" ng-cloak>
+
+                        <div id="sitenav-1-second" class="menu-second angular-animate ng-trans ng-trans-fade-up ng-hide" ng-show="nav.focusedTree == 'sitenav-1'">
+        <div class="container">
+                        <ul class="menu">
+                    <li class="menu-item menu-item--expanded menu-item--active-trail">
+                  <div class="no-link">Dining Halls</div>
+                                        <ul class="menu">
+                    <li class="menu-item">
+                  <a href="/content/ferris-booth-commons-0" data-drupal-link-system-path="node/72">Ferris Booth Commons</a>
+                      </li>
+                <li class="menu-item">
+                  <a href="/content/jjs-place-0" data-drupal-link-system-path="node/71">JJ&#039;s Place</a>
+                      </li>
+                <li class="menu-item">
+                  <a href="/content/john-jay-dining-hall" data-drupal-link-system-path="node/70">John Jay Dining Hall</a>
+                      </li>
+                <li class="menu-item">
+                  <a href="/content/faculty-house-0" data-drupal-link-system-path="node/7348">Faculty House</a>
+                      </li>
+                <li class="menu-item">
+                  <a href="/content/uris-deli-0">Chef Mike&#039;s Sub Shop</a>
+                      </li>
+                <li class="menu-item">
+                  <a href="/content/chef-dons-pizza-pi" data-drupal-link-system-path="node/6991">Chef Don&#039;s Pizza Pi</a>
+                      </li>
+                <li class="menu-item">
+                  <a href="/content/grace-dodge-dining-hall-0" data-drupal-link-system-path="node/7451">Grace Dodge Dining Hall</a>
+                      </li>
+                <li class="menu-item menu-item--active-trail">
+                  <a href="/content/robert-f-smith-dining-hall-0" data-drupal-link-system-path="node/7453" class="is-active">Robert F. Smith Dining Hall</a>
+                      </li>
+                <li class="menu-item">
+                  <a href="/content/fac-shack" data-drupal-link-system-path="node/7486">The Fac Shack</a>
+                      </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+                  <div class="no-link">Retail Locations</div>
+                                        <ul class="menu">
+                    <li class="menu-item">
+                  <a href="/content/blue-java-cafe-butler-library-0" data-drupal-link-system-path="node/83">Blue Java Café - Butler Library</a>
+                      </li>
+                <li class="menu-item">
+                  <a href="/content/blue-java-mudd-hall">Blue Java Café - Mudd Hall</a>
+                      </li>
+                <li class="menu-item">
+                  <a href="/content/blue-java-cafe-uris-hall" data-drupal-link-system-path="node/79">Blue Java Café - Uris Hall</a>
+                      </li>
+                <li class="menu-item">
+                  <a href="/content/blue-java-everett-library-cafe" data-drupal-link-system-path="node/7481">Blue Java at Everett Library Café</a>
+                      </li>
+                <li class="menu-item">
+                  <a href="/content/lenfest-cafe-0" data-drupal-link-system-path="node/80">Lenfest Café</a>
+                      </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item">
+                  <a href="/content/campus-vending-machine-locations" data-drupal-link-system-path="node/6603">Vending Machines</a>
+                      </li>
+                <li class="menu-item">
+                  <a href="/content/nutrition" data-drupal-link-system-path="node/23">Nutrition</a>
+                      </li>
+                <li class="menu-item">
+                  <a href="/catering" data-drupal-link-system-path="node/4554">JJ&#039;s Catering</a>
+                      </li>
+        </ul>
+  
+        </div>
+      </div>
+                              <div id="sitenav-2-second" class="menu-second angular-animate ng-trans ng-trans-fade-up ng-hide" ng-show="nav.focusedTree == 'sitenav-2'">
+        <div class="container">
+                        <ul class="menu">
+                    <li class="menu-item">
+                  <a href="/content/dining-plans" data-drupal-link-system-path="node/3937">About Our Dining Plans</a>
+                      </li>
+                <li class="menu-item">
+                  <a href="/content/first-year-dining-plans" data-drupal-link-system-path="node/4674">First-Year Dining Plans</a>
+                      </li>
+                <li class="menu-item">
+                  <a href="/student-dining-plans" data-drupal-link-system-path="node/7025">Student Dining Plans</a>
+                      </li>
+                <li class="menu-item">
+                  <a href="/content/dining-plan-policy" data-drupal-link-system-path="node/6592">Dining Plan Policy</a>
+                      </li>
+                <li class="menu-item menu-item--expanded">
+                  <a href="/content/flex" data-drupal-link-system-path="node/7474">Flex</a>
+                                        <ul class="menu">
+                    <li class="menu-item">
+                  <a href="/content/food-delivery-flex" data-drupal-link-system-path="node/7475">Food Delivery with Flex</a>
+                      </li>
+                <li class="menu-item">
+                  <a href="/news/dining-plan-change-period-january-10-25" data-drupal-link-system-path="node/7798">Change Your Dining Plan Jan 10-25</a>
+                      </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+        </div>
+      </div>
+                                          <div id="sitenav-4-second" class="menu-second angular-animate ng-trans ng-trans-fade-up ng-hide" ng-show="nav.focusedTree == 'sitenav-4'">
+        <div class="container">
+                        <ul class="menu">
+                    <li class="menu-item">
+                  <a href="/content/events" data-drupal-link-system-path="node/1">Event Calendar</a>
+                      </li>
+                <li class="menu-item">
+                  <a href="/content/special-events" data-drupal-link-system-path="node/4653">Special Events</a>
+                      </li>
+        </ul>
+  
+        </div>
+      </div>
+                              <div id="sitenav-5-second" class="menu-second angular-animate ng-trans ng-trans-fade-up ng-hide" ng-show="nav.focusedTree == 'sitenav-5'">
+        <div class="container">
+                        <ul class="menu">
+                    <li class="menu-item">
+                  <a href="/content/our-pledge" data-drupal-link-system-path="node/4667">Our Pledge</a>
+                      </li>
+                <li class="menu-item">
+                  <a href="/content/sustainability" data-drupal-link-system-path="node/52">Sustainability</a>
+                      </li>
+                <li class="menu-item">
+                  <a href="/content/food-insecurity" data-drupal-link-system-path="node/354">Food Insecurity</a>
+                      </li>
+                <li class="menu-item">
+                  <a href="/content/community-outreach" data-drupal-link-system-path="node/4651">Community Outreach</a>
+                      </li>
+                <li class="menu-item">
+                  <a href="/videos" data-drupal-link-system-path="node/9">Videos</a>
+                      </li>
+                <li class="menu-item">
+                  <a href="/news" data-drupal-link-system-path="node/6">News</a>
+                      </li>
+                <li class="menu-item">
+                  <a href="/content/ourteam" data-drupal-link-system-path="node/54">Staff Directory</a>
+                      </li>
+        </ul>
+  
+        </div>
+      </div>
+            
+    </div>
+
+  
+
+
+
+
+
+  </nav>
+
+  </div>
+
+
+  </nav>
+</div>
+
+
+
+
+
+  <section id="search-results" data-ng-controller="searchResults" data-ng-if="global.controller == 'search'" data-ng-include="search.template" data-ng-style="{'padding-top': headerHeight}" autoscroll data-ng-cloak></section>
+
+  <main role="main" class="main-container">
+        
+        
+        
+        
+
+    <div class="container visible-xs-block">
+      <div id="header-xs" class="row">
+        <div class="col-sm-12">
+          <div id="site-name-mobile" data-ng-cloak>
+            <a data-ng-href="{{ ::global.baseUrl }}">
+                              Columbia Dining
+                          </a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+                      <div class="highlighted">  <div class="region region-highlighted">
+    <div id="messages">
+  <div data-drupal-messages-fallback class="hidden"></div>
+</div>
+
+  </div>
+</div>
+          
+        
+
+    <div id="main">
+
+      <section>
+
+                
+                
+        <div class="layout-content" id="main-content" tabindex="-1">
+            <div class="region region-content">
+      <nav id="breadcrumb" aria-label="Breadcrumbs">
+  <div class="container">
+    <h2 class="sr-only">You are here:</h2>
+    <ol class="breadcrumb">
+                      <li >
+                      <a href="/">Home</a>
+                  </li>
+                              <li >
+                      <span>Eat With Us</span>
+                  </li>
+                              <li >
+                      <span>Dining Halls</span>
+                  </li>
+                              <li  class="active">
+                      <span>Robert F. Smith Dining Hall </span>
+                  </li>
+                  </ol>
+  </div>
+</nav>
+
+  
+<div id="main-block" class="container conditional-container">
+  <article role="article" about="/content/robert-f-smith-dining-hall-0" class="cu-landing-page full clearfix">
+
+  
+          <h1 class="sr-only container">
+    <div class="container">Robert F. Smith Dining Hall </div>
+    </h1>
+    
+
+  
+  <div class="content">
+    
+<div class="field field--name-field-cu-landing-page-content field--type-entity-reference-revisions field--label-hidden landing-content">
+  <div class="paragraph paragraph--type--cu-paragraph-hero paragraph--view-mode--default with-image">
+    <div class="banner-image-and-text">
+                <div class="banner-image">
+              <div class="stellar-relative" ><div id="single_image-34965" class="paragraph paragraph--type--single-image paragraph--view-mode--default anchored">
+    
+      
+  <figure class="field field--name-field-cu-image field--type-image field--label-hidden image-wrapper cap-bot image-with-modal" id="robert-f-smith-dining-hall-with-employees-preparing-for-service-34965">
+              <img src="/sites/default/files/styles/cu_crop/public/content/HeroImages/RobertSmithHero.jpg?h=8e1e6bb8&amp;itok=umTF57XN" width="1920" height="700" alt="Robert F. Smith Dining Hall with employees preparing for service" typeof="foaf:Image" class="img-responsive" />
+
+
+
+          </figure>
+
+</div></div>
+
+        </div>
+                        <div class="banner-text">
+            <div class="container">
+                            <div class="banner-text-and-title">
+                                <h2>
+            <div class="accordion field field--name-field-cu-title field--type-string field--label-hidden field--item">Robert F. Smith Dining Hall: the go-to eatery in Manhattanville</div>
+      </h2>
+                                
+              </div>
+              
+              
+<div class="field field--name-field-cu-links field--type-link field--label-hidden field--items cu-links">
+  <a href="/content/robert-f-smith-dining-hall-gallery" class="btn btn-lg btn-primary" role="button">View Photo Gallery</a>
+</div>
+
+            </div>
+        </div>
+            </div>
+    <div class="banner-content">
+        <div class="container">
+            
+        </div>
+    </div>
+</div>
+
+  
+<div id="cu_img_card_carousel-34970" class="paragraph paragraph--type--cu-img-card-carousel paragraph--view-mode--default anchored">
+    
+            <div class="field field--name-field-cu-img-cards-carousel-cont field--type-entity-reference-revisions field--label-hidden field--item"><div id="cu_card_group_media-34969" class="paragraph paragraph--type--cu-card-group-media paragraph--view-mode--default row anchored">
+    
+  <h2 class="field field--name-field-cu-card-group-label field--type-string field--label-hidden field--item">Meet Our Managers</h2>
+
+    
+    
+
+
+
+
+
+
+<div class="field field--name-field-cu-cards field--type-entity-reference-revisions field--label-hidden field--items clearfix"><div class="card-inner" data-flickity="{ &quot;groupCells&quot;: true, &quot;wrapAround&quot;: false, &quot;pageDots&quot;: false, &quot;imagesLoaded&quot;: true }">
+      <div class="field--item media-style-0 media-item col-xs-6 col-sm-3 col-md-3 col-lg-2">
+<div id="cu_media_card-34968" class="paragraph paragraph--type--cu-media-card paragraph--view-mode--default anchored">
+  
+  
+                        <a class="card-link" href="/people/elhoucine-baha" aria-labelledby="cu_media_card-34968-title" aria-describedby="cu_media_card-34968-text">
+                <span>
+
+                        <div class="field field--name-field-cu-image field--type-image field--label-hidden field--item">
+                <div class="image-wrapper">
+                    <img src="/sites/default/files/styles/cu_crop/public/content/img/Bio%20Photos/ChefBaja_IC.jpg?itok=b97SLo7Z" width="1920" height="1280" alt="Photograph of Chef Baja in front of food service bar in the dining hall" title="Chef Elhoucine Baha" typeof="foaf:Image" class="img-responsive" />
+
+
+
+                </div>
+
+                                    <div class="container">
+                        <div class="image-caption">Chef Elhoucine Baha</div>
+                    </div>
+                            </div>
+            </span>
+      <div class="meta">
+              <div id="cu_media_card-34968-title">
+          
+  <div class="field field--name-field-cu-card-title field--type-string field--label-hidden field--item"><span>Chef Baha</span></div>
+
+        </div>
+            </div>
+          </a>
+    
+        <div id="cu_media_card-34968-text">
+      
+    </div>
+    
+  
+</div>
+</div>
+      <div class="field--item media-style-0 media-item col-xs-6 col-sm-3 col-md-3 col-lg-2">
+<div id="cu_media_card-34971" class="paragraph paragraph--type--cu-media-card paragraph--view-mode--default anchored">
+  
+  
+                        <a class="card-link" href="/people/hazel-clark" aria-labelledby="cu_media_card-34971-title" aria-describedby="cu_media_card-34971-text">
+                <span>
+
+                        <div class="field field--name-field-cu-image field--type-image field--label-hidden field--item">
+                <div class="image-wrapper">
+                    <img src="/sites/default/files/styles/cu_crop/public/content/img/Bio%20Photos/Hazel_IC.jpg?itok=D_1RlWPD" width="1920" height="1280" alt="Photograph of Hazel in the dining hall in front of the salad bar" title="Hazel Clark" typeof="foaf:Image" class="img-responsive" />
+
+
+
+                </div>
+
+                                    <div class="container">
+                        <div class="image-caption">Hazel Clark</div>
+                    </div>
+                            </div>
+            </span>
+      <div class="meta">
+              <div id="cu_media_card-34971-title">
+          
+  <div class="field field--name-field-cu-card-title field--type-string field--label-hidden field--item"><span>Hazel Clark</span></div>
+
+        </div>
+            </div>
+          </a>
+    
+        <div id="cu_media_card-34971-text">
+      
+    </div>
+    
+  
+</div>
+</div>
+  </div></div>
+
+</div>
+</div>
+      
+</div>
+
+  <script>
+	var defaultLocation = 7452;
+	var timezoneOffset = -18000;
+	var nodeJsonTime = 1703090841;
+	var termJsonTime = 1693919013;
+	var mealsGoLive = `1`;
+	var gmapApiKey = `AIzaSyBrj76-A_UgX04jPkpY381CO0lc4Zz_ZZ4`;
+	var dining_nodes = `{\"locations\":[{\"nid\":\"7482\",\"type\":\"cu_dining_location\",\"title\":\"Blue Java at Everett Library Caf\\u00e9 \",\"address\":\"<p>525 W 120th St, New York, NY 10027<\\/p>\",\"description\":\"<p>Located in Teachers College, Blue Java at Everett Library Caf\\u00e9 features a variety of Brooklyn Roasting Company coffees, teas, sandwiches, soups, and pastries, in addition to specialty items such as Nitro Brew and products from our local partners in Harlem.<\\/p>\\n\\n<p><strong><em>Menus are subject to change. For the most accurate allergen information, refer to the printed in-unit menus.<\\/em><\\/strong><\\/p>\",\"display_crowd\":\"0\",\"crowd_id\":\"\",\"crowd_info\":\"\",\"crowd_max\":\"\",\"image\":\"\",\"latitude\":\"40.8114\",\"longitude\":\"-73.9601\",\"open_hours\":[\"35647\",\"40561\",\"44619\",\"44626\"],\"path\":\"\\/content\\/blue-java-everett-library-cafe\",\"open_hours_fields\":[{\"date_from\":\"2023-09-05T04:00:00\",\"date_to\":\"2023-12-22T19:00:00\",\"days\":[{\"days_friday\":[{\"hours_from\":\"830\",\"hours_to\":\"1400\"}],\"days_monday\":[{\"hours_from\":\"830\",\"hours_to\":\"1930\"}],\"days_thursday\":[{\"hours_from\":\"830\",\"hours_to\":\"1930\"}],\"days_tuesday\":[{\"hours_from\":\"830\",\"hours_to\":\"1930\"}],\"days_wednesday\":[{\"hours_from\":\"830\",\"hours_to\":\"1930\"}]}],\"displayed_hours\":[{\"title\":\"Open Monday - Thursday, 8:30 a.m. - 7:30 p.m.\"},{\"title\":\"Open Friday, 8:30 a.m. - 2 p.m.\"}]},{\"date_from\":\"2023-12-22T19:00:01\",\"date_to\":\"2024-01-08T04:59:00\",\"days\":[[]],\"displayed_hours\":[{\"title\":\"Closed for Winter Break\"}]},{\"date_from\":\"2024-01-08T05:00:00\",\"date_to\":\"2024-01-13T04:59:59\",\"days\":[{\"days_friday\":[{\"hours_from\":\"800\",\"hours_to\":\"1400\"}],\"days_monday\":[{\"hours_from\":\"800\",\"hours_to\":\"1400\"}],\"days_thursday\":[{\"hours_from\":\"800\",\"hours_to\":\"1400\"}],\"days_tuesday\":[{\"hours_from\":\"800\",\"hours_to\":\"1400\"}],\"days_wednesday\":[{\"hours_from\":\"800\",\"hours_to\":\"1400\"}]}],\"displayed_hours\":[{\"title\":\"Open Jan 8-12, 8 a.m. - 2 p.m.\"}]},{\"date_from\":\"2024-01-13T05:00:00\",\"date_to\":\"2024-01-16T04:59:59\",\"days\":[[]],\"displayed_hours\":[{\"title\":\"Closed for Winter Break\"}]}]},{\"nid\":\"56\",\"type\":\"cu_dining_location\",\"title\":\"Blue Java Caf\\u00e9 - Butler Library\",\"address\":\"<p>535 W 114th St, New York, NY 10027<\\/p>\",\"description\":\"<p>Four convenient locations on campus offering fresh, fair trade, and organic coffee, along with a host of gourmet pastries, sandwiches, salads, and desserts. This location is on the ground floor of Butler Library.<\\/p>\\n\\n<p><strong><em>Menus are subject to change. For the most accurate allergen information, refer to the printed in-unit menus.<\\/em><\\/strong><\\/p>\",\"display_crowd\":\"0\",\"crowd_id\":\"\",\"crowd_info\":\"\",\"crowd_max\":\"\",\"image\":\"\",\"latitude\":\"40.8064\",\"longitude\":\"-73.9632\",\"open_hours\":[\"25127\",\"28418\",\"40558\",\"44612\",\"44615\"],\"path\":\"\\/content\\/blue-java-cafe-butler-library-0\",\"open_hours_fields\":[{\"date_from\":\"2023-09-05T04:00:00\",\"date_to\":\"2023-12-21T04:59:59\",\"days\":[{\"days_friday\":[{\"hours_from\":\"900\",\"hours_to\":\"2100\"}],\"days_monday\":[{\"hours_from\":\"800\",\"hours_to\":\"0\"}],\"days_saturday\":[{\"hours_from\":\"900\",\"hours_to\":\"2100\"}],\"days_sunday\":[{\"hours_from\":\"900\",\"hours_to\":\"2100\"}],\"days_thursday\":[{\"hours_from\":\"800\",\"hours_to\":\"0\"}],\"days_tuesday\":[{\"hours_from\":\"800\",\"hours_to\":\"0\"}],\"days_wednesday\":[{\"hours_from\":\"800\",\"hours_to\":\"0\"}]}],\"displayed_hours\":[{\"title\":\"Open Monday \\u2013 Thursday, 8:00 a.m. \\u2013 12:00 a.m.\"},{\"title\":\"Open Friday \\u2013 Sunday, 9:00 a.m. \\u2013 9:00 p.m.\"}]},{\"date_from\":\"2024-01-03T05:00:00\",\"date_to\":\"2024-01-13T04:59:00\",\"days\":[{\"days_friday\":[{\"hours_from\":\"800\",\"hours_to\":\"1400\"}],\"days_monday\":[{\"hours_from\":\"800\",\"hours_to\":\"1400\"}],\"days_thursday\":[{\"hours_from\":\"800\",\"hours_to\":\"1400\"}],\"days_tuesday\":[{\"hours_from\":\"800\",\"hours_to\":\"1400\"}],\"days_wednesday\":[{\"hours_from\":\"0\",\"hours_to\":\"0\"}]}],\"displayed_hours\":[{\"title\":\"Open Jan 3-12 (M-F), 8:00 a.m. - 2:00 p.m. during Winter Break\"}]},{\"date_from\":\"2023-12-21T05:00:00\",\"date_to\":\"2023-12-21T19:00:00\",\"days\":[{\"days_wednesday\":[{\"hours_from\":\"800\",\"hours_to\":\"1500\"}]}],\"displayed_hours\":[{\"title\":\"Closes at 2 p.m. for Winter Break\"}]},{\"date_from\":\"2023-12-21T19:00:01\",\"date_to\":\"2024-01-03T04:59:59\",\"days\":[[]],\"displayed_hours\":[{\"title\":\"Closed for Winter Break\"}]},{\"date_from\":\"2024-01-13T05:00:00\",\"date_to\":\"2024-01-16T04:59:59\",\"days\":[[]],\"displayed_hours\":[{\"title\":\"Closed for Winter Break\"}]}]},{\"nid\":\"57\",\"type\":\"cu_dining_location\",\"title\":\"Blue Java Caf\\u00e9 - Mudd Hall\",\"address\":\"<p>500 W 120th St, New York, NY 10027<\\/p>\",\"description\":\"<p>Four convenient locations on campus offering fresh, fair trade, and organic coffee, along with a host of gourmet pastries, sandwiches, salads, and desserts.\\u00a0Located on the first floor of the Engineering School\'s Mudd building.<\\/p>\\n\\n<p><strong><em>Menus are subject to change. For the most accurate allergen information, refer to the printed in-unit menus.<\\/em><\\/strong><\\/p>\",\"display_crowd\":\"0\",\"crowd_id\":\"\",\"crowd_info\":\"\",\"crowd_max\":\"\",\"image\":\"\",\"latitude\":\"40.8095\",\"longitude\":\"-73.96\",\"open_hours\":[\"25096\",\"26745\"],\"path\":\"\\/content\\/blue-java-cafe-mudd-hall-0\",\"open_hours_fields\":[{\"date_from\":\"2023-09-05T04:00:00\",\"date_to\":\"2023-12-21T15:30:00\",\"days\":[{\"days_friday\":[{\"hours_from\":\"800\",\"hours_to\":\"1030\"}],\"days_monday\":[{\"hours_from\":\"800\",\"hours_to\":\"1030\"}],\"days_thursday\":[{\"hours_from\":\"800\",\"hours_to\":\"1030\"}],\"days_tuesday\":[{\"hours_from\":\"800\",\"hours_to\":\"1030\"}],\"days_wednesday\":[{\"hours_from\":\"800\",\"hours_to\":\"1030\"}]}],\"displayed_hours\":[{\"title\":\"Monday \\u2013 Friday: 8 a.m. \\u2013 10:30 a.m.\"}]},{\"date_from\":\"2023-12-21T15:30:01\",\"date_to\":\"2024-01-16T04:59:00\",\"days\":[[]],\"displayed_hours\":[{\"title\":\"Closed for Winter Break\"}]}]},{\"nid\":\"60\",\"type\":\"cu_dining_location\",\"title\":\"Blue Java Caf\\u00e9 - Uris\",\"address\":\"<p>3022 Broadway, New York, NY 10027<\\/p>\",\"description\":\"<p>Blue Java Caf\\u00e9 in Uris features a variety of Brooklyn Roasting Company coffees, teas, sandwiches, soups, and pastries, in addition to specialty items such as Nitro Brew and products from our local partners in Harlem.<\\/p>\\n\\n<p><strong><em>Menus are subject to change. For the most accurate allergen information, refer to the printed in-unit menus.<\\/em><\\/strong><\\/p>\",\"display_crowd\":\"0\",\"crowd_id\":\"1340\",\"crowd_info\":\"\",\"crowd_max\":\"200\",\"image\":\"\",\"latitude\":\"40.809\",\"longitude\":\"-73.9615\",\"open_hours\":[\"20628\",\"27226\",\"44630\"],\"path\":\"\\/content\\/blue-java-cafe-uris-hall\",\"open_hours_fields\":[{\"date_from\":\"2023-09-05T04:00:00\",\"date_to\":\"2023-12-21T04:59:59\",\"days\":[{\"days_friday\":[{\"hours_from\":\"800\",\"hours_to\":\"1730\"}],\"days_monday\":[{\"hours_from\":\"800\",\"hours_to\":\"1730\"}],\"days_thursday\":[{\"hours_from\":\"800\",\"hours_to\":\"1730\"}],\"days_tuesday\":[{\"hours_from\":\"800\",\"hours_to\":\"1730\"}],\"days_wednesday\":[{\"hours_from\":\"800\",\"hours_to\":\"1730\"}]}],\"displayed_hours\":[{\"title\":\"Monday - Friday: 8:00 a.m. - 5:30 p.m.\"}]},{\"date_from\":\"2023-12-21T22:00:01\",\"date_to\":\"2024-01-16T04:59:00\",\"days\":[[]],\"displayed_hours\":[{\"title\":\"Closed for Winter Break\"}]},{\"date_from\":\"2023-12-21T05:00:00\",\"date_to\":\"2023-12-21T22:00:00\",\"days\":[{\"days_thursday\":[{\"hours_from\":\"800\",\"hours_to\":\"1700\"}]}],\"displayed_hours\":[{\"title\":\"Closes at 5 p.m. for Winter Break\"}]}]},{\"nid\":\"6990\",\"type\":\"cu_dining_location\",\"title\":\"Chef Don&#039;s Pizza Pi\",\"address\":\"<p>500 W 120th St, New York, NY 10027<\\/p>\",\"description\":\"<p>Chef Don\'s Pizza Pi serves four personal pizza options daily made on the spot just for you. Plus sides!<\\/p>\\n\\n<p>Food service is continuous during operational hours, with specific meal items served at the following times:<\\/p>\\n\\n<ul><li><strong>Breakfast:<\\/strong>\\u00a08:00 a.m. - 10:30 a.m.<\\/li>\\n\\t<li><strong>Lunch\\/Dinner:\\u00a0<\\/strong>11:00 a.m. - 7:00 p.m<\\/li>\\n<\\/ul><p><strong>Coffee is available for purchase during all hours of operation.<\\/strong><\\/p>\\n\\n<p><em>Menus are subject to change. For the most accurate allergen information, refer to the printed in-unit menus.<\\/em><\\/p>\",\"display_crowd\":\"0\",\"crowd_id\":\"\",\"crowd_info\":\"\",\"crowd_max\":\"\",\"image\":\"\",\"latitude\":\"40.8095\",\"longitude\":\"-73.96\",\"open_hours\":[\"28443\",\"29022\",\"38400\"],\"path\":\"\\/content\\/chef-dons-pizza-pi\",\"open_hours_fields\":[{\"date_from\":\"2023-09-05T04:00:00\",\"date_to\":\"2023-12-21T19:00:00\",\"days\":[{\"days_friday\":[{\"hours_from\":\"800\",\"hours_to\":\"1030\"},{\"hours_from\":\"1100\",\"hours_to\":\"1900\"}],\"days_monday\":[{\"hours_from\":\"800\",\"hours_to\":\"1030\"},{\"hours_from\":\"1100\",\"hours_to\":\"1900\"}],\"days_thursday\":[{\"hours_from\":\"800\",\"hours_to\":\"1030\"},{\"hours_from\":\"1130\",\"hours_to\":\"1900\"}],\"days_tuesday\":[{\"hours_from\":\"800\",\"hours_to\":\"1030\"},{\"hours_from\":\"1100\",\"hours_to\":\"1900\"}],\"days_wednesday\":[{\"hours_from\":\"800\",\"hours_to\":\"1030\"},{\"hours_from\":\"1100\",\"hours_to\":\"1900\"}]}],\"displayed_hours\":[{\"title\":\"Monday \\u2013 Friday: 8:00 a.m. \\u2013 10:30 a.m., 11:00 a.m. \\u2013 7:00 p.m.\"}],\"excluded\":[\"2023-12-21\"]},{\"date_from\":\"2023-12-21T05:00:00\",\"date_to\":\"2023-11-26T19:00:00\",\"days\":[{\"days_thursday\":[{\"hours_from\":\"800\",\"hours_to\":\"1030\"},{\"hours_from\":\"1100\",\"hours_to\":\"1400\"}]}],\"displayed_hours\":[{\"title\":\"Closes at 2:00 p.m. for Winter Break\"}]},{\"date_from\":\"2023-12-21T19:00:01\",\"date_to\":\"2024-01-16T04:59:00\",\"days\":[[]],\"displayed_hours\":[{\"title\":\"Closed for Winter Break\"}]}]},{\"nid\":\"6907\",\"type\":\"cu_dining_location\",\"title\":\"Chef Mike&#039;s Sub Shop\",\"address\":\"<p>Uris Hall, main Level<\\/p>\",\"description\":\"<p>Custom sub sandwiches, just like Chef Mike\'s grandma used to make. Plus soup, chips, drink and dessert.<\\/p>\\n\\n<p><strong><em>Menus are subject to change. For the most accurate allergen information, refer to the printed in-unit menus.<\\/em><\\/strong><\\/p>\",\"display_crowd\":\"1\",\"crowd_id\":\"1339\",\"crowd_info\":\"\",\"crowd_max\":\"\",\"image\":\"\",\"latitude\":\"40.8098\",\"longitude\":\"-73.9613\",\"open_hours\":[\"28195\",\"38406\"],\"path\":\"\\/chef-mikes\",\"open_hours_fields\":[{\"date_from\":\"2023-09-05T04:00:00\",\"date_to\":\"2023-12-22T04:59:59\",\"days\":[{\"days_friday\":[{\"hours_from\":\"1030\",\"hours_to\":\"2200\"}],\"days_monday\":[{\"hours_from\":\"1030\",\"hours_to\":\"2200\"}],\"days_thursday\":[{\"hours_from\":\"1030\",\"hours_to\":\"2200\"}],\"days_tuesday\":[{\"hours_from\":\"1030\",\"hours_to\":\"2200\"}],\"days_wednesday\":[{\"hours_from\":\"1030\",\"hours_to\":\"2200\"}]}],\"displayed_hours\":[{\"title\":\"Open Monday - Friday, 10:30 a.m. - 10:00 p.m.\"}]},{\"date_from\":\"2023-12-22T05:00:00\",\"date_to\":\"2024-01-16T04:59:00\",\"days\":[[]],\"displayed_hours\":[{\"title\":\"Closed for Winter Break\"}]}]},{\"nid\":\"7351\",\"type\":\"cu_dining_location\",\"title\":\"Faculty House\",\"address\":\"<p>64 Morningside Drive<\\/p>\\n\\n<p>New York, NY 10027<\\/p>\",\"description\":\"<p>Known for its delightful lunch featuring globally inspired cuisine, Faculty House emphasizes regionally grown and locally sourced ingredients. Our daily lunch features a main dish, pasta, a\\u00a0vegan entr\\u00e9e,\\u00a0plus a starch, veggie, salad, fruit and dessert!<\\/p>\\n\\n<p>Lunch is one swipe. Dining Dollars and Flex Dollars are also accepted. Click each menu below for details.<\\/p>\\n\\n<p><strong><em>Menus are subject to change. For the most accurate allergen information, refer to the printed in-unit menus.<\\/em><\\/strong><\\/p>\",\"display_crowd\":\"0\",\"crowd_id\":\"\",\"crowd_info\":\"\",\"crowd_max\":\"\",\"image\":\"\",\"latitude\":\"40.8067\",\"longitude\":\"-73.9592\",\"open_hours\":[\"35606\",\"37186\"],\"path\":\"\\/content\\/faculty-house-0\",\"open_hours_fields\":[{\"date_from\":\"2023-09-05T04:00:00\",\"date_to\":\"2023-12-20T19:30:00\",\"days\":[{\"days_friday\":[{\"hours_from\":\"1100\",\"hours_to\":\"1430\"}],\"days_monday\":[{\"hours_from\":\"1100\",\"hours_to\":\"1430\"}],\"days_thursday\":[{\"hours_from\":\"1100\",\"hours_to\":\"1430\"}],\"days_tuesday\":[{\"hours_from\":\"1100\",\"hours_to\":\"1430\"}],\"days_wednesday\":[{\"hours_from\":\"1100\",\"hours_to\":\"1430\"}]}],\"displayed_hours\":[{\"title\":\"Open Monday - Friday, 11:00 a.m. - 2:30 p.m.\"}]},{\"date_from\":\"2023-12-20T19:30:02\",\"date_to\":\"2024-01-16T04:59:59\",\"days\":[[]],\"displayed_hours\":[{\"title\":\"Closed for Winter Break\"}]}]},{\"nid\":\"12\",\"type\":\"cu_dining_location\",\"title\":\"Ferris Booth Commons\",\"address\":\"<p>Alfred Lerner Hall, 2920 Broadway, New York, NY 10027<\\/p>\",\"description\":\"<p>Breakfast including but not limited to eggs to order, Belgian waffles and\\u00a0yogurt until 2:00 PM, along with daily offerings of pasta, pizza, paninis, wraps and delectable desserts. Located on the 3rd floor of Alfred Lerner Hall.<\\/p>\\n\\n<p>Food service is continuous during operation, with specific meal items served during the following times:<\\/p>\\n\\n<ul><li>Breakfast: 7:30 a.m. - 11:00 a.m.<\\/li>\\n\\t<li>Lunch: 11:00 a.m. - 5:00 p.m.<\\/li>\\n\\t<li>Dinner: 5:00 p.m. - Closing<\\/li>\\n<\\/ul><p><strong>Vegan Station<\\/strong><\\/p>\\n\\n<ul><li>Lunch: 11:00 a.m. - 3:00 p.m.<\\/li>\\n\\t<li>Dinner: 5:00 p.m. - Closing<\\/li>\\n\\t<li><em>Closed from 3:00 p.m. to 5:00 p.m.<\\/em><\\/li>\\n<\\/ul><p><strong>Main Line:<\\/strong><\\/p>\\n\\n<ul><li>Brunch: Opening - 2:00 p.m.<\\/li>\\n\\t<li>Dinner: \\u00a05:00 p.m. - Closing<\\/li>\\n\\t<li><em>Closed from 2:00 p.m. to 5:00 p.m.<\\/em><\\/li>\\n<\\/ul><p><strong>Omelette<\\/strong>: Opening -11:00 a.m.<\\/p>\\n\\n<p><strong>Pasta:\\u00a0<\\/strong>11:30 a.m. - Closing<\\/p>\\n\\n<p><strong>Action Station:<\\/strong><\\/p>\\n\\n<ul><li>Lunch: 11:00 a.m. - 4:00 p.m.<\\/li>\\n\\t<li>Dinner: 5:00 p.m. - Closing<\\/li>\\n\\t<li><em>Closed from 4:00 p.m. to 5:00 p.m.<\\/em><\\/li>\\n<\\/ul><p><strong>Sandwiches, Desserts, Soups<\\/strong>: Opens at 11:00 a.m.<\\/p>\\n\\n<p><strong><em>Menus are subject to change. For the most accurate allergen information, refer to the printed in-unit menus.<\\/em><\\/strong><\\/p>\",\"display_crowd\":\"1\",\"crowd_id\":\"835\",\"crowd_info\":\"\",\"crowd_max\":\"264\",\"image\":\"\",\"latitude\":\"40.8069\",\"longitude\":\"-73.9637\",\"open_hours\":[\"25116\",\"28150\",\"38809\",\"44583\"],\"path\":\"\\/content\\/ferris-booth-commons-0\",\"open_hours_fields\":[{\"date_from\":\"2023-09-05T04:00:00\",\"date_to\":\"2023-12-23T03:59:59\",\"days\":[{\"days_friday\":[{\"hours_from\":\"730\",\"hours_to\":\"2000\"}],\"days_monday\":[{\"hours_from\":\"730\",\"hours_to\":\"2000\"}],\"days_saturday\":[{\"hours_from\":\"900\",\"hours_to\":\"2000\"}],\"days_sunday\":[{\"hours_from\":\"1000\",\"hours_to\":\"1400\"},{\"hours_from\":\"1600\",\"hours_to\":\"2000\"}],\"days_thursday\":[{\"hours_from\":\"730\",\"hours_to\":\"2000\"}],\"days_tuesday\":[{\"hours_from\":\"730\",\"hours_to\":\"2000\"}],\"days_wednesday\":[{\"hours_from\":\"730\",\"hours_to\":\"2000\"}]}],\"displayed_hours\":[{\"title\":\"Open Monday - Friday, 7:30 a.m. - 8:00 p.m.\"},{\"title\":\"Open Saturday, 9:00 a.m. - 8:00 p.m.\"},{\"title\":\"Open Sunday, 10:00 a.m. - 2:00 p.m., 4:00 - 8:00 p.m.\"}],\"excluded\":[\"2023-12-22\"]},{\"date_from\":\"2023-12-22T19:00:01\",\"date_to\":\"2024-01-13T04:59:59\",\"days\":[[]],\"displayed_hours\":[{\"title\":\"Closed for Winter Break\"}]},{\"date_from\":\"2023-12-22T05:00:00\",\"date_to\":\"2023-12-22T19:00:00\",\"days\":[{\"days_friday\":[{\"hours_from\":\"730\",\"hours_to\":\"1400\"}]}],\"displayed_hours\":[{\"title\":\"Closing at 2 p.m. for Winter Break\"}]},{\"date_from\":\"2024-01-13T05:00:00\",\"date_to\":\"2024-01-16T04:59:59\",\"days\":[{\"days_monday\":[{\"hours_from\":\"1000\",\"hours_to\":\"1800\"}],\"days_saturday\":[{\"hours_from\":\"1000\",\"hours_to\":\"1800\"}],\"days_sunday\":[{\"hours_from\":\"1000\",\"hours_to\":\"1800\"}]}],\"displayed_hours\":[{\"title\":\"Adjusted Hours for Winter Break\"}]}]},{\"nid\":\"7355\",\"type\":\"cu_dining_location\",\"title\":\"Grace Dodge Dining Hall\",\"address\":\"<p>Teachers College, 525 W 120th St, New York, NY 10027<\\/p>\",\"description\":\"<p>Located in the lower level of Teachers College, Grace Dodge Dining Hall offers all-you-care-to-eat dining Monday-Thursday, 11 a.m. - 7 p.m., and Friday, 11 a.m. - 2 p.m. The daily menu will include grill specials like banh mi sandwiches and tacos, vegan and vegetarian paninis, grilled cheese, and a made-to-order salad bar.<\\/p>\\n\\n<p>Food service is continuous during operational hours, with stations open during the following times:<\\/p>\\n\\n<ul><li>Grill Station serving lunch from 11 a.m. - 3 p.m., and dinner from 4 p.m. - 7 p.m.<\\/li>\\n\\t<li>Vegan Station serving lunch\\u00a0from 11 a.m. - 3 p.m., and dinner from 4 p.m. - 7 p.m.<\\/li>\\n\\t<li>Pizza Station serving from 11 a.m. - 7 p.m.<\\/li>\\n\\t<li>Salad Station\\u00a0serving from 11 a.m. - 7 p.m.<\\/li>\\n<\\/ul><p><strong><em>Menus are subject to change. For the most accurate allergen information, refer to the printed in-unit menus.<\\/em><\\/strong><\\/p>\",\"display_crowd\":\"0\",\"crowd_id\":\"\",\"crowd_info\":\"\",\"crowd_max\":\"\",\"image\":\"\",\"latitude\":\"40.811\",\"longitude\":\"-73.9596\",\"open_hours\":[\"35638\",\"40548\",\"44591\",\"44594\"],\"path\":\"\\/content\\/grace-dodge-dining-hall-0\",\"open_hours_fields\":[{\"date_from\":\"2023-09-05T04:00:00\",\"date_to\":\"2023-12-22T04:59:59\",\"days\":[{\"days_friday\":[{\"hours_from\":\"1100\",\"hours_to\":\"1400\"}],\"days_monday\":[{\"hours_from\":\"1100\",\"hours_to\":\"1900\"}],\"days_thursday\":[{\"hours_from\":\"1100\",\"hours_to\":\"1900\"}],\"days_tuesday\":[{\"hours_from\":\"1100\",\"hours_to\":\"1900\"}],\"days_wednesday\":[{\"hours_from\":\"1100\",\"hours_to\":\"1900\"}]}],\"displayed_hours\":[{\"title\":\"Open Monday - Thursday, 11 a.m. - 7 p.m.\"},{\"title\":\"Open Friday, 11 a.m. - 2 p.m.\"}]},{\"date_from\":\"2023-12-22T05:00:00\",\"date_to\":\"2024-01-08T04:59:00\",\"days\":[[]],\"displayed_hours\":[{\"title\":\"Closed for Winter Break\"}]},{\"date_from\":\"2024-01-08T05:00:00\",\"date_to\":\"2024-01-13T04:59:59\",\"days\":[{\"days_friday\":[{\"hours_from\":\"1000\",\"hours_to\":\"1800\"}],\"days_monday\":[{\"hours_from\":\"1000\",\"hours_to\":\"1800\"}],\"days_thursday\":[{\"hours_from\":\"1000\",\"hours_to\":\"1800\"}],\"days_tuesday\":[{\"hours_from\":\"1000\",\"hours_to\":\"1800\"}],\"days_wednesday\":[{\"hours_from\":\"1000\",\"hours_to\":\"1800\"}]}],\"displayed_hours\":[{\"title\":\"Modified Hours for Winter Break\"}]},{\"date_from\":\"2024-01-13T05:00:00\",\"date_to\":\"2024-01-16T04:59:59\",\"days\":[[]],\"displayed_hours\":[{\"title\":\"Closed for Winter Break\"}]}]},{\"nid\":\"11\",\"type\":\"cu_dining_location\",\"title\":\"JJ&#039;s Place\",\"address\":\"<p>519 W 114th St, New York, NY 10027<\\/p>\",\"description\":\"<p>JJ\\u2019s Place is the\\u00a0casual and comfortable weekend and late-night destination! Featuring an Angus Steak Burger and\\u00a0other specialty sandwiches plus\\u00a0fries, wings, smoothies, and more. Located lower level of John Jay Hall.<\\/p>\\n\\n<h2>JJ\'s Take 4<\\/h2>\\n\\n<p>Need to restock the snacks in your room, or want to grab some goodies for later? Use an extra meal swipe and take 4 items from the shelves by the cashier station in JJ\'s. Items include granola bars, nuts, pop tarts, oatmeal and cereal cups, chips, yogurt, and more.<\\/p>\\n\\n<p><strong><em>Menus are subject to change. For the most accurate allergen information, refer to the printed in-unit menus.<\\/em><\\/strong><\\/p>\",\"display_crowd\":\"1\",\"crowd_id\":\"839\",\"crowd_info\":\"\",\"crowd_max\":\"104\",\"image\":\"\",\"latitude\":\"40.806\",\"longitude\":\"-73.9625\",\"open_hours\":[\"25087\",\"35613\",\"38519\",\"28710\",\"44605\"],\"path\":\"\\/content\\/jjs-place-0\",\"open_hours_fields\":[{\"date_from\":\"2023-09-05T14:00:00\",\"date_to\":\"2023-12-20T16:59:59\",\"days\":[{\"days_friday\":[{\"hours_from\":\"1200\",\"hours_to\":\"1000\"}],\"days_monday\":[{\"hours_from\":\"1200\",\"hours_to\":\"1000\"}],\"days_saturday\":[{\"hours_from\":\"1200\",\"hours_to\":\"1000\"}],\"days_sunday\":[{\"hours_from\":\"1200\",\"hours_to\":\"1000\"}],\"days_thursday\":[{\"hours_from\":\"1200\",\"hours_to\":\"1000\"}],\"days_tuesday\":[{\"hours_from\":\"1200\",\"hours_to\":\"1000\"}],\"days_wednesday\":[{\"hours_from\":\"1200\",\"hours_to\":\"1000\"}]}],\"displayed_hours\":[{\"title\":\"Open daily 12:00 p.m. - 10:00 a.m.\"}]},{\"date_from\":\"2023-12-20T17:00:00\",\"date_to\":\"2023-12-21T06:00:00\",\"days\":[{\"days_friday\":[{\"hours_from\":\"1200\",\"hours_to\":\"2000\"}],\"days_sunday\":[{\"hours_from\":\"1200\",\"hours_to\":\"2000\"}],\"days_wednesday\":[{\"hours_from\":\"1200\",\"hours_to\":\"100\"}]}],\"displayed_hours\":[{\"title\":\"Closes at 1 a.m. Thursday morning for Winter Break\"}]},{\"date_from\":\"2023-12-21T06:00:01\",\"date_to\":\"2023-12-27T04:59:00\",\"days\":[{\"days_wednesday\":[{\"hours_from\":\"1000\",\"hours_to\":\"600\"}]}],\"displayed_hours\":[{\"title\":\"Closed for Winter Break\"}]},{\"date_from\":\"2023-12-27T06:00:01\",\"date_to\":\"2024-01-08T04:59:59\",\"days\":[{\"days_friday\":[{\"hours_from\":\"1000\",\"hours_to\":\"1800\"}],\"days_saturday\":[{\"hours_from\":\"1000\",\"hours_to\":\"1800\"}],\"days_sunday\":[{\"hours_from\":\"1000\",\"hours_to\":\"1800\"}],\"days_thursday\":[{\"hours_from\":\"1000\",\"hours_to\":\"1800\"}],\"days_tuesday\":[{\"hours_from\":\"1000\",\"hours_to\":\"1800\"}],\"days_wednesday\":[{\"hours_from\":\"1000\",\"hours_to\":\"1800\"}]}],\"displayed_hours\":[{\"title\":\"Modified Hours for Winter Break\"}]},{\"date_from\":\"2024-01-08T05:00:00\",\"date_to\":\"2024-01-16T04:59:59\",\"days\":[[]],\"displayed_hours\":[{\"title\":\"Closed for Winter Break\"}]}]},{\"nid\":\"10\",\"type\":\"cu_dining_location\",\"title\":\"John Jay Dining Hall\",\"address\":\"<p>519 W 114th St, New York, NY 10027<\\/p>\",\"description\":\"<p>Just like home food favorites, made fresh daily. Special orders at the grill or features at the hot entr\\u00e9e station, plus sushi, grain bowls and a full salad bar. Kosher to-go counter at the main entrance. Located in John Jay on the first floor.<\\/p>\\n\\n<p>Food service is continuous during operational hours, with specific meal items served at the following times:<\\/p>\\n\\n<ul><li><strong>Breakfast:<\\/strong>\\u00a09:30 a.m. - 11:00 a.m., with breakfast items available at the grill until 2:00 p.m.<\\/li>\\n\\t<li><strong>Lunch:\\u00a0<\\/strong>11:00 a.m. - 2:30 p.m., Pasta, Fusion, and Salad Stations remain open<\\/li>\\n\\t<li><strong>Dinner:<\\/strong>\\u00a05:00 p.m. - close<\\/li>\\n<\\/ul><p><strong><em>Menus are subject to change. For the most accurate allergen information, refer to the printed in-unit menus.<\\/em><\\/strong><\\/p>\",\"display_crowd\":\"1\",\"crowd_id\":\"840\",\"crowd_info\":\"\",\"crowd_max\":\"246\",\"image\":\"\",\"latitude\":\"40.806\",\"longitude\":\"-73.9626\",\"open_hours\":[\"25075\",\"29007\"],\"path\":\"\\/content\\/john-jay-dining-hall\",\"open_hours_fields\":[{\"date_from\":\"2023-09-03T04:00:00\",\"date_to\":\"2023-12-22T04:59:59\",\"days\":[{\"days_monday\":[{\"hours_from\":\"930\",\"hours_to\":\"2100\"}],\"days_sunday\":[{\"hours_from\":\"930\",\"hours_to\":\"2100\"}],\"days_thursday\":[{\"hours_from\":\"930\",\"hours_to\":\"2100\"}],\"days_tuesday\":[{\"hours_from\":\"930\",\"hours_to\":\"2100\"}],\"days_wednesday\":[{\"hours_from\":\"930\",\"hours_to\":\"2100\"}]}],\"displayed_hours\":[{\"title\":\"Sunday - Thursday: 9:30 a.m. \\u2013 9:00 p.m.\"}]},{\"date_from\":\"2023-12-22T05:00:01\",\"date_to\":\"2024-01-16T04:59:59\",\"days\":[[]],\"displayed_hours\":[{\"title\":\"Closed for Winter Break\"}]}]},{\"nid\":\"58\",\"type\":\"cu_dining_location\",\"title\":\"Lenfest Caf\\u00e9\",\"address\":\"<p>410 W 117th St, New York, NY 10027<\\/p>\",\"description\":\"<p>A coffee bar and quick grab-and-go dining option offering packaged deli sandwiches, flatbread pizzas,\\u00a0chef-prepared sushi, and daily specials for lunch. Located on the second floor of\\u00a0Columbia Law School, in Jerome Greene Hall.<\\/p>\\n\\n<p><strong><em>Menus are subject to change. For the most accurate allergen information, refer to the printed in-unit menus.<\\/em><\\/strong><\\/p>\",\"display_crowd\":\"0\",\"crowd_id\":\"\",\"crowd_info\":\"\",\"crowd_max\":\"\",\"image\":\"\",\"latitude\":\"40.807\",\"longitude\":\"-73.9597\",\"open_hours\":[\"20285\",\"29026\",\"44598\"],\"path\":\"\\/content\\/lenfest-cafe-0\",\"open_hours_fields\":[{\"date_from\":\"2023-09-05T04:00:00\",\"date_to\":\"2023-12-19T04:59:59\",\"days\":[{\"days_friday\":[{\"hours_from\":\"800\",\"hours_to\":\"1500\"}],\"days_monday\":[{\"hours_from\":\"800\",\"hours_to\":\"1830\"}],\"days_thursday\":[{\"hours_from\":\"800\",\"hours_to\":\"1830\"}],\"days_tuesday\":[{\"hours_from\":\"800\",\"hours_to\":\"1830\"}],\"days_wednesday\":[{\"hours_from\":\"800\",\"hours_to\":\"1830\"}]}],\"displayed_hours\":[{\"title\":\"Monday - Thursday: 8:00 a.m. - 6:30 p.m.\"},{\"title\":\"Friday: 8:00 a.m. - 3:00 p.m.\"}]},{\"date_from\":\"2023-12-20T05:00:00\",\"date_to\":\"2024-01-16T04:59:59\",\"days\":[[]],\"displayed_hours\":[{\"title\":\"Closed for Winter Break\"}]},{\"date_from\":\"2023-12-19T05:00:00\",\"date_to\":\"2023-12-20T04:59:59\",\"days\":[{\"days_tuesday\":[{\"hours_from\":\"800\",\"hours_to\":\"1800\"}]}],\"displayed_hours\":[{\"title\":\"Closing at 6 p.m. for Winter Break\"}]}]},{\"nid\":\"7452\",\"type\":\"cu_dining_location\",\"title\":\"Robert F. Smith Dining Hall\",\"address\":\"<p>Henry R. Kravis Hall 655 W 130th St, New York, NY 10027<\\/p>\",\"description\":\"<p>Located in the Henry R. Kravis Hall at Columbia Business School, the Robert F. Smith Dining Hall is the go-to eatery for business school students, staff, and faculty.<\\/p>\\n\\n<p>Open Monday \\u2013 Friday, 8:00 a.m. \\u2013 4:00 p.m.,\\u00a0 with food service available at the following times:<\\/p>\\n\\n<ul><li>Continental breakfast: 8:00 a.m. \\u2013 11:00 a.m.<\\/li>\\n\\t<li>Lunch: 11:00 a.m. \\u2013 2:00 p.m.<\\/li>\\n\\t<li>Snacks &amp; grab-and-go items: 2:00 p.m. \\u2013 4:00 p.m.<\\/li>\\n\\t<li>Coffee bar: all day<\\/li>\\n<\\/ul><p><em>This location does not accept Columbia Dining meal swipes. Payment is by Flex or credit card only<\\/em>.<\\/p>\\n\\n<p><strong><em>Menus are subject to change. For the most accurate allergen information, refer to the printed in-unit menus.<\\/em><\\/strong><\\/p>\",\"display_crowd\":\"0\",\"crowd_id\":\"\",\"crowd_info\":\"\",\"crowd_max\":\"\",\"image\":\"\",\"latitude\":\"40.8184\",\"longitude\":\"-73.9596\",\"open_hours\":[\"35245\",\"40625\",\"44609\"],\"path\":\"\\/content\\/robert-f-smith-dining-hall-0\",\"open_hours_fields\":[{\"date_from\":\"2023-08-28T04:00:00\",\"date_to\":\"2023-12-22T04:59:00\",\"days\":[{\"days_friday\":[{\"hours_from\":\"800\",\"hours_to\":\"1600\"}],\"days_monday\":[{\"hours_from\":\"800\",\"hours_to\":\"1600\"}],\"days_thursday\":[{\"hours_from\":\"800\",\"hours_to\":\"1600\"}],\"days_tuesday\":[{\"hours_from\":\"800\",\"hours_to\":\"1600\"}],\"days_wednesday\":[{\"hours_from\":\"800\",\"hours_to\":\"1600\"}]}],\"displayed_hours\":[{\"title\":\"Open Monday \\u2013 Friday, 8:00 a.m. \\u2013 4:00 p.m.\"}]},{\"date_from\":\"2023-12-22T19:00:01\",\"date_to\":\"2024-01-16T04:59:00\",\"days\":[[]],\"displayed_hours\":[{\"title\":\"Closed for Winter Break\"}]},{\"date_from\":\"2023-12-22T05:00:00\",\"date_to\":\"2023-12-22T19:00:00\",\"days\":[{\"days_friday\":[{\"hours_from\":\"800\",\"hours_to\":\"1400\"}]}],\"displayed_hours\":[{\"title\":\"Closing at 2 p.m. for Winter Break\"}]}]},{\"nid\":\"7487\",\"type\":\"cu_dining_location\",\"title\":\"The Fac Shack\",\"address\":\"\",\"description\":\"<p>Powered by Faculty House and located in Wien Courtyard, the Fac Shack food truck gives a gourmet twist to global street food. For those who crave quality cuisine but don\'t have time for a sit-down, dine-in experience, the Fac Shack brings a new, convenient, grab-and-go lunch option to East Campus. Use your Columbia Dining meal plan, Flex, or Dining Dollars. Barnard Exchange is also accepted.<\\/p>\\n\\n<p><strong><em>Menus are subject to change. For the most accurate allergen information, refer to the printed in-unit menus.<\\/em><\\/strong><\\/p>\",\"display_crowd\":\"0\",\"crowd_id\":\"\",\"crowd_info\":\"\",\"crowd_max\":\"\",\"image\":\"\",\"latitude\":\"40.8068\",\"longitude\":\"-73.9599\",\"open_hours\":[\"35825\",\"35833\",\"43779\"],\"path\":\"\\/content\\/fac-shack\",\"open_hours_fields\":[{\"date_from\":\"2023-08-31T04:00:00\",\"date_to\":\"2023-09-05T03:59:00\",\"days\":[[]],\"displayed_hours\":[{\"title\":\"Closed until after Labor Day\"}]},{\"date_from\":\"2023-09-05T04:00:00\",\"date_to\":\"2023-12-12T20:00:00\",\"days\":[{\"days_monday\":[{\"hours_from\":\"1100\",\"hours_to\":\"1500\"}],\"days_thursday\":[{\"hours_from\":\"1100\",\"hours_to\":\"1500\"}],\"days_tuesday\":[{\"hours_from\":\"1100\",\"hours_to\":\"1500\"}],\"days_wednesday\":[{\"hours_from\":\"1100\",\"hours_to\":\"1500\"}]}],\"displayed_hours\":[{\"title\":\"Open Monday - Thursday, 11:00 a.m. - 3:00 p.m.\"}],\"excluded\":[\"2023-11-23\",\"2023-11-24\",\"2023-11-03\"]},{\"date_from\":\"2023-12-12T20:00:01\",\"date_to\":\"2023-01-16T04:59:00\",\"days\":[[]],\"displayed_hours\":[{\"title\":\"Closed for Winter Break\"}]}]}]}`;
+	var dining_terms = `{\"types\":{\"6\":{\"name\":\"Breakfast\",\"tid\":\"6\"},\"55\":{\"name\":\"Daily\",\"tid\":\"55\"},\"61\":{\"name\":\"Lunch &amp; Dinner\",\"tid\":\"61\"},\"36\":{\"name\":\"Brunch\",\"tid\":\"36\"},\"37\":{\"name\":\"Late Night\",\"tid\":\"37\"},\"7\":{\"name\":\"Lunch\",\"tid\":\"7\"},\"8\":{\"name\":\"Dinner\",\"tid\":\"8\"}},\"stations\":{\"11\":{\"name\":\"Action Station\",\"tid\":\"11\"},\"110\":{\"name\":\"Build Your Own - Right Line\",\"tid\":\"110\"},\"109\":{\"name\":\"Cold Counter - Middle Line\",\"tid\":\"109\"},\"105\":{\"name\":\"Grain Bowl\",\"tid\":\"105\"},\"108\":{\"name\":\"Hot Counter - Left Line\",\"tid\":\"108\"},\"141\":{\"name\":\"Salad\",\"tid\":\"141\"},\"113\":{\"name\":\"Specialty Pizzas\",\"tid\":\"113\"},\"140\":{\"name\":\"Vegan &amp; Vegetarian Station\",\"tid\":\"140\"},\"74\":{\"name\":\"Beverages\",\"tid\":\"74\"},\"62\":{\"name\":\"Cold Bar\",\"tid\":\"62\"},\"73\":{\"name\":\"Daily Offerings\",\"tid\":\"73\"},\"98\":{\"name\":\"Dining Room Buffet\",\"tid\":\"98\"},\"100\":{\"name\":\"Fusion Station\",\"tid\":\"100\"},\"57\":{\"name\":\"Lunch &amp; Dinner\",\"tid\":\"57\"},\"56\":{\"name\":\"Sushi Station\",\"tid\":\"56\"},\"10\":{\"name\":\"Chef Mike&#039;s Kitchen\",\"tid\":\"10\"},\"31\":{\"name\":\"Deli\",\"tid\":\"31\"},\"35\":{\"name\":\"Fry Station\",\"tid\":\"35\"},\"12\":{\"name\":\"Gluten Free Station\",\"tid\":\"12\"},\"33\":{\"name\":\"Grill\",\"tid\":\"33\"},\"16\":{\"name\":\"Halal Station\",\"tid\":\"16\"},\"24\":{\"name\":\"Main Line\",\"tid\":\"24\"},\"27\":{\"name\":\"Nook\",\"tid\":\"27\"},\"13\":{\"name\":\"Nut Zone\",\"tid\":\"13\"},\"30\":{\"name\":\"Pasta Station\",\"tid\":\"30\"},\"34\":{\"name\":\"Daily Pizzas\",\"tid\":\"34\"},\"28\":{\"name\":\"Soup Station\",\"tid\":\"28\"},\"29\":{\"name\":\"Vegan Station\",\"tid\":\"29\"}},\"dietary_prefs\":{\"23\":{\"name\":\"Gluten Free\",\"tid\":\"23\"},\"22\":{\"name\":\"Halal\",\"tid\":\"22\"},\"20\":{\"name\":\"Vegan\",\"tid\":\"20\"},\"21\":{\"name\":\"Vegetarian\",\"tid\":\"21\"}}}`;
+	var menu_data = `[]`;
+</script>
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBrj76-A_UgX04jPkpY381CO0lc4Zz_ZZ4"></script>
+<section id="cu_dining_locations-34967" class="paragraph paragraph--type--cu-dining-locations paragraph--view-mode--default anchored" data-ng-controller="dining">
+		<div id="location_map" class="location-map"></div>
+		<div class="container">
+
+		<div class="row cu-dining-dropdowns">
+			<div class="grid-centered col-xs-12 col-md-8">
+				<div class="row">
+					<div class="col-xs-12 col-md-6">
+						<h6>Locations</h6>
+						<div class="cu-dining-dropdown">
+							<div class="active-option">
+								<a href="javascript:void(0)" class="status" data-ng-class="getOpenStatus(activeLocation.nid).class">
+									<span data-ng-if="!jsonLoaded">Locations loading…</span>
+									<span data-ng-if="jsonLoaded" data-ng-bind-html="activeLocation.title"></span>
+									<svg class="caret" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M7 10l5 5 5-5z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg>
+								</a>
+							</div>
+
+							
+							<ul class="cu-dining-dropdown-list content">
+								<li data-ng-repeat="location in locations">
+									<a href="{{location.path ? location.path : '#/' + location.nid }}" data-ng-class="(location.nid == activeLocation.nid) ? 'active' : ''">
+										<span class="name" data-ng-bind-html="::location.title"></span> <span class="status" data-ng-class="getOpenStatus(location.nid).class" data-ng-bind="getOpenStatus(location.nid).status">Open</span>
+									</a>
+								</li>
+							</ul>
+							
+
+														<a href="javascript:void(0)" id="location_map_btn" class="location-map-btn">Location Map</a>
+													</div>
+					</div>
+
+					<div class="col-xs-12 col-md-6">
+						<h6>Days</h6>
+						<div class="cu-dining-dropdown">
+							<div class="active-option">
+								<a href="javascript:void(0)">
+									<span data-ng-bind-html="activeDay.label">Today</span>
+									<svg class="caret" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M7 10l5 5 5-5z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg>
+								</a>
+							</div>
+
+							<ul class="cu-dining-dropdown-list content">
+								<li data-ng-repeat="day in days">
+									<a href="javascript:void(0)" data-ng-click="setDay(day)" data-ng-class="(day.value == activeDay.value) ? 'active' : ''">
+										<span class="name" data-ng-bind-html="::day.label"></span>
+									</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+
+					<div class="col-xs-12 col-md-4" style="display: none;" data-ng-hide="true">
+						<h6>Dietary Preferences</h6>
+						<div class="cu-dining-dropdown">
+							<div class="active-option">
+								<a href="javascript:void(0)">
+									<span>Select Your Preferences</span>
+									<svg class="caret" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M7 10l5 5 5-5z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg>
+								</a>
+							</div>
+
+							<div class="cu-dining-dropdown-checkboxes content">
+								<div class="checkboxes row">
+								
+									<div class="col-xs-12 col-md-4" data-ng-repeat="pref in dietaryPrefs">
+										<label for="cu-dining-dietary-pref-{{pref.tid}}">
+											<input id="cu-dining-dietary-pref-{{pref.tid}}" data-ng-model="activeDietary[pref.tid]" data-ng-change="setDietary(pref.tid)" type="checkbox" data-ng-disabled="availableDietaryPrefs.indexOf(pref.tid) < 0">
+											<span class="box"></span>
+											<span class="text" data-ng-bind-html="pref.name"></span>
+										</label>
+									</div>
+								
+								</div>
+								<div>
+									<a href="javascript:void(0)" class="clear" data-ng-click="resetDietary()">Clear Filter</a>
+								</div>
+							</div>
+
+						</div>
+
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="row cu-dining-location-node">
+			<div class="content grid-centered col-xs-12 col-md-8">
+				<h1 class="node-title" data-ng-bind-html="activeLocation.title"></h1>
+				<div class="cu-dining-crowdedness" data-ng-if="crowdedness && activeLocation.display_crowd == '1' && activeLocation.crowd_id">
+					<div class="indicator-item">
+						<p>Current Seating Capacity&nbsp;<a href="javascript:void(0)" data-target="#indicator-text" class="cu-dining-trigger"><i class="fa fa-info-circle"></i></a></p>
+						<div class="crowdedness-info" data-ng-if="activeLocation.crowd_info" data-ng-bind-html="activeLocation.crowd_info"></div>
+						<div class="indicator">
+							
+							<div class="marker" data-ng-bind="getCrowdedness(activeLocation.crowd_id, activeLocation.crowd_max) + ' Full'"></div>
+							<div class="bar"></div>
+							
+						</div>
+					</div>
+					<div id="indicator-text" class="indicator-text">
+						<p>Occuspace is the creator of privacy-friendly occupancy monitoring sensors that determine how busy spaces are in real time. The sensors detect WiFi and Bluetooth signals from electronic devices to estimate the number of occupants in the building and do not collect any personally identifiable information.</p>
+					</div>
+				</div>
+				<div class="cu-dining-location-display-hours">
+					<div data-ng-repeat="hours in activeLocation.open_hours_fields" data-ng-if="isInRange(hours.date_from, hours.date_to, hours.excluded)">
+						<div data-ng-repeat="displayed_hours in hours.displayed_hours" data-ng-bind="displayed_hours.title"></div>
+					</div>
+				</div>
+				<div class="cu-dining-location-description" data-ng-bind-html="activeLocation.description"></div>
+			</div>
+		</div>
+
+		<div class="cu-dining-menu-tabs grid-centered" data-ng-cloak>
+			<ul>
+				<li>
+					<button data-ng-bind="'All'" data-ng-if="menuTypeOptions.length > 1" data-ng-click="setMenu('All')" data-ng-class="(!activeMenu || activeMenu == 'All') ? 'active' : ''"></button>
+				</li>
+				<li data-ng-repeat="menu in menuTypeOptions | unique">
+					<button data-ng-bind-html="getMenuName(menu)" data-ng-click="setMenu(menu)" data-ng-class="(menu == activeMenu) ? 'active' : ''"></button>
+				</li>
+			</ul>
+		</div>
+	
+	<div class="cu-dining-filters" data-ng-show="menuTypeOptions.length > 1" data-ng-cloak>
+		<div class="cu-dining-dropdown auto-width">
+			<div class="active-option">
+				<a href="javascript:void(0)">
+					<span data-ng-bind-html="(activeStation) ? getStationName(activeStation) : 'Pick a Station'">Pick a Station</span>
+					<svg class="caret" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M7 10l5 5 5-5z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg>
+				</a>
+			</div>
+
+			<ul class="cu-dining-dropdown-list content">
+				<li>
+					<a href="javascript:void(0)" data-ng-click="setStation('')" data-ng-class="!activeStation ? 'active' : ''">All Stations</a>
+				</li>
+				<li data-ng-repeat="station in stationOptions | orderBy:'name'">
+					<a href="javascript:void(0)" data-ng-click="setStation(station.tid)" data-ng-class="(station.tid == activeStation) ? 'active' : ''">
+						<span class="name" data-ng-bind-html="station.name"></span>
+					</a>
+				</li>
+			</ul>
+
+		</div>
+	</div>
+</div>
+	<div id="cu-dining-meals" class="cu-dining-meals" data-ng-cloak>
+		<div>
+
+
+
+			<div class="menus striped" data-ng-repeat="menu in filteredMenus" data-date-range-title="{{menu.title}}" data-menu-node="{{menu.nid}}" data-ng-if="jsonLoaded && !activeMenu || jsonLoaded && activeMenu == 'All' || jsonLoaded && menu.menu_type.indexOf(activeMenu) > -1">
+				<div class="wrapper angular-animate ng-trans ng-trans-fade-down" data-ng-repeat="stations in menu.stations" data-ng-if="!activeStation || stations.station == activeStation">
+					<div class="container">
+					<h2 class="station-title" data-ng-bind-html="::stations.name"></h2>
+					<div class="meal-items">
+						<div class="meal-item angular-animate ng-trans ng-trans-fade-down" data-ng-repeat="meal in stations.meals_paragraph">
+							<img ng-src="::meal.image" alt="" data-ng-if="meal.image">
+							<h5 class="meal-title" data-ng-bind-html="::meal.title"></h5>
+							<div class="meal-description" data-ng-bind="::meal.meal_text" data-ng-if="meal.meal_text"></div>
+							<div class="meal-prefs" data-ng-if="meal.prefs"><strong>{{ meal.prefs|join:', ' }}</strong></div>
+							<div class="meal-allergens" data-ng-if="meal.allergens"><em>Contains: {{ meal.allergens|join:', ' }}</em></div>
+						</div>
+					</div>
+					</div>
+				</div>
+			</div>
+
+
+	
+		</div>
+
+	</div>
+
+</section>
+
+  <div class="paragraph paragraph--type--cu-page-slice paragraph--view-mode--default page-slice">
+  <div class="container">
+    
+<div class="field field--name-field-cu-page-slice-content field--type-entity-reference-revisions field--label-hidden row">
+      <div class="paragraph paragraph--type--cu-page-slice-item paragraph--view-mode--default col-md-11 col-lg-11 grid-centered">
+    <div class="field field--name-field-cu-page-slice-item-content field--type-entity-reference-revisions field--label-hidden solo-grid-item field--items">
+  <div id="cu_card_group_media-35199" class="paragraph paragraph--type--cu-card-group-media paragraph--view-mode--default row anchored">
+    
+  <h2 class="field field--name-field-cu-card-group-label field--type-string field--label-hidden field--item">What’s on the Menu</h2>
+
+    
+    
+
+
+<div class="field field--name-field-cu-cards field--type-entity-reference-revisions field--label-hidden field--items clearfix"><div class="card-inner row">
+      <div class="field--item col-md-4 col-lg-4 col-xs-6 col-sm-4 media-style-0 media-item">
+<div id="cu_media_card-35193" class="paragraph paragraph--type--cu-media-card paragraph--view-mode--default anchored">
+  
+  
+          <span>
+
+                        <div class="field field--name-field-cu-image field--type-image field--label-hidden field--item">
+                <div class="image-wrapper">
+                    <img src="/sites/default/files/styles/cu_crop/public/content/RobertSmith/IC_Brekfast2.jpg?itok=3WiQ_9lO" width="585" height="390" alt="Photo of pistachio muffin, black coffee in a cup, and breakfast pastry with nuts" typeof="foaf:Image" class="img-responsive" />
+
+
+
+                </div>
+
+                            </div>
+            </span>
+      <div class="meta">
+              <div id="cu_media_card-35193-title">
+          
+  <div class="field field--name-field-cu-card-title field--type-string field--label-hidden field--item"><span>Breakfast Pastries</span></div>
+
+        </div>
+            </div>
+    
+        <div id="cu_media_card-35193-text">
+      
+    </div>
+    
+  
+</div>
+</div>
+      <div class="field--item col-md-4 col-lg-4 col-xs-6 col-sm-4 media-style-0 media-item">
+<div id="cu_media_card-35194" class="paragraph paragraph--type--cu-media-card paragraph--view-mode--default anchored">
+  
+  
+          <span>
+
+                        <div class="field field--name-field-cu-image field--type-image field--label-hidden field--item">
+                <div class="image-wrapper">
+                    <img src="/sites/default/files/styles/cu_crop/public/content/RobertSmith/Gourmetsalads_IC.jpg?itok=iWZ6tvWv" width="585" height="390" alt="Salad with croutons, shrimp, broccoli, lettuce, and vinaigrette  " typeof="foaf:Image" class="img-responsive" />
+
+
+
+                </div>
+
+                            </div>
+            </span>
+      <div class="meta">
+              <div id="cu_media_card-35194-title">
+          
+  <div class="field field--name-field-cu-card-title field--type-string field--label-hidden field--item"><span>Gourmet Salads</span></div>
+
+        </div>
+            </div>
+    
+        <div id="cu_media_card-35194-text">
+      
+    </div>
+    
+  
+</div>
+</div>
+      <div class="field--item col-md-4 col-lg-4 col-xs-6 col-sm-4 media-style-0 media-item">
+<div id="cu_media_card-35195" class="paragraph paragraph--type--cu-media-card paragraph--view-mode--default anchored">
+  
+  
+          <span>
+
+                        <div class="field field--name-field-cu-image field--type-image field--label-hidden field--item">
+                <div class="image-wrapper">
+                    <img src="/sites/default/files/styles/cu_crop/public/content/RobertSmith/SandwichesIC.jpg?itok=zUoxenHe" width="585" height="390" alt="Close up of sandwich on a seed bun with lettuce, tomato, cheese, pesto sauce, and salami " typeof="foaf:Image" class="img-responsive" />
+
+
+
+                </div>
+
+                            </div>
+            </span>
+      <div class="meta">
+              <div id="cu_media_card-35195-title">
+          
+  <div class="field field--name-field-cu-card-title field--type-string field--label-hidden field--item"><span>E.A.T. Sandwiches by Eli Zabar</span></div>
+
+        </div>
+            </div>
+    
+        <div id="cu_media_card-35195-text">
+      
+    </div>
+    
+  
+</div>
+</div>
+      <div class="field--item col-md-4 col-lg-4 col-xs-6 col-sm-4 media-style-0 media-item">
+<div id="cu_media_card-35196" class="paragraph paragraph--type--cu-media-card paragraph--view-mode--default anchored">
+  
+  
+          <span>
+
+                        <div class="field field--name-field-cu-image field--type-image field--label-hidden field--item">
+                <div class="image-wrapper">
+                    <img src="/sites/default/files/styles/cu_crop/public/content/RobertSmith/HealthySnacks_IC.jpg?itok=MWNNN98G" width="585" height="390" alt="Refrigerator with orange juice, apples, water, yogurts" typeof="foaf:Image" class="img-responsive" />
+
+
+
+                </div>
+
+                            </div>
+            </span>
+      <div class="meta">
+              <div id="cu_media_card-35196-title">
+          
+  <div class="field field--name-field-cu-card-title field--type-string field--label-hidden field--item"><span>Healthy Snacks</span></div>
+
+        </div>
+            </div>
+    
+        <div id="cu_media_card-35196-text">
+      
+    </div>
+    
+  
+</div>
+</div>
+      <div class="field--item col-md-4 col-lg-4 col-xs-6 col-sm-4 media-style-0 media-item">
+<div id="cu_media_card-35197" class="paragraph paragraph--type--cu-media-card paragraph--view-mode--default anchored">
+  
+  
+          <span>
+
+                        <div class="field field--name-field-cu-image field--type-image field--label-hidden field--item">
+                <div class="image-wrapper">
+                    <img src="/sites/default/files/styles/cu_crop/public/content/RobertSmith/Cookies_IC.jpg?itok=E8ScX98c" width="585" height="390" alt="Close up of chocolate chip cookies by Jacques Torres" typeof="foaf:Image" class="img-responsive" />
+
+
+
+                </div>
+
+                            </div>
+            </span>
+      <div class="meta">
+              <div id="cu_media_card-35197-title">
+          
+  <div class="field field--name-field-cu-card-title field--type-string field--label-hidden field--item"><span>Cookies by Jacques Torres</span></div>
+
+        </div>
+            </div>
+    
+        <div id="cu_media_card-35197-text">
+      
+    </div>
+    
+  
+</div>
+</div>
+      <div class="field--item col-md-4 col-lg-4 col-xs-6 col-sm-4 media-style-0 media-item">
+<div id="cu_media_card-35198" class="paragraph paragraph--type--cu-media-card paragraph--view-mode--default anchored">
+  
+  
+          <span>
+
+                        <div class="field field--name-field-cu-image field--type-image field--label-hidden field--item">
+                <div class="image-wrapper">
+                    <img src="/sites/default/files/styles/cu_crop/public/content/RobertSmith/Coffee_IC.jpg?itok=CUEkmSzv" width="585" height="390" alt="Columbia Dining staff smiling into the camera and preparing coffee. Additional Columbia dining staff member in the background  " typeof="foaf:Image" class="img-responsive" />
+
+
+
+                </div>
+
+                            </div>
+            </span>
+      <div class="meta">
+              <div id="cu_media_card-35198-title">
+          
+  <div class="field field--name-field-cu-card-title field--type-string field--label-hidden field--item"><span>Coffee &amp; Espresso Bar</span></div>
+
+        </div>
+            </div>
+    
+        <div id="cu_media_card-35198-text">
+      
+    </div>
+    
+  
+</div>
+</div>
+  </div></div>
+
+</div>
+
+</div>
+
+</div>
+  </div>
+
+  </div>
+</div>
+
+</div>
+
+  </div>
+
+</article>
+
+</div>
+  </div>
+
+        </div>
+      </section>
+
+    </div>
+
+
+    
+
+          </main>
+
+
+
+  <footer>
+
+        <div id="site-footer">
+            <div class="container">
+        <div class="row flex-layout">
+          <div class="col-sm-9">
+
+            <div class="row flex-layout">
+
+                            <div class="col-md-6 col-lg-6">
+                                <div class="clearfix">
+                  <span class="ss-icon ss-location"></span>
+                  <div class="text">
+                    <address><span class="heading">Columbia Dining Main Office</span>515 West 114th Street  &middot;  New York,  NY 10027</address>
+                  </div>
+                </div>
+                
+                
+                              </div>
+              
+
+                            <div class="col-md-6 col-lg-3">
+                                <div class="clearfix">
+                  <span role="img" aria-label="Phone" class="ss-icon ss-phone"></span>
+                  <div class="text">
+                    <h2>Phone</h2>
+                    <div class="value"><a href="tel:2128544076">212-854-4076</a></div>
+                                      </div>
+                </div>
+                                                <div class="clearfix">
+                  <span role="img" aria-label="Email" class="ss-icon ss-mail"></span>
+                  <div class="text">
+                    <h2>Contact Us</h2>
+                    <div class="value"><a href="/cdn-cgi/l/email-protection#76121f181f18113615191a031b141f1758131203"><span class="__cf_email__" data-cfemail="8febe6e1e6e1e8cfece0e3fae2ede6eea1eaebfa">[email&#160;protected]</span></a></div>
+                  </div>
+                </div>
+                              </div>
+              
+
+                            <div class="col-md-6 col-lg-3">
+                
+                                <div id="cu-social-links" class="social">
+                  <h2>Follow Us</h2>
+                  <a href="http://www.facebook.com/columbiadining"><span class="ss-social-regular ss-facebook"></span><span class="sr-only">Facebook</span></a>                                    <a href="http://www.instagram.com/columbiadining"><span class="ss-social-regular ss-instagram"></span><span class="sr-only">Instagram</span></a>                  <a href="http://www.youtube.com/columbiadining"><span class="ss-social-regular ss-youtube"></span><span class="sr-only">Youtube</span></a>                                                                      </div>
+                              </div>
+              
+            </div>
+
+          </div>
+          <div class="hidden-xs col-sm-2 col-md-2 col-lg-2 pull-right" data-ng-switch on="footer_menu || 'null'" data-ng-cloak>
+            
+            <ul data-ng-switch-when="null">
+              <li data-ng-repeat="item in menu track by $index" ng-switch on="item.url || 'null'">
+                <span ng-switch-when="null" data-ng-class="(global.path == item.url) ? 'active': ''"></span>
+                <a ng-switch-default data-ng-href="{{ ::(item.url != '<nolink>') ? item.url : '#' }}" data-ng-class="(global.path == item.url) ? 'active': ''"><span data-ng-bind-html="item.label"></span></a>
+              </li>
+            </ul>
+            <ul data-ng-switch-default>
+              <li data-ng-repeat="item in footer_menu track by $index" ng-switch on="item.url || 'null'">
+                <span ng-switch-when="null" data-ng-class="(global.path == item.url) ? 'active': ''"></span>
+                <a ng-switch-default data-ng-href="{{ ::(item.url != '<nolink>') ? composeUrlLink(item.url) : '#' }}" data-ng-class="(global.path == item.url) ? 'active': ''"><span data-ng-bind-html="item.label"></span></a>
+              </li>
+            </ul>
+            
+          </div>
+        </div>
+
+      </div>
+          </div>
+    
+                    
+    <div  id="cu-footer">
+      <div class="container">
+        <div class="row">
+
+          <div  class="col-sm-12 col-md-4 col-lg-4 footer-branding-column">
+                          <a href="http://www.columbia.edu" id="footer-cu-homepage">
+                <span class="brand sr-only">Columbia University</span>
+                <img src="/themes/custom/columbia/assets/img/cu-blue-logo.svg" alt="Columbia University Logo" width="326" height="49" class="img-responsive hidden-xs" />
+                <svg class="cu-brand" xmlns="http://www.w3.org/2000/svg" width="187" height="14" viewBox="0 0 187 14">
+  <path d="M2.9 11.7C1.4 10.4 1 8.5 1 7c0-1.1.4-2.9 1.8-4.4 1-1 2.4-1.7 4.9-1.7.6 0 1.5 0 2.3.2.6.1 1.1.2 1.6.2.2 0 .2.1.2.2s0 .3-.1.9V4c0 .2 0 .3-.1.3s-.1-.1-.1-.3c0-.6-.3-1.3-.7-1.6-.6-.4-1.9-.9-3.3-.9-2.1 0-3.1.6-3.7 1.2-1.1 1.1-1.4 2.5-1.4 4.2 0 3.1 2.4 5.9 5.8 5.9 1.2 0 2.1-.1 2.8-.8.3-.4.5-1.1.6-1.3 0-.2.1-.2.2-.2s.1.1.1.2-.2 1.5-.4 2c-.1.3-.1.3-.4.5-.6.3-1.9.4-2.9.4-2.4-.1-4-.7-5.3-1.9zm16.2-8.9c3.2 0 5.6 1.9 5.6 5.1 0 3-2.3 5.6-5.6 5.6-3.9 0-5.5-2.9-5.5-5.3-.1-2.3 1.6-5.4 5.5-5.4zm.3 10.1c1.3 0 3.8-.7 3.8-4.6 0-3.3-2-5-4.2-5-2.4 0-4 1.5-4 4.4 0 3.2 1.9 5.2 4.4 5.2zm9.5-3.6c0 2 0 2.8.3 3.1.2.2.8.3 1.9.3.7 0 1.4 0 1.7-.4.2-.2.3-.5.3-.8 0-.1.1-.2.1-.2.1 0 .1.1.1.2s-.1 1-.2 1.4c-.1.3-.1.4-.9.4h-5.3c-.1 0-.2 0-.2-.1 0 0 0-.1.1-.1s.3 0 .4-.1c.3-.1.3-.3.4-.7.1-.6.1-1.6.1-2.9V4c0-.5-.1-.7-.6-.8h-.5l-.1-.1c-.1-.1 0-.1.2-.1h3.2c.1 0 .1 0 .1.1l-.1.1h-.5c-.4.1-.4.3-.5.8v5.3zm6.5-2.4V4c0-.4-.1-.7-.6-.8h-.5l-.1-.1c0-.1.1-.1.2-.1h3c.2 0 .2 0 .2.1l-.1.1h-.4c-.4.1-.4.3-.5.8v4.8c0 2 .4 2.8 1 3.3.7.6 1.3.7 2.1.7.9 0 1.7-.4 2.2-1 .7-.8.8-1.9.8-3.3V4s-.1-.7-.6-.8h-.5c-.1 0-.1-.1-.1-.1.1-.1.2-.1.4-.1h2.7c.2 0 .2 0 .2.1 0 0 0 .1-.1.1h-.4c-.4.1-.5.3-.5.8v4.4c0 1.5-.2 3.1-1.3 4.1-1 .9-2.1 1-2.9 1-.5 0-1.9 0-2.9-1-.7-.6-1.2-1.6-1.2-3.6v-2zm22.7 4.6c0 .5.1 1.2.7 1.4.4.1.8.1.9.1.1 0 .1 0 .1.1s-.1.1-.3.1c-.3 0-1.9 0-2.4-.1-.3 0-.4-.1-.4-.1s0-.1.1-.1.1-.2.1-.5l-.7-6.9-3.4 6.9c-.3.6-.4.7-.5.7s-.2-.1-.5-.6c-.4-.7-1.3-2.4-1.6-3.2-.4-.9-1.6-3.2-1.8-3.7h-.1l-.5 6.1v.7c0 .2.1.3.3.4.2.1.4.1.5.1 0 0 .1 0 .1.1s-.1.1-.3.1h-2.5c-.1 0-.2 0-.2-.1l.1-.1h.4c.5-.1.5-.6.5-1.1l1-8.9c0-.1.1-.2.2-.2s.2 0 .3.2l4.3 8.5L56.7 3c.1-.1.1-.2.2-.2s.2.1.2.4l1 8.3zm4.3-4.6V4c0-.5-.1-.7-.6-.8h-.5s-.1 0-.1-.1 0-.1.2-.1h3.2c2.4 0 3 1.4 3 2.1 0 1.1-.7 1.7-1.4 2.4 1.1.3 2.5 1.3 2.5 2.8 0 1.5-1.1 3-3.5 3h-3.5c-.1 0-.2 0-.2-.1 0 0 0-.1.1-.1s.3 0 .4-.1c.3 0 .3-.4.4-.8.1-.6.1-1.6.1-2.9V6.9zm1.2.3c0 .1 0 .1.1.1s.3.1.9.1c.8 0 1.1 0 1.4-.4.3-.3.5-.8.5-1.5 0-1-.6-2.2-2-2.2-.2 0-.5 0-.7.1-.1 0-.2.1-.2.1v3.7zm0 1.5v2.9c0 .7 0 .8.5 1 .4.2 1 .2 1.2.2.9 0 2.1-.4 2.1-2.1 0-.6-.2-1.8-1.3-2.5-.5-.3-.9-.3-1.3-.4h-1.1s-.1 0-.1.1v.8zm9.4.6c0 1.3 0 2.4.1 2.9 0 .4.1.7.5.7.2 0 .5.1.6.1.1 0 .1.1.1.1 0 .1-.1.1-.2.1h-3.2c-.1 0-.2 0-.2-.1 0 0 0-.1.1-.1s.3 0 .4-.1c.3-.1.3-.3.4-.7.1-.6.1-1.6.1-2.9V4c0-.5-.1-.7-.4-.7h-.4c-.1 0-.1-.1-.1-.1-.1-.2-.1-.2.1-.2h2.8c.2 0 .3 0 .3.1l-.1.1h-.4c-.4.1-.5.3-.5.8v5.3zm7.1-6.1c.2-.4.2-.5.3-.5.1 0 .2.2.3.5.3.6 2.5 6.2 3.4 8.3.5 1.2.9 1.4 1.2 1.5.2.1.4.1.6.1.1 0 .2 0 .2.1s-.2.1-.3.1h-2.2c-.3 0-.5 0-.5-.1s0-.1.1-.1.2-.1.1-.4L82 9.5c0-.1 0-.1-.1-.1h-3.2c-.1 0-.1 0-.1.1l-.8 2.2c-.1.3-.2.7-.2.9 0 .3.2.4.5.4h.1c.1 0 .1 0 .1.1s-.1.1-.2.1h-2.7c-.2 0-.3 0-.3-.1s.1-.1.1-.1h.4c.6-.1.9-.6 1.2-1.2l3.3-8.6zm1.5 5.7c.1 0 .1 0 0 0l-1.3-3.8c-.1-.2-.2-.2-.2 0l-1.3 3.7v.1h2.8zm11-3.1V2.3c0-.5-.2-.8-.7-.9h-.5c-.1 0-.1 0-.1-.1s.1-.1.3-.1H95c.2 0 .3 0 .3.1s-.1.1-.1.1h-.4c-.7.1-.8.4-.8.9V8c0 2.3.5 3.3 1.2 4 .8.7 1.5.9 2.4.9 1 0 1.9-.5 2.5-1.2.7-.9.9-2.3.9-3.9V2.3c0-.5-.2-.8-.7-.9h-.5c-.1 0-.1 0-.1-.1s.1-.1.3-.1h3c.2 0 .3 0 .3.1s-.1.1-.1.1h-.4c-.4.1-.6.4-.6.9v5.2c0 1.7-.2 3.6-1.5 4.8-1.2 1-2.4 1.2-3.3 1.2-.5 0-2.2-.1-3.3-1.1-.8-.8-1.4-1.9-1.4-4.2V5.8zm13.9 5.6c0 1.1.2 1.5.5 1.6.3.1.6.1.7.1.1 0 .1 0 .1.1s-.1.1-.3.1h-2.9c-.1 0-.2 0-.2-.1s0-.1.1-.1.4 0 .6-.1c.4-.1.4-.5.4-1.7V3.5c0-.5.1-.7.2-.7.2 0 .4.3.5.4.2.2 2.3 2.4 4.4 4.6 1.4 1.4 2.9 3.1 3.3 3.5l.1-6.8c0-.9-.1-1.2-.5-1.3-.3 0-.6-.1-.7-.1-.1 0-.1-.1-.1-.1 0-.1.1-.1.3-.1h2.7c.1 0 .3 0 .3.1 0 0-.1.1-.2.1h-.3c-.5.1-.5.4-.5 1.2v8c0 .9 0 1-.1 1s-.3-.1-1.1-.8c-.1-.1-2.2-2.1-3.7-3.7-1.6-1.7-3.2-3.4-3.6-3.9v6.5zm13.7-2.1c0 1.3 0 2.4.1 2.9 0 .4.1.7.5.7.2 0 .5.1.6.1.1 0 .1.1.1.1 0 .1-.1.1-.2.1h-3.2c-.1 0-.2 0-.2-.1 0 0 0-.1.1-.1s.3 0 .4-.1c.3-.1.3-.3.4-.7.1-.6.1-1.6.1-2.9V4c0-.5-.1-.7-.4-.7h-.4c-.1 0-.1-.1-.1-.1 0-.1.1-.1.2-.1h2.8c.2 0 .2 0 .2.1l-.1.1h-.4c-.4.1-.5.3-.5.8v5.2zm8 2.2c.8-1.8 2.7-6.5 3-7.4.1-.2.1-.4.1-.5 0-.1 0-.2-.2-.3h-.5c-.1 0-.2 0-.2-.1s.1-.1.3-.1h2.5c.1 0 .2 0 .2.1s0 .1-.2.1c-.1 0-.4 0-.7.2-.2.1-.4.3-.8 1.2-.2.4-.8 2-1.6 3.7-.9 2-1.5 3.5-1.8 4.1-.4.8-.5 1-.6 1-.2 0-.3-.2-.5-.8l-3.5-8.3c-.3-.8-.5-.9-1-1h-.5c-.1 0-.1-.1-.1-.1 0-.1.1-.1.4-.1h2.9c.3 0 .4 0 .4.1s0 .1-.1.1c-.2 0-.4 0-.5.1-.1.1-.2.1-.2.2 0 .2.2.6.4 1.1l2.8 6.7zm7.4-4.6V4c0-.5-.1-.7-.6-.8h-.5l-.1-.1c0-.1.1-.1.2-.1h5c.3 0 .5-.1.6-.1.1 0 .1-.1.2-.1l.1.1c0 .1-.1.3-.1.6 0 .1 0 .7-.1.9 0 .1-.1.1-.1.1-.1 0-.1-.1-.1-.2s0-.3-.1-.5-.2-.3-1-.4h-2c-.1 0-.1 0-.1.1v3.7c0 .1 0 .1.1.1h2.4c.3 0 .5 0 .7-.2l.2-.2s.1 0 .1.1-.1.3-.1.8c0 .3-.1.8-.1.9 0 .1 0 .3-.1.3s-.1 0-.1-.1 0-.3-.1-.4c0-.2-.2-.4-.7-.4-.4 0-1.9-.1-2.1-.1-.1 0-.1 0-.1.1v3.4c0 .9.3 1.1 1.7 1.1.4 0 1 0 1.4-.1.4-.2.6-.4.6-.9 0-.2.1-.2.1-.2s.1.1.1.2-.1 1-.2 1.3c-.1.4-.2.4-.8.4h-5c-.1 0-.2 0-.2-.1 0 0 0-.1.1-.1s.3 0 .4-.1c.3 0 .3-.3.4-.7.1-.6.1-1.6.1-2.9V6.9zm8.8 0V4c0-.5-.1-.7-.6-.8h-.5l-.1-.1c0-.1.1-.1.2-.1h3.5c.9 0 1.9.1 2.6.6.4.3 1 .9 1 1.9 0 1-.4 2-1.7 3.1 1.2 1.4 2.1 2.7 2.9 3.5.8.8 1.2.9 1.6.9h.5c.1 0 .1.1.1.1 0 .1-.1.1-.3.1h-.9c-.8 0-1.2-.1-1.5-.3-.6-.3-1.1-1-1.9-2-.6-.7-1.2-1.6-1.5-2-.1-.1-.1-.1-.2-.1h-1.8c-.1 0-.1 0-.1.1v.3c0 1.3 0 2.4.1 2.9 0 .4.1.7.6.7.2 0 .5.1.6.1.1 0 .1.1.1.1 0 .1-.1.1-.2.1h-3.1c-.1 0-.2 0-.2-.1 0 0 0-.1.1-.1s.3 0 .4-.1c.3-.1.3-.3.4-.7.1-.6.1-1.6.1-2.9V6.9zm1.2 1.2c0 .1 0 .1.1.2.2.1.9.2 1.6.2.3 0 .7 0 1.1-.2.5-.3.8-1 .8-2.1 0-1.7-.9-2.7-2.4-2.7-.4 0-.9 0-1 .1-.1 0-.1.1-.1.2v4.3z"/>
+  <path d="M153.8 13.1c-.2-.1-.2-.1-.2-.5 0-.7.1-1.2.1-1.4 0-.1 0-.2.1-.2s.1 0 .1.2v.5c.2 1 1.3 1.3 2.2 1.3 1.4 0 2.1-.8 2.1-1.8s-.5-1.4-1.8-2.4l-.6-.5c-1.5-1.1-2-2-2-2.9 0-1.6 1.3-2.6 3.1-2.6.6 0 1.1.1 1.5.2h.6c.1 0 .1 0 .1.1s-.1.5-.1 1.4c0 .2 0 .3-.1.3s-.1-.1-.1-.2c0-.2-.1-.5-.2-.7-.1-.2-.6-.7-1.8-.7-1 0-1.9.5-1.9 1.5 0 .9.4 1.4 1.8 2.3l.4.3c1.7 1.2 2.3 2.1 2.3 3.3 0 .8-.3 1.7-1.3 2.3-.6.4-1.5.5-2.2.5-.7 0-1.5-.1-2.1-.3zm10.6-3.8c0 1.3 0 2.4.1 2.9 0 .4.1.7.5.7.2 0 .5.1.6.1.1 0 .1.1.1.1 0 .1-.1.1-.2.1h-3.2c-.1 0-.2 0-.2-.1 0 0 0-.1.1-.1s.3 0 .4-.1c.3-.1.3-.3.4-.7.1-.6.1-1.6.1-2.9V4c0-.5-.1-.7-.4-.7h-.4c-.1 0-.1-.1-.1-.1 0-.1.1-.1.2-.1h2.8c.2 0 .2 0 .2.1l-.1.1h-.4c-.4.1-.5.3-.5.8v5.2zm8 0c0 1.3 0 2.4.1 2.9 0 .4.1.7.5.7.2 0 .5.1.6.1.1 0 .1.1.1.1 0 .1-.1.1-.2.1h-3.2c-.2 0-.2 0-.2-.1 0 0 0-.1.1-.1s.3 0 .4-.1c.3-.1.4-.3.4-.7.1-.6.1-1.6.1-2.9V3.6h-2c-.9 0-1.2.1-1.4.4-.2.2-.2.3-.2.4 0 .1-.1.1-.1.1s-.1 0-.1-.1.3-1.4.3-1.5c0-.1.1-.3.1-.3.1 0 .2.1.6.2.4 0 .9.1 1.1.1h5.3c.5 0 .8 0 1-.1.2 0 .3-.1.4-.1.1 0 .1.1.1.2v1.6c0 .1-.1.2-.1.2s-.1 0-.1-.2v-.1c0-.4-.4-.7-1.7-.8h-1.8v5.7zm8.6.4c0-.7-.1-1-.3-1.4-.1-.2-2-3.2-2.5-4-.3-.5-.7-.8-.9-1-.2-.1-.5-.2-.6-.2-.1 0-.1-.1-.1-.1s0-.1.2-.1h2.6c.2 0 .2 0 .2.1 0 0-.1.1-.2.1s-.2.1-.2.2c0 .2.1.4.2.5L182 8c.3-.6 2-3.5 2.3-3.9.2-.3.2-.5.2-.7 0-.2-.1-.3-.2-.4-.3.2-.3.1-.3 0 0 0 .1-.1.2-.1h2.4c.1 0 .2 0 .2.1s-.1.1-.2.1c-.2 0-.4 0-.7.2-.3.2-.4.3-.7.7-.5.5-2.4 3.7-2.7 4.3-.2.5-.2.9-.2 1.4v2.6c0 .4.1.7.5.7.2 0 .5.1.6.1.1 0 .1.1.1.1 0 .1-.1.1-.2.1h-3.2c-.2 0-.2 0-.2-.1 0 0 0-.1.1-.1s.3 0 .4-.1c.3-.1.4-.3.4-.7V9.7z"/>
+  </svg>
+              </a>
+                      </div>
+
+          <div  class="col-xs-12 col-md-8 footer-links-column" id="cu-footer-links">
+            <span class="copyright"><a href="https://www.columbia.edu/content/copyright">&copy;2023 Columbia University</a></span>
+            <span class="a11y"><a href="https://accessibility.columbia.edu">Accessibility</a></span>
+            <span><a href="http://eoaa.columbia.edu/notice-nondiscrimination">Nondiscrimination</a></span>
+            <span><a href="https://careers.columbia.edu/">Careers</a></span>
+            <span><a href="https://sites.columbia.edu/">Built using Columbia Sites</a></span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+    <div id="back-to-top-container" class="container" role="navigation">
+    <button href="#top" title="Back to top" id="back-to-top" role="button" onclick="document.getElementById('top').focus();">
+      <i class="fa fa-arrow-circle-o-up hidden-xs" aria-hidden="true"></i><i class="fa fa-chevron-up visible-xs-block" aria-hidden="true"></i>Back to Top
+    </button>
+  </div>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+      var cu_footer_menu = [];
+                        cu_footer_menu.push({
+            "index": 1,
+            "label":"A department of Columbia University Facilities and Operations",
+            "url":"https://cufo.columbia.edu/"
+          });
+                  </script><script>
+      var cu_utility_menu = [];
+                        cu_utility_menu.push({
+            "index": 1,
+            "label":"What&#039;s Open Now",
+            "url":"/#/cu_dining_open_now-260"
+          });
+                                cu_utility_menu.push({
+            "index": 2,
+            "label":"Contact Us",
+            "url":"/node/7499/"
+          });
+                  </script>
+  </div>
+
+    
+
+    <!-- Modal -->
+    <div class="modal fade" id="modal" tabindex="-1" role="dialog" aria-labelledby="modal-heading">
+      <div class="vertical-alignment-helper">
+        <div class="modal-dialog vertical-align-center" role="document">
+          <div class="modal-content">
+            <div class="modal-body" id="modal-body"></div>
+            <div class="modal-footer">
+              <div id="modal-heading" class="text-left"></div>
+              <button type="button" class="btn btn-block btn-primary" data-dismiss="modal" aria-label="Close">Close</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+<script src="/sites/default/files/js/js_WYRdmJLHrOxNaryqKvGDFG_IlYfVTKNnDC1h688mXJo.js"></script>
+
+
+  </body>
+</html>

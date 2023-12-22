@@ -1,19 +1,20 @@
 html { font-family: 'Mina', sans-serif; background: #012169; padding: 1rem; }
-html, body { height: 100%; }
+html { height: 100%; }
+body { min-height: 100vh; background: #fff; }
 *h1 { font-family: 'Mina', sans-serif; color: #000; margin: 1rem 0; }
 /*a { color: #377ba8; }
 prev lightgray 
 pantone 292: 78b3e0
 dark blue: 012169*/
-hr { border: none; border-top: 1px solid lightgray; }
+hr { border: none; border-top: 1px solid #78b3e0; }
 nav { background: #78b3e0; display: flex; align-items: center; padding: 0.8rem 0.5rem; }
 nav h1 { font-family: 'Pacifico', cursive; flex: auto; margin: 0; }
 nav h1 a { text-decoration: none; color: #fff; padding: 0.25rem 0.5rem; }
 nav ul  { font-family: 'Mina', sans-serif; color: #000; display: flex; list-style: none; margin: 0; padding: 0; }
-nav ul li a { text-decoration: none; color: #fff; display: block; padding: 0.5rem; }
+nav ul li a { text-decoration: none; color: #fff; display: block; padding: 0.5rem; font-size: 1.2rem;}
 nav ul li span, header .action { display: block; padding: 0.5rem; }
 .content { font-family: 'Mina', sans-serif; padding: 0 1rem 1rem; }
-.content > header { border-bottom: 1px solid #012169; display: flex; align-items: flex-end; }
+.content > header { border-bottom: 2px solid #012169; display: flex; align-items: flex-end; }
 .content > header h1 { flex: auto; margin: 1rem 0 0.25rem 0; }
 .flash { margin: 1em 0; padding: 1em; background: #cae6f6; border: 1px solid #377ba8; }
 .post > header { display: flex; align-items: flex-end; font-size: 0.85em; }
@@ -34,4 +35,12 @@ section header { font-family: 'Mina', sans-serif; color: #012169; }
 
 section main { padding-top: 1rem; }
 
-.halllink { text-decoration: none; color: #012169; }
+.hall-link { text-decoration: none; color: #012169; }
+
+.hall-link:hover { color: #78b3e0; }
+.top-link {}
+.top-link:hover { color: #012169; }
+.update_order_btn { display: block; width: 30%; margin: auto; }
+.add_review_btn { display: block !important; width: 80%; margin: 3rem auto 1rem; background-color: #78b3e0 !important; color: #fff; border: none !important;}
+
+

@@ -18,10 +18,39 @@
 		<div class="row">
 		{% for hall in halls %}
 		<div class="col-sm-6 text-center py-2">
-		<a class="halllink" href="{{ url_for('reviews.hallpage', hallname=hall.hallname, order=0) }}">{{ hall.hallname }}</a>
-		</div>
+		<h3><div>
+			<a class="hall-link" href="{{ url_for('reviews.hallpage', hallname=hall.hallname, order=0) }}">{{ hall.hallname }}</a></div>
+		</h3></div>
 		{% endfor %}
 		</div>
 	</div>
 </main>
+<script>
+
+	// var app = angular.module('myApp', []);
+	// app.controller('myCtrl', function($scope) {
+
+	//     $scope.firstname = "John";
+	//     $scope.changeColor() = function() {
+	//     	  let htmlElements = angular.getElementsByClassName("hall-link");
+	// 				for (let i = 0; i < htmlElements.length; i++) {
+	// 						htmlElements[i].classList.add("color-change");
+	// 				}
+	//     }
+	// });
+	// change = function(event) {
+	// 		element(event.target).addClass('color-change');
+	// }
+	// changeBack = function(event) {
+	// 		element(event.target).removeClass('color-change');
+	// }
+	// link = document.getElementById()
+	// links = document.getElementsByClassName('hall-link');
+	// for (let i = 0; i < links.length; i++) {
+	// 	link = links[i];
+	// 	link.addEventListener("mouseover", change);
+	// 	link.addEventListener("mouseout", changeBack);
+	// }
+
+</script>
 {% endblock %}

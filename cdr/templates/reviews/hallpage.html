@@ -8,19 +8,26 @@
 <div class="text-dark hall-page-text">
 <div class="container">
   <div class="row">
-    <div class="col-sm-4">
+    <div class="col-sm-4 d-flex justify-content-center">
 		<div class="card my-3">
 		  <div class="card-header">
-		    <p class="fw-bold">Foods served today</p>
+		    <h3 class="font-weight-bold">Foods served today</h3>
 		  </div>
 		  <ul class="list-group list-group-flush">
 			{% for foodrate in foodratings %}
 			 <li class="list-group-item">
-			 	{{foodrate.foodname}}: {{foodrate.avg}} * for {{foodrate.count}} ratings
+			 	<span class="fw-bold">{{foodrate.foodname}}:</span> 
+			 	{% if foodrate.count>1 %}
+			 	{{foodrate.avg}} ({{foodrate.count}} ratings)
+			 	{% elif foodrate.count==1%}
+			 	{{foodrate.avg}} ({{foodrate.count}} rating)
+			 	{% else %}
+			 	No ratings yet.
+			 	{% endif %}
 			 	{% if g.user %}
 			 	<span>
 			 		<form method="POST" action="{{ url_for('reviews.rate_fooditem', foodname=foodrate.foodname, hallname_servedat=hallname, order_indic='0'+isactive1[0], from_page='hallpage') }}">
-						<label for="rate">My Rating (1&ndash;5):</label>
+						<label class="fw-normal" for="rate">My Rating (1&ndash;5):</label>
 						<input type="number" id="rate" name="rating" min="1" max="5" value="{{user_ratings_dict[foodrate.foodname]}}">
 						<input type="submit">
 			 		</form>
@@ -31,8 +38,9 @@
 		  </ul>
 		</div>    	
     </div>
-    <div class="col-sm-8">   	
-
+    <div class="col-sm-8 d-flex justify-content-center">   	
+    <div style="width: 85%;">
+    <h2 style="color: #012169;" class="text-center mt-3">Reviews for Today</h2>
 		<form method="POST" action="{{ url_for('reviews.update_order', hallname=hallname) }}">
 			<div class="btn-group btn-group-toggle" data-toggle="buttons">
 			  <label class="btn btn-secondary {{isactive1[0]}}">
@@ -42,14 +50,14 @@
 			    <input type="radio" name="options" id="option2" autocomplete="off" {{isactive2[1]}} value="popular"> Most Popular
 			  </label>
 			</div>
-			<button type="submit">Update</button>
+			<span><button class="update_order_btn" type="submit">Update order</button></span>
 		</form>
 
 		<!-- <form method='POST' action="{{ url_for('reviews.add_review', hallname=hallname) }}">
 			<button type="submit">Add Review</button>
 		</form> -->
 
-		<a class="btn btn-secondary" role="button" href="{{url_for('reviews.add_review', hallname=hallname)}}">Add Review</a>
+		<a class="btn btn-primary add_review_btn" role="button" href="{{url_for('reviews.add_review', hallname=hallname)}}">Add a review</a>
 
 
     	{% for review in reviews %}
@@ -78,10 +86,12 @@
 			</div>
 	    
 		{% endfor %}
+		</div>
 	</div>
   </div>
 </div>
 
 </div>
+
 
 {% endblock %}

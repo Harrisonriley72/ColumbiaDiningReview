@@ -6,16 +6,14 @@
 
 {% block content %}
 <div class="text-dark hall-page-text">
-<div class="container">
-	<div class="row">
-		<div class="col-sm-4">
-			<p><span class="fw-bold">Favorite Food:</span> {% if user.fav_foodnmae %} {{user.fav_foodname}} from {{user.fav_foodhallname}}
-			{% else %}N/A{% endif %}</p>
-		</div>
-
-		<div class="col-sm-8">
+<div class="container mt-3">
 			<p><span class="fw-bold">Number of reviews made:</span> {{num_reviews}}</p>
-			<p><span class="fw-bold">Average review rating:</span> {{avg_rating}}</p>
+			<p><span class="fw-bold">Average review rating:</span> {{avg_rating}}</p>	
+			<p><span class="fw-bold">Favorite food:</span> {% if user.fav_foodname %} {{user.fav_foodname}} from {{user.fav_foodhallname}}
+			{% else %}N/A{% endif %}
+			{% if g.user["email"]==user.email%} <a href="{{url_for('reviews.edit_profile', email=g.user['email'])}}">edit</a> {% endif%} </p>
+
+			<h2 class="text-center my-3">Reviews by {{ user.fname }} {{user.lname}}</h2>
 
 			<form method="POST" action="{{ url_for('reviews.update_order_profile', email=email) }}">
 				<div class="btn-group btn-group-toggle" data-toggle="buttons">
@@ -29,7 +27,7 @@
 				<button type="submit">Update</button>
 			</form>			
 
-			<p><span class="fw-bold">Recent reviews:</span></p>
+			
     	{% for review in reviews %}
 				<div class="card my-2">
 				  <div class="card-header">
@@ -55,8 +53,6 @@
 				  </div>
 				</div>
 			{% endfor %}
-		</div>
-	</div>
 
 </div>
 

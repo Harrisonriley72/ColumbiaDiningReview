@@ -212,6 +212,9 @@ def rate_fooditem(foodname, hallname_servedat, order_indic, from_page):
 		order=0
 
 	new_rating = request.form["rating"]
+	if new_rating == "":
+		flash("You must enter a number between 1-5 to submit a rating.")
+		return redirect(url_for("reviews.hallpage", hallname=hallname_servedat, order=order))
 
 	now = datetime.now()
 	time = now.strftime("%Y-%m-%d %H:%M:%S")
@@ -408,6 +411,13 @@ def profile(email, order=0):
 
 	g.conn.commit()
 	return render_template("reviews/profile.html", **{"reviews":reviews, "user":user, "num_reviews":num_reviews[0], "avg_rating":round(avg_rating[0],2),  "isactive1":isactive1, "isactive2":isactive2, "email":email})
+
+@bp.route('/edit-profile/<email>', methods=['POST','GET'])
+@login_required
+def edit_profile(email):
+	if request.method=="POST":
+		return redirect(url_for('reviews.profile', email=email, order=0))
+	return render_template("reviews/edit_profile_form.html", email=email)
 
 # View for home page of getting data on halls throughout all time
 @bp.route('/dining-hall-data/<hallname>')
