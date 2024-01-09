@@ -13,8 +13,12 @@ from auth import login_required
 
 bp = Blueprint('reviews', __name__)
 
+"""
+Endpoint for home page
+"""
 @bp.route('/')
 def index():
+	# SQL query to get list of dininghalls for database, to be displayed on home page
     halls = g.conn.execute(text(
         'SELECT hallname'
         ' FROM dininghalls d'
@@ -22,7 +26,13 @@ def index():
     g.conn.commit()
     return render_template('reviews/index.html', halls=halls)
 
-
+""" 
+Endpoint to access page for each dining hall.
+in params: 
+	hallname -> dining hall's name, 
+	int:order (default 0) -> ordering of the reviews, where 0 indicates the ordering by most recent and 1 by most popular
+out context:
+"""
 @bp.route('/<hallname>/<int:order>')
 def hallpage(hallname, order=0):
 	today = date.today()
