@@ -10,7 +10,7 @@ from werkzeug.security import check_password_hash, generate_password_hash
 
 bp = Blueprint('auth', __name__, url_prefix='/auth')
 
-# Registration endpoint: GET request for loading registration page, PUT request for submitting registration form
+# Registration endpoint: GET request for loading registration page, PUT request for submitting submitting registration form
 @bp.route('/register', methods=('GET', 'POST'))
 def register():
     if request.method == 'POST':

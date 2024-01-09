@@ -32,25 +32,39 @@ in params:
 	hallname -> dining hall's name, 
 	int:order (default 0) -> ordering of the reviews, where 0 indicates the ordering by most recent and 1 by most popular
 out context:
+	hallname -> indicates dining hall name for the page to be accessed
+	fooditems -> a list of the food items currently served at the dining hall
+	reviews -> a list of the reviews for the dining hall
+	isactive1 -> list of two strings used to help front-end know what to display for "Newest" button 
+	isactive2 -> list of two strings used to help front-end know what to display for "Most Popular" button
+	foodratings -> rows from database with columns for the name of a food item, its average rating, and the number of ratings its received
+	user_ratings_dict -> dictionary containing food item names from this dining hall as keys and user's rating for each one as values
 """
+
 @bp.route('/<hallname>/<int:order>')
 def hallpage(hallname, order=0):
+	# Current date is track
 	today = date.today()
 	tomorrow = date.today() + timedelta(1)
 	yesterday = date.today() - timedelta(1)
 
+	# d1 and d2 are the earliest and lates times included in the current day, respectively 
 	d1 = yesterday.strftime("%Y-%m-%d") + " 23:59:59"
 	d2 = tomorrow.strftime("%Y-%m-%d") + " 00:00:01"
+	# The time currently stored in the database as the current data is fetched to ensure that it is correct or update accordingly
 	cursor = g.conn.execute(text(
 		'SELECT *'
 		' FROM CurrentDate'
+
 	))
 	g.conn.commit()
 	current_time = cursor.fetchone()
-	print(current_time)
 	fooditems=[]
 
-	# Check if CurrentMeals in database needs to be updated and update if so
+	"""
+	If the time must be updated, the CurrentMeals table in the database must be as well. 
+	Check if this is the case, and update if so. 
+	"""
 	if (current_time is None) or (current_time[0]!=today):
 		cursor = g.conn.execute(text(
 			'DELETE FROM CurrentMeals'
@@ -68,6 +82,12 @@ def hallpage(hallname, order=0):
 		), params_dict)
 		g.conn.commit()	
 
+
+		"""
+		Use the dictionary dining_halls from get_menu.py, which has dining hall names as keys.
+		Fill the dictionary with values for today's food items using get_menu().
+		Update FoodItems and CurrentMeals tables accordingly. 
+		"""
 		halls = dining_halls
 		for hall in halls:
 			halls[hall] = get_menu(hall)
@@ -75,7 +95,7 @@ def hallpage(hallname, order=0):
 
 			fooditems = {s for s in halls[hall]}
 
-			print("items",fooditems)
+			# Build list of food items that are already in the FoodItems table
 			already_logged = []
 			for foodname in fooditems:
 				cursor = g.conn.execute(text(
@@ -88,9 +108,8 @@ def hallpage(hallname, order=0):
 				for result in cursor:
 					already_logged.append(result[0])			
 				
-			print(already_logged)	
-
 			for foodname in fooditems:
+				# Only add those food items to FoodItems which are not already logged
 				if foodname not in already_logged:
 					cursor = g.conn.execute(text(
 						'INSERT INTO FoodItems(foodname, hallname_servedat)'
@@ -106,6 +125,9 @@ def hallpage(hallname, order=0):
 
 		fooditems = halls[hallname]	
 	else:
+		"""
+		If CurrentDate is logged correctly, simply query those food item names for this page's dining hall and add to fooditems
+		"""
 		cursor = g.conn.execute(text(
 			'SELECT C.foodname'
 			' FROM CurrentMeals C'
@@ -116,20 +138,23 @@ def hallpage(hallname, order=0):
 		for result in cursor:
 			fooditems.append(result[0])
 
-		print("in here")
 
-	# arrays for tracking the ordering of items on the page
+	# Arrays for tracking the ordering of items on the page
 	isactive1, isactive2 = [],[]
 
 
 	params_dict = {"hallname": hallname, "d1":d1, "d2":d2}
 
-	# generating the reviews, different depending on whether user is logged in or not
+	"""
+	Generating the reviews. 
+	If the user is logged in, whether they have liked a given review will be tracked so as to be reflected in the front-end.
+	"""
 	if g.user is not None:
 		params_dict.__setitem__('right_email', g.user["email"])
 		if order==1:
 			isactive1=["",""]
 			isactive2=["active", "checked"]	
+			# Query gets attributes from table of reviews ReviewMake relevant for this time and dining hall, along with attribute indicating whether the current user has liked the given review.
 			reviews = g.conn.execute(text(
 				'SELECT C.fname, C.lname, R.email, R.time, R.hallname, R.rating, R.comment, R.like_number, B.liker_email'
 				' FROM ColumbiaStudents C JOIN (ReviewMake R LEFT JOIN ('
@@ -144,6 +169,7 @@ def hallpage(hallname, order=0):
 			), params_dict).fetchall()		
 
 		else:
+			# Identical to if-segment above, except ordering is done by time instead of number of likes 
 			isactive1=["active", "checked"]
 			isactive2=["",""]
 			reviews = g.conn.execute(text(
@@ -160,6 +186,7 @@ def hallpage(hallname, order=0):
 			), params_dict).fetchall()	
 		g.conn.commit()
 	else:
+		# In the case when there is no user, simply retrieve the reviews without worrying about indicating any specific user has liked them
 		if order==1:
 			isactive1=["",""]
 			isactive2=["active", "checked"]	
@@ -181,8 +208,6 @@ def hallpage(hallname, order=0):
 		g.conn.commit()
 
 	# Getting the ratings of each food item
-	# ***** NOTE TO SELF -- currently has bug where it uses ratings from past days.
-	# Should add a table of current ratings
 	foodratings = g.conn.execute(text(
 		'SELECT C.foodname, round(AVG(F.rating)::numeric,2) AS "avg", COUNT(F.rating) AS "count"'
 		' FROM RateFoodItem F NATURAL RIGHT JOIN CurrentMeals C'
@@ -209,7 +234,6 @@ def hallpage(hallname, order=0):
 
 		print(user_ratings_dict)
 
-	
 	context = {"hallname": hallname, "fooditems": fooditems, "reviews":reviews, "isactive1":isactive1, "isactive2":isactive2, "foodratings":foodratings, "user_ratings_dict":user_ratings_dict}
 	return render_template('reviews/hallpage.html', **context)
 
