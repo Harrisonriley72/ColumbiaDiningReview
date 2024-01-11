@@ -35,10 +35,10 @@ out context:
 	hallname -> indicates dining hall name for the page to be accessed
 	fooditems -> a list of the food items currently served at the dining hall
 	reviews -> a list of the reviews for the dining hall
-	isactive1 -> list of two strings used to help front-end know what to display for "Newest" button 
-	isactive2 -> list of two strings used to help front-end know what to display for "Most Popular" button
 	foodratings -> rows from database with columns for the name of a food item, its average rating, and the number of ratings its received
 	user_ratings_dict -> dictionary containing food item names from this dining hall as keys and user's rating for each one as values
+	order -> indicates the ordering of the page. 0 indicates that order is by time, 1 indicates order is by number of likes
+
 """
 
 @bp.route('/<hallname>/<int:order>')
@@ -139,10 +139,6 @@ def hallpage(hallname, order=0):
 			fooditems.append(result[0])
 
 
-	# Arrays for tracking the ordering of items on the page
-	isactive1, isactive2 = [],[]
-
-
 	params_dict = {"hallname": hallname, "d1":d1, "d2":d2}
 
 	"""
@@ -152,8 +148,6 @@ def hallpage(hallname, order=0):
 	if g.user is not None:
 		params_dict.__setitem__('right_email', g.user["email"])
 		if order==1:
-			isactive1=["",""]
-			isactive2=["active", "checked"]	
 			# Query gets attributes from table of reviews ReviewMake relevant for this time and dining hall, along with attribute indicating whether the current user has liked the given review.
 			reviews = g.conn.execute(text(
 				'SELECT C.fname, C.lname, R.email, R.time, R.hallname, R.rating, R.comment, R.like_number, B.liker_email'
@@ -170,8 +164,6 @@ def hallpage(hallname, order=0):
 
 		else:
 			# Identical to if-segment above, except ordering is done by time instead of number of likes 
-			isactive1=["active", "checked"]
-			isactive2=["",""]
 			reviews = g.conn.execute(text(
 				'SELECT C.fname, C.lname, R.email, R.time, R.hallname, R.rating, R.comment, R.like_number, B.liker_email'
 				' FROM ColumbiaStudents C JOIN (ReviewMake R LEFT JOIN ('
@@ -188,8 +180,6 @@ def hallpage(hallname, order=0):
 	else:
 		# In the case when there is no user, simply retrieve the reviews without worrying about indicating any specific user has liked them
 		if order==1:
-			isactive1=["",""]
-			isactive2=["active", "checked"]	
 			reviews = g.conn.execute(text(
 				'SELECT *'
 				' FROM ReviewMake R'
@@ -197,8 +187,6 @@ def hallpage(hallname, order=0):
 				' ORDER BY R.time DESC'
 			), params_dict).fetchall()
 		else:
-			isactive1=["active", "checked"]
-			isactive2=["",""]
 			reviews = g.conn.execute(text(
 				'SELECT *'
 				' FROM ReviewMake R'
@@ -234,7 +222,7 @@ def hallpage(hallname, order=0):
 
 		print(user_ratings_dict)
 
-	context = {"hallname": hallname, "fooditems": fooditems, "reviews":reviews, "isactive1":isactive1, "isactive2":isactive2, "foodratings":foodratings, "user_ratings_dict":user_ratings_dict,"order": order}
+	context = {"hallname": hallname, "fooditems": fooditems, "reviews":reviews, "foodratings":foodratings, "user_ratings_dict":user_ratings_dict,"order": order}
 	return render_template('reviews/hallpage.html', **context)
 
 """
