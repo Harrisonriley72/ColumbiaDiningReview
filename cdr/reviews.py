@@ -237,6 +237,17 @@ def hallpage(hallname, order=0):
 	context = {"hallname": hallname, "fooditems": fooditems, "reviews":reviews, "isactive1":isactive1, "isactive2":isactive2, "foodratings":foodratings, "user_ratings_dict":user_ratings_dict}
 	return render_template('reviews/hallpage.html', **context)
 
+"""
+Endpoint for user to rate food item. User must be logged in.
+in params:
+	foodname -> the name of the food being rated
+	hallname_servedat -> the name of the dining hall the rated food is served at
+	order_indic -> indicates the ordering of the page. "0active" indicates that order is by time, "0" indicates order is by number of likes
+	from_page -> indicates the page that the request came from so that it knows where to redirect -- not currenly useful but will be if other pages are added to the site from which a food item can be liked 
+out context: (after operation redirects back to page request came from)
+	hallname -> the dining hall name for the hall page the request came from 
+	order -> the order that was set on the page when the user rated the food item
+"""
 @bp.route('/rate_fooditem/<foodname>/<hallname_servedat>/<order_indic>/<from_page>', methods=["POST"])
 @login_required
 def rate_fooditem(foodname, hallname_servedat, order_indic, from_page):
@@ -282,7 +293,17 @@ def rate_fooditem(foodname, hallname_servedat, order_indic, from_page):
 
 	return redirect(url_for("reviews.hallpage", hallname=hallname_servedat, order=order))
 
-
+"""
+Endpoint for user to add a like to a review. User must be logged in.
+in params:
+	email -> email of the user who created the review that the current user is attempting to like
+	time -> time of the review that current user is attempting to like
+	hallname -> name of the dining hall the review is on
+	order_indic -> indicates the ordering of the page. "0active" indicates that order is by time, "0" indicates order is by number of likes
+	from_page -> indicates the page that the request came from so that it knows where to redirect
+	hallname -> the dining hall name for the hall page the request came from 
+	order -> the order that was set on the page when the user attempted the like
+"""
 @bp.route('/increase_likes/<email>/<time>/<hallname>/<order_indic>/<from_page>')
 @login_required
 def increment(email, time, hallname, order_indic, from_page):
@@ -293,8 +314,6 @@ def increment(email, time, hallname, order_indic, from_page):
 	params_dict = {"right_time":time, "right_email":email, "right_hallname":hallname, "liker_email": g.user["email"]}
 	
 
-	#params_dict2 = {}
-	#dict.__setitem__('newkey2', 'GEEK')
 	cursor = g.conn.execute(text(
 		'SELECT *'
 		' FROM HasLike'
@@ -327,7 +346,9 @@ def increment(email, time, hallname, order_indic, from_page):
 			' SET like_number = like_number - 1'
 			' WHERE time=:right_time AND email=:right_email AND hallname=:right_hallname'
 		), params_dict)
-		g.conn.commit()			
+		g.conn.commit()		
+
+	# Check from_page to see where to redirect to	
 	if from_page=="hallpage":
 		return redirect(url_for("reviews.hallpage", hallname=hallname, order=order))
 	else:
@@ -335,6 +356,14 @@ def increment(email, time, hallname, order_indic, from_page):
 
 
 
+"""
+Updates the ordering of reviews for dining hall pages, orders reviews by either time or number of likes.
+in params:
+	hallname -> the name of the dining hall representing the page having its order updated
+out context:
+	hallname -> name of the dining hall representing the page being redirected to
+	order -> integer in {0, 1} indicating order of page. 0 indicates order by time, 1 indicates order by number of likes.
+"""
 @bp.route('/update_order/<hallname>/', methods=['POST'])
 def update_order(hallname):
 	if request.form["options"]!="newest":
@@ -344,6 +373,15 @@ def update_order(hallname):
 
 	return redirect(url_for("reviews.hallpage", hallname=hallname, order=order))
 
+
+"""
+Updates the order of reviews on profile pages, orders reviews by either time or number of likes.
+in params:
+	email -> email of profile page
+out context:
+	email -> email of profile page
+	order -> integer in {0, 1} indicating order of page. 0 indicates order by time, 1 indicates order by number of likes.
+"""
 @bp.route('/update_order_profile/<email>/', methods=['POST'])
 def update_order_profile(email):
 	if request.form["options"]!="newest":
@@ -354,10 +392,21 @@ def update_order_profile(email):
 	return redirect(url_for("reviews.profile", email=email, order=order))
 
 
+"""
+Endpoint to add a review. GET method gets page with form to create a review, POST method submits information in form to create new review in ReviewMake table.
+in params:
+	hallname -> name of dining hall review is being made for
+out context:
+	GET:
+		hallname -> hall name of dining hall being reviewed
+	POST:
+		hallname -> hall name for dining hall page to be rendered
+"""
 @bp.route('/add_review/<hallname>/', methods=['POST', 'GET'])
 @login_required
 def add_review(hallname):
 	if request.method=="POST":
+		# Get current time to use as time the review was made, then insert row into ReviewMake table
 		now = datetime.now()
 		time = now.strftime("%Y-%m-%d %H:%M:%S")
 		rating = int(request.form["inlineRadioOptions"])
@@ -370,13 +419,29 @@ def add_review(hallname):
 		), params_dict)
 		g.conn.commit() 			
 
+		# after updating database, redirect back to hall page
 		return redirect(url_for("reviews.hallpage", hallname=hallname, order=0))
 
 	return render_template("reviews/add_review.html", hallname=hallname)
 
+
+"""
+Gets the profile page for a user. User must be logged in.
+in params:
+	email -> email of profile page being rendered
+	order (default 0) -> order of listing reviews. 0 indicates by time, 1 indicates by number of likes.
+out context:
+	reviews -> table of reviews made by profile page user
+	user -> row from ColumbiaStudents table containing information on profile page user
+	num_reviews -> number of reviews profile page user has made
+	avg_rating -> average rating given by profile page user
+	isactive1, isactive 2 -> list that indicates ordering for front-end use. isactive1 is for the radio button to order by time, isactive2 is for the radio button to order by number of likes. Is either ["",""] or ["active", "checked"], with the latter indicating that the button is active/checked.
+	email -> email of the profile page user
+"""
 @bp.route('/profile/<email>/<int:order>', methods=['GET'])
 @login_required
 def profile(email, order=0):
+	# Query getting row in ColumbiaStudents for profile page user
 	user = g.conn.execute(text(
 		'SELECT *'
 		' FROM ColumbiaStudents C'
@@ -384,6 +449,7 @@ def profile(email, order=0):
 	), {"email":email}).fetchone()
 	g.conn.commit()
 
+	# Query getting the number of reviews given by profile page user
 	num_reviews = g.conn.execute(text(
 		'SELECT COUNT(*)'
 		' FROM ReviewMake R'
@@ -391,6 +457,7 @@ def profile(email, order=0):
 	), {"email":email}).fetchone()
 	g.conn.commit()
 
+	# Query getting the average rating given by profile page user
 	avg_rating = g.conn.execute(text(
 		'SELECT AVG(R.rating)'
 		' FROM ReviewMake R'
@@ -403,13 +470,8 @@ def profile(email, order=0):
 	if order==1:
 		isactive1=["",""]
 		isactive2=["active", "checked"]	
-		# reviews = g.conn.execute(text(
-		# 	'SELECT *'
-		# 	' FROM ReviewMake R'
-		# 	' WHERE R.hallname = :hallname AND R.time>:d1 AND R.time<:d2'
-		# 	' ORDER BY R.like_number DESC'	
-		# ), params_dict).fetchall()
 
+		# Query getting reviews given by profile page user, ordering by number of likes
 		reviews = g.conn.execute(text(
 			'SELECT R.hallname, R.time, R.like_number, R.comment, B.liker_email, R.rating'
 			' FROM ReviewMake R LEFT JOIN ('
@@ -425,12 +487,8 @@ def profile(email, order=0):
 	else:
 		isactive1=["active", "checked"]
 		isactive2=["",""]
-		# reviews = g.conn.execute(text(
-		# 	'SELECT *'
-		# 	' FROM ReviewMake R'
-		# 	' WHERE R.hallname = :hallname AND R.time>:d1 AND R.time<:d2'
-		# 	' ORDER BY R.time DESC'
-		# ), params_dict).fetchall()
+
+		# Query getting reviews given by profile page user, ordering by time
 		reviews = g.conn.execute(text(
 			'SELECT R.hallname, R.time, R.like_number, R.comment, B.liker_email, R.rating'
 			' FROM ReviewMake R LEFT JOIN ('
@@ -446,6 +504,10 @@ def profile(email, order=0):
 	g.conn.commit()
 	return render_template("reviews/profile.html", **{"reviews":reviews, "user":user, "num_reviews":num_reviews[0], "avg_rating":round(avg_rating[0],2),  "isactive1":isactive1, "isactive2":isactive2, "email":email})
 
+
+"""
+Endpoint editing profile. In progress -- requires further coding. 
+"""
 @bp.route('/edit-profile/<email>', methods=['POST','GET'])
 @login_required
 def edit_profile(email):
@@ -453,7 +515,9 @@ def edit_profile(email):
 		return redirect(url_for('reviews.profile', email=email, order=0))
 	return render_template("reviews/edit_profile_form.html", email=email)
 
-# View for home page of getting data on halls throughout all time
+"""
+Endpoint viewing data on dining hall data for all time. In progress -- requires further coding. 
+"""
 @bp.route('/dining-hall-data/<hallname>')
 def macro_halls(hallname):
 	if hallname=="":
