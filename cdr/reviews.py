@@ -370,24 +370,6 @@ def update_order(hallname):
 
 
 """
-Updates the order of reviews on profile pages, orders reviews by either time or number of likes.
-in params:
-	email -> email of profile page
-out context:
-	email -> email of profile page
-	order -> integer in {0, 1} indicating order of page. 0 indicates order by time, 1 indicates order by number of likes.
-"""
-@bp.route('/update_order_profile/<email>/', methods=['POST'])
-def update_order_profile(email):
-	if request.form["options"]!="newest":
-		order=1
-	else:
-		order=0
-
-	return redirect(url_for("profile.get_profile", email=email, order=order))
-
-
-"""
 Endpoint to add a review. GET method gets page with form to create a review, POST method submits information in form to create new review in ReviewMake table.
 in params:
 	hallname -> name of dining hall review is being made for

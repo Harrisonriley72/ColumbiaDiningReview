@@ -15,7 +15,7 @@
 
 			<h2 class="text-center my-3">Reviews by {{ user.fname }} {{user.lname}}</h2>
 
-			<form method="POST" action="{{ url_for('reviews.update_order_profile', email=email) }}">
+			<form method="POST" action="{{ url_for('profile.update_order', email=email) }}">
 				<div class="btn-group btn-group-toggle" data-toggle="buttons">
 				  <label class="btn btn-secondary {{isactive1[0]}}">
 				    <input type="radio" name="options" id="option1" autocomplete="off" {{isactive1[1]}} value="newest"> Newest
