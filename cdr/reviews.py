@@ -402,18 +402,6 @@ def add_review(hallname):
 	return render_template("reviews/add_review.html", hallname=hallname)
 
 
-
-
-"""
-Endpoint editing profile. In progress -- requires further coding. 
-"""
-@bp.route('/edit-profile/<email>', methods=['POST','GET'])
-@login_required
-def edit_profile(email):
-	if request.method=="POST":
-		return redirect(url_for('profile.get_profile', email=email, order=0))
-	return render_template("reviews/edit_profile_form.html", email=email)
-
 """
 Endpoint viewing data on dining hall data for all time. In progress -- requires further coding. 
 """

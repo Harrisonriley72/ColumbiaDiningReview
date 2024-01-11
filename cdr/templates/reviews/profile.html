@@ -11,7 +11,7 @@
 			<p><span class="fw-bold">Average review rating:</span> {{avg_rating}}</p>	
 			<p><span class="fw-bold">Favorite food:</span> {% if user.fav_foodname %} {{user.fav_foodname}} from {{user.fav_foodhallname}}
 			{% else %}N/A{% endif %}
-			{% if g.user["email"]==user.email%} <a href="{{url_for('reviews.edit_profile', email=g.user['email'])}}">edit</a> {% endif%} </p>
+			{% if g.user["email"]==user.email%} <a href="{{url_for('profile.edit_profile', email=g.user['email'])}}">edit</a> {% endif%} </p>
 
 			<h2 class="text-center my-3">Reviews by {{ user.fname }} {{user.lname}}</h2>
 
