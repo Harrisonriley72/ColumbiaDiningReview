@@ -347,7 +347,7 @@ def increment(email, time, hallname, order, from_page):
 	if from_page=="hallpage":
 		return redirect(url_for("reviews.hallpage", hallname=hallname, order=order))
 	else:
-		return redirect(url_for("reviews.profile", email=email, order=order))
+		return redirect(url_for("profile.get_profile", email=email, order=order))
 
 
 
@@ -384,7 +384,7 @@ def update_order_profile(email):
 	else:
 		order=0
 
-	return redirect(url_for("reviews.profile", email=email, order=order))
+	return redirect(url_for("profile.get_profile", email=email, order=order))
 
 
 """
@@ -420,84 +420,6 @@ def add_review(hallname):
 	return render_template("reviews/add_review.html", hallname=hallname)
 
 
-"""
-Gets the profile page for a user. User must be logged in.
-in params:
-	email -> email of profile page being rendered
-	order (default 0) -> order of listing reviews. 0 indicates by time, 1 indicates by number of likes.
-out context:
-	reviews -> table of reviews made by profile page user
-	user -> row from ColumbiaStudents table containing information on profile page user
-	num_reviews -> number of reviews profile page user has made
-	avg_rating -> average rating given by profile page user
-	isactive1, isactive 2 -> list that indicates ordering for front-end use. isactive1 is for the radio button to order by time, isactive2 is for the radio button to order by number of likes. Is either ["",""] or ["active", "checked"], with the latter indicating that the button is active/checked.
-	email -> email of the profile page user
-"""
-@bp.route('/profile/<email>/<int:order>', methods=['GET'])
-@login_required
-def profile(email, order=0):
-	# Query getting row in ColumbiaStudents for profile page user
-	user = g.conn.execute(text(
-		'SELECT *'
-		' FROM ColumbiaStudents C'
-		' WHERE C.email=:email'
-	), {"email":email}).fetchone()
-	g.conn.commit()
-
-	# Query getting the number of reviews given by profile page user
-	num_reviews = g.conn.execute(text(
-		'SELECT COUNT(*)'
-		' FROM ReviewMake R'
-		' WHERE R.email=:email'
-	), {"email":email}).fetchone()
-	g.conn.commit()
-
-	# Query getting the average rating given by profile page user
-	avg_rating = g.conn.execute(text(
-		'SELECT AVG(R.rating)'
-		' FROM ReviewMake R'
-		' WHERE R.email=:email'
-	), {"email":email}).fetchone()
-	g.conn.commit()
-
-	isactive1, isactive2 = [],[]
-	params_dict = {"email": email, "right_email":g.user["email"]}
-	if order==1:
-		isactive1=["",""]
-		isactive2=["active", "checked"]	
-
-		# Query getting reviews given by profile page user, ordering by number of likes
-		reviews = g.conn.execute(text(
-			'SELECT R.hallname, R.time, R.like_number, R.comment, B.liker_email, R.rating'
-			' FROM ReviewMake R LEFT JOIN ('
-				'SELECT R1.email, R1.time, R1.hallname, R1.rating, R1.comment, R1.like_number, H.liker_email'
-				' FROM HasLike H JOIN ReviewMake R1'
-				' ON H.liked_email=R1.email AND R1.time=H.time AND R1.hallname=H.hallname'
-				' WHERE H.liker_email=:right_email) B'
-			' ON B.email=R.email AND R.time=B.time AND R.hallname=B.hallname'
-			' WHERE R.email=:email'
-			' ORDER BY R.like_number DESC'
-		), params_dict).fetchall()				
-
-	else:
-		isactive1=["active", "checked"]
-		isactive2=["",""]
-
-		# Query getting reviews given by profile page user, ordering by time
-		reviews = g.conn.execute(text(
-			'SELECT R.hallname, R.time, R.like_number, R.comment, B.liker_email, R.rating'
-			' FROM ReviewMake R LEFT JOIN ('
-				'SELECT R1.email, R1.time, R1.hallname, R1.rating, R1.comment, R1.like_number, H.liker_email'
-				' FROM HasLike H JOIN ReviewMake R1'
-				' ON H.liked_email=R1.email AND R1.time=H.time AND R1.hallname=H.hallname'
-				' WHERE H.liker_email=:right_email) B'
-			' ON B.email=R.email AND R.time=B.time AND R.hallname=B.hallname'
-			' WHERE R.email=:email'
-			' ORDER BY R.time DESC'
-		), params_dict).fetchall()				
-
-	g.conn.commit()
-	return render_template("reviews/profile.html", **{"reviews":reviews, "user":user, "num_reviews":num_reviews[0], "avg_rating":round(avg_rating[0],2),  "isactive1":isactive1, "isactive2":isactive2, "email":email})
 
 
 """
@@ -507,7 +429,7 @@ Endpoint editing profile. In progress -- requires further coding.
 @login_required
 def edit_profile(email):
 	if request.method=="POST":
-		return redirect(url_for('reviews.profile', email=email, order=0))
+		return redirect(url_for('profile.get_profile', email=email, order=0))
 	return render_template("reviews/edit_profile_form.html", email=email)
 
 """

@@ -68,7 +68,7 @@
     	{% for review in reviews %}
 			<div class="card my-2">
 			  <div class="card-header">
-			  	<span class="fw-bold"><a href="{{ url_for('reviews.profile', email=review.email, order=0)}}">{{review.fname}} {{review.lname}}</a></span>
+			  	<span class="fw-bold"><a href="{{ url_for('profile.get_profile', email=review.email, order=0)}}">{{review.fname}} {{review.lname}}</a></span>
 			  	<span class="text-right">{{review.time}}</span>
 			  </div>
 			  <div class="card-body">

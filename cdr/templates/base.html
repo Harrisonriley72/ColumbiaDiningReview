@@ -14,7 +14,7 @@
   <ul>
     {% if g.user %}
       <li><a class="top-link" href="{{ url_for('auth.logout') }}">Log Out</a>
-      <li><a class="top-link" href="{{ url_for('reviews.profile', email=g.user['email'], order=0)}}">{{ g.user["email"] }}</a></span>
+      <li><a class="top-link" href="{{ url_for('profile.get_profile', email=g.user['email'], order=0)}}">{{ g.user["email"] }}</a></span>
     {% else %}
       <li><a href="{{ url_for('auth.register') }}">Register</a>
       <li><a href="{{ url_for('auth.login') }}">Log In</a>

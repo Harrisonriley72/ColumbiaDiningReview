@@ -34,11 +34,14 @@ def teardown_request(exception):
 import auth
 app.register_blueprint(auth.bp)
 
-# reviews module used for every other aspect of application (dining hall pages, profile pages, home page)
+# reviews module used for hall pages
 import reviews
 app.register_blueprint(reviews.bp)
 app.add_url_rule('/', endpoint='index')
 
+# profile module used for profile pages
+import profile
+app.register_blueprint(profile.bp)
 
 if __name__ == "__main__":
     import click
