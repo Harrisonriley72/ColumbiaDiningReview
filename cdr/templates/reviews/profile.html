@@ -40,7 +40,7 @@
 						  	<p class="fw-bold">Rating: {{review.rating}}<p>
 						  	<div class="mt-3">
 						    <span class="fw-bold">{{review.like_number}} Likes</span>
-						    <a href="{{ url_for('reviews.increment', email=email, time=review.time, hallname=review.hallname, order_indic='0'+isactive1[0], from_page='profile') }}" class="btn btn-secondary mx-3">
+						    <a href="{{ url_for('reviews.increment', email=email, time=review.time, hallname=review.hallname, order=order, from_page='profile') }}" class="btn btn-secondary mx-3">
 						    	{% if review.liker_email %}un{% endif %}like
 						    </a>
 						    </div>			  		

@@ -234,7 +234,7 @@ def hallpage(hallname, order=0):
 
 		print(user_ratings_dict)
 
-	context = {"hallname": hallname, "fooditems": fooditems, "reviews":reviews, "isactive1":isactive1, "isactive2":isactive2, "foodratings":foodratings, "user_ratings_dict":user_ratings_dict}
+	context = {"hallname": hallname, "fooditems": fooditems, "reviews":reviews, "isactive1":isactive1, "isactive2":isactive2, "foodratings":foodratings, "user_ratings_dict":user_ratings_dict,"order": order}
 	return render_template('reviews/hallpage.html', **context)
 
 """
@@ -242,19 +242,16 @@ Endpoint for user to rate food item. User must be logged in.
 in params:
 	foodname -> the name of the food being rated
 	hallname_servedat -> the name of the dining hall the rated food is served at
-	order_indic -> indicates the ordering of the page. "0active" indicates that order is by time, "0" indicates order is by number of likes
+	order -> indicates the ordering of the page. 0 indicates that order is by time, 1 indicates order is by number of likes
 	from_page -> indicates the page that the request came from so that it knows where to redirect -- not currenly useful but will be if other pages are added to the site from which a food item can be liked 
 out context: (after operation redirects back to page request came from)
 	hallname -> the dining hall name for the hall page the request came from 
 	order -> the order that was set on the page when the user rated the food item
 """
-@bp.route('/rate_fooditem/<foodname>/<hallname_servedat>/<order_indic>/<from_page>', methods=["POST"])
+@bp.route('/rate_fooditem/<foodname>/<hallname_servedat>/<order>/<from_page>', methods=["POST"])
 @login_required
-def rate_fooditem(foodname, hallname_servedat, order_indic, from_page):
+def rate_fooditem(foodname, hallname_servedat, order, from_page):
 	# Note: hallname signifies either hallname or profile email, depending on which page like is coming from
-	order=1
-	if order_indic=="0active":
-		order=0
 
 	new_rating = request.form["rating"]
 	if new_rating == "":
@@ -299,18 +296,16 @@ in params:
 	email -> email of the user who created the review that the current user is attempting to like
 	time -> time of the review that current user is attempting to like
 	hallname -> name of the dining hall the review is on
-	order_indic -> indicates the ordering of the page. "0active" indicates that order is by time, "0" indicates order is by number of likes
+	order -> indicates the ordering of the page. 0 indicates that order is by time, 1 indicates order is by number of likes
 	from_page -> indicates the page that the request came from so that it knows where to redirect
 	hallname -> the dining hall name for the hall page the request came from 
 	order -> the order that was set on the page when the user attempted the like
 """
-@bp.route('/increase_likes/<email>/<time>/<hallname>/<order_indic>/<from_page>')
+@bp.route('/increase_likes/<email>/<time>/<hallname>/<order>/<from_page>')
 @login_required
-def increment(email, time, hallname, order_indic, from_page):
+def increment(email, time, hallname, order, from_page):
 	# Note: hallname signifies either hallname or profile email, depending on which page like is coming from
-	order=1
-	if order_indic=="0active":
-		order=0
+
 	params_dict = {"right_time":time, "right_email":email, "right_hallname":hallname, "liker_email": g.user["email"]}
 	
 
