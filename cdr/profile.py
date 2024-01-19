@@ -76,10 +76,13 @@ def get_profile(email, order=0):
             ' ON B.email=R.email AND R.time=B.time AND R.hallname=B.hallname'
             ' WHERE R.email=:email'
             ' ORDER BY R.time DESC'
-        ), params_dict).fetchall()              
+        ), params_dict).fetchall()
+
+    if avg_rating[0]:
+        input_avg_rating = round(avg_rating[0],2);              
 
     g.conn.commit()
-    return render_template("profile/profile.html", **{"reviews":reviews, "user":user, "num_reviews":num_reviews[0], "avg_rating":round(avg_rating[0],2), "email":email, "order":order})
+    return render_template("profile/profile.html", **{"reviews":reviews, "user":user, "num_reviews":num_reviews[0], "avg_rating":input_avg_rating, "email":email, "order":order})
 
 
 """
