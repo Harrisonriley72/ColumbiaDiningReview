@@ -6,10 +6,10 @@ from flask import (
     Blueprint, flash, g, redirect, render_template, request, session, url_for
 )
 from werkzeug.security import check_password_hash, generate_password_hash
-from get_menu import get_menu, dining_halls
+from cdr.get_menu import get_menu, dining_halls
 from datetime import datetime, date, timedelta
 
-from auth import login_required
+from cdr.auth import login_required
 
 bp = Blueprint('reviews', __name__)
 
