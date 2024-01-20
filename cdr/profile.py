@@ -78,7 +78,7 @@ def get_profile(email, order=0):
             ' ORDER BY R.time DESC'
         ), params_dict).fetchall()
 
-    if avg_rating[0]:
+    if not avg_rating[0]:
         input_avg_rating = round(avg_rating[0],2);              
 
     g.conn.commit()
